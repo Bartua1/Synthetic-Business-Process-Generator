@@ -1,0 +1,1037 @@
+case_id,activity,timestamp,complete_timestamp,customer_id,priority,channel,department,product_category,value,resource,duration_minutes,cost,status,system,automated
+CASE_00001,Activity_3,2023-07-04 10:54:54.994835,2023-07-04 15:13:54.994835,CUST_9889,Medium,Email,Operations,Type B,5211.57,Operations_Agent_2,259,89.86,Delayed,System C,True
+CASE_00002,Activity_3,2023-03-14 09:00:20.002961,2023-03-14 12:57:20.002961,CUST_5158,Low,In-Person,Customer Service,Type C,9068.25,Customer_Agent_2,237,177.78,Expedited,System B,True
+CASE_00003,Activity_3,2023-06-06 14:26:31.770397,2023-06-07 09:00:31.770397,CUST_7793,High,In-Person,Operations,Type C,9763.72,Operations_Agent_1,356,109.66,Expedited,System C,True
+CASE_00004,Activity_3,2023-04-25 09:42:30.633878,2023-04-25 15:03:30.633878,CUST_2560,Medium,Phone,Sales,Type C,9003.92,Sales_Agent_2,321,83.2,Expedited,System A,False
+CASE_00005,Activity_3,2023-02-21 09:00:11.735637,2023-02-21 16:28:11.735637,CUST_5481,Low,Email,Customer Service,Type C,7915.95,Customer_Agent_1,448,92.32,Delayed,System A,True
+CASE_00006,Activity_3,2023-06-19 09:00:47.822902,2023-06-19 14:36:47.822902,CUST_2703,High,Email,Operations,Type C,6867.44,Operations_Agent_2,336,115.57,Expedited,System A,False
+CASE_00007,Activity_3,2023-01-12 17:20:11.024906,2023-01-13 09:00:11.024906,CUST_4502,High,In-Person,Operations,Type A,3822.1,Operations_Agent_1,410,79.37,Completed,System C,True
+CASE_00008,Activity_3,2023-12-26 09:00:34.666163,2023-12-26 14:30:34.666163,CUST_8577,Low,In-Person,Finance,Type A,7753.55,Finance_Agent_2,330,134.72,Delayed,System A,True
+CASE_00009,Activity_1,2023-05-09 09:00:20.903323,2023-05-09 16:09:20.903323,CUST_1588,High,Web,Operations,Type A,4468.21,Operations_Agent_1,429,169.13,Expedited,System A,True
+CASE_00009,Activity_2,2023-05-09 16:09:20.903323,2023-05-09 17:12:20.903323,CUST_1588,High,Web,Operations,Type A,4468.21,Operations_Agent_3,63,154.69,Completed,System B,True
+CASE_00009,Activity_3,2023-05-09 17:12:20.903323,2023-05-10 09:00:20.903323,CUST_1588,High,Web,Operations,Type A,4468.21,Operations_Agent_2,464,119.97,Delayed,System C,True
+CASE_00010,Activity_3,2023-09-04 09:00:50.656631,2023-09-04 09:41:50.656631,CUST_5781,Medium,Phone,Finance,Type B,101.76,Finance_Agent_2,41,166.8,Completed,System B,False
+CASE_00011,Activity_1,2023-05-02 09:00:51.085985,2023-05-02 16:41:51.085985,CUST_7226,Low,In-Person,Operations,Type A,1774.95,Operations_Agent_3,461,143.05,Expedited,System C,False
+CASE_00011,Activity_2,2023-05-02 16:41:51.085985,2023-05-03 09:00:51.085985,CUST_7226,Low,In-Person,Operations,Type A,1774.95,Operations_Agent_2,406,169.92,Delayed,System A,False
+CASE_00011,Activity_3,2023-05-03 09:00:51.085985,2023-05-03 15:47:51.085985,CUST_7226,Low,In-Person,Operations,Type A,1774.95,Operations_Agent_1,407,85.89,Delayed,System B,False
+CASE_00012,Activity_1,2023-10-17 09:00:11.794494,2023-10-17 11:39:11.794494,CUST_1475,Low,Phone,Finance,Type C,1167.2,Finance_Agent_1,159,195.17,Completed,System C,False
+CASE_00012,Activity_2,2023-10-17 11:39:11.794494,2023-10-18 09:00:11.794494,CUST_1475,Low,Phone,Finance,Type C,1167.2,Finance_Agent_1,422,128.83,Delayed,System C,True
+CASE_00012,Activity_3,2023-10-18 09:00:11.794494,2023-10-18 16:43:11.794494,CUST_1475,Low,Phone,Finance,Type C,1167.2,Finance_Agent_1,463,123.07,Delayed,System B,True
+CASE_00013,Activity_1,2023-10-03 09:00:05.646507,2023-10-03 11:53:05.646507,CUST_2477,Medium,Email,Sales,Type B,4709.97,Sales_Agent_2,173,81.96,Completed,System A,False
+CASE_00013,Activity_2,2023-10-03 11:53:05.646507,2023-10-03 12:34:05.646507,CUST_2477,Medium,Email,Sales,Type B,4709.97,Sales_Agent_2,41,92.15,Completed,System C,False
+CASE_00013,Activity_3,2023-10-03 12:34:05.646507,2023-10-03 14:55:05.646507,CUST_2477,Medium,Email,Sales,Type B,4709.97,Sales_Agent_3,141,115.49,Expedited,System A,True
+CASE_00014,Activity_1,2023-01-05 10:10:54.462815,2023-01-05 16:36:54.462815,CUST_2660,Medium,Web,Finance,Type A,2538.52,Finance_Agent_2,386,209.26,Completed,System A,True
+CASE_00014,Activity_2,2023-01-05 16:36:54.462815,2023-01-06 09:00:54.462815,CUST_2660,Medium,Web,Finance,Type A,2538.52,Finance_Agent_2,205,154.96,Expedited,System A,False
+CASE_00014,Activity_3,2023-01-06 09:00:54.462815,2023-01-06 16:14:54.462815,CUST_2660,Medium,Web,Finance,Type A,2538.52,Finance_Agent_1,434,209.42,Expedited,System A,False
+CASE_00015,Activity_1,2023-05-10 09:00:00.279241,2023-05-10 15:21:00.279241,CUST_2408,Medium,Email,Legal,Type C,835.0,Legal_Agent_3,381,191.08,Completed,System B,False
+CASE_00015,Activity_2,2023-05-10 15:21:00.279241,2023-05-10 15:58:00.279241,CUST_2408,Medium,Email,Legal,Type C,835.0,Legal_Agent_3,37,196.75,Completed,System A,True
+CASE_00015,Activity_3,2023-05-10 15:58:00.279241,2023-05-11 09:00:00.279241,CUST_2408,Medium,Email,Legal,Type C,835.0,Legal_Agent_2,422,192.58,Delayed,System A,False
+CASE_00016,Activity_1,2023-09-25 11:14:35.583810,2023-09-25 14:18:35.583810,CUST_2301,High,Email,Sales,Type B,604.18,Sales_Agent_3,184,98.58,Completed,System A,True
+CASE_00016,Activity_2,2023-09-25 14:18:35.583810,2023-09-26 09:00:35.583810,CUST_2301,High,Email,Sales,Type B,604.18,Sales_Agent_1,335,53.73,Delayed,System C,True
+CASE_00016,Activity_3,2023-09-26 09:00:35.583810,2023-09-26 12:15:35.583810,CUST_2301,High,Email,Sales,Type B,604.18,Sales_Agent_1,195,142.14,Expedited,System B,True
+CASE_00017,Activity_1,2023-01-18 09:00:33.295399,2023-01-18 14:52:33.295399,CUST_4786,Low,Phone,Operations,Type B,9868.46,Operations_Agent_1,352,139.02,Completed,System A,True
+CASE_00017,Activity_2,2023-01-18 14:52:33.295399,2023-01-19 09:00:33.295399,CUST_4786,Low,Phone,Operations,Type B,9868.46,Operations_Agent_2,394,87.99,Expedited,System B,True
+CASE_00017,Activity_3,2023-01-19 09:00:33.295399,2023-01-19 15:29:33.295399,CUST_4786,Low,Phone,Operations,Type B,9868.46,Operations_Agent_3,389,105.73,Expedited,System B,False
+CASE_00018,Activity_1,2023-06-06 09:00:36.848755,2023-06-06 12:39:36.848755,CUST_5590,Medium,Phone,Customer Service,Type B,9460.99,Customer_Agent_1,219,156.75,Expedited,System A,True
+CASE_00018,Activity_2,2023-06-06 12:39:36.848755,2023-06-07 09:00:36.848755,CUST_5590,Medium,Phone,Customer Service,Type B,9460.99,Customer_Agent_1,415,175.54,Expedited,System B,False
+CASE_00018,Activity_3,2023-06-07 09:00:36.848755,2023-06-07 13:55:36.848755,CUST_5590,Medium,Phone,Customer Service,Type B,9460.99,Customer_Agent_3,295,116.14,Completed,System B,False
+CASE_00019,Activity_1,2023-11-03 09:00:25.166447,2023-11-03 11:12:25.166447,CUST_1931,Low,Email,Legal,Type B,4583.29,Legal_Agent_2,132,141.3,Expedited,System A,False
+CASE_00019,Activity_2,2023-11-03 11:12:25.166447,2023-11-03 17:39:25.166447,CUST_1931,Low,Email,Legal,Type B,4583.29,Legal_Agent_3,387,138.4,Expedited,System B,True
+CASE_00019,Activity_3,2023-11-03 17:39:25.166447,2023-11-07 09:00:25.166447,CUST_1931,Low,Email,Legal,Type B,4583.29,Legal_Agent_2,181,164.02,Delayed,System C,False
+CASE_00020,Activity_1,2023-07-27 09:00:59.616829,2023-07-27 14:50:59.616829,CUST_3025,Medium,Email,Finance,Type B,5382.25,Finance_Agent_2,350,144.93,Delayed,System B,True
+CASE_00020,Activity_2,2023-07-27 14:50:59.616829,2023-07-28 09:00:59.616829,CUST_3025,Medium,Email,Finance,Type B,5382.25,Finance_Agent_2,353,209.64,Delayed,System B,True
+CASE_00020,Activity_3,2023-07-28 09:00:59.616829,2023-07-28 09:48:59.616829,CUST_3025,Medium,Email,Finance,Type B,5382.25,Finance_Agent_1,48,173.35,Completed,System C,True
+CASE_00021,Activity_3,2023-11-14 09:00:10.756900,2023-11-14 15:47:10.756900,CUST_1526,Low,In-Person,Operations,Type A,7336.37,Operations_Agent_3,407,164.57,Expedited,System C,True
+CASE_00022,Activity_1,2023-02-07 09:00:18.006459,2023-02-07 14:28:18.006459,CUST_1285,Low,Phone,Sales,Type C,4339.31,Sales_Agent_2,328,139.28,Expedited,System B,True
+CASE_00022,Activity_2,2023-02-07 14:28:18.006459,2023-02-07 17:51:18.006459,CUST_1285,Low,Phone,Sales,Type C,4339.31,Sales_Agent_2,203,51.38,Completed,System B,True
+CASE_00022,Activity_3,2023-02-07 17:51:18.006459,2023-02-08 09:00:18.006459,CUST_1285,Low,Phone,Sales,Type C,4339.31,Sales_Agent_3,213,55.02,Delayed,System C,False
+CASE_00023,Activity_3,2023-05-15 10:12:01.360277,2023-05-15 15:37:01.360277,CUST_5844,High,Web,Sales,Type A,259.06,Sales_Agent_1,325,63.14,Completed,System A,False
+CASE_00024,Activity_1,2023-01-19 09:00:04.152365,2023-01-19 13:43:04.152365,CUST_1639,High,Web,Finance,Type B,3685.54,Finance_Agent_1,283,206.0,Expedited,System B,True
+CASE_00024,Activity_2,2023-01-19 13:43:04.152365,2023-01-20 09:00:04.152365,CUST_1639,High,Web,Finance,Type B,3685.54,Finance_Agent_2,326,205.47,Delayed,System C,False
+CASE_00024,Activity_3,2023-01-20 09:00:04.152365,2023-01-20 16:56:04.152365,CUST_1639,High,Web,Finance,Type B,3685.54,Finance_Agent_2,476,152.97,Completed,System B,True
+CASE_00025,Activity_3,2023-02-09 09:00:15.345270,2023-02-09 13:35:15.345270,CUST_5143,Medium,Email,Legal,Type B,5080.77,Legal_Agent_3,275,189.86,Delayed,System C,False
+CASE_00026,Activity_3,2023-11-27 09:00:12.808393,2023-11-27 13:24:12.808393,CUST_2599,Medium,Web,Customer Service,Type A,1354.82,Customer_Agent_3,264,121.21,Delayed,System C,False
+CASE_00027,Activity_1,2023-06-20 10:19:22.359902,2023-06-20 12:40:22.359902,CUST_4542,Low,Email,Sales,Type B,3347.52,Sales_Agent_1,141,107.4,Delayed,System B,False
+CASE_00027,Activity_2,2023-06-20 12:40:22.359902,2023-06-21 09:00:22.359902,CUST_4542,Low,Email,Sales,Type B,3347.52,Sales_Agent_1,445,99.07,Delayed,System A,True
+CASE_00027,Activity_3,2023-06-21 09:00:22.359902,2023-06-21 13:53:22.359902,CUST_4542,Low,Email,Sales,Type B,3347.52,Sales_Agent_3,293,89.73,Delayed,System B,False
+CASE_00028,Activity_3,2023-11-14 09:00:03.149560,2023-11-14 12:53:03.149560,CUST_1768,High,Phone,Sales,Type B,9535.68,Sales_Agent_3,233,140.79,Delayed,System A,False
+CASE_00029,Activity_3,2023-03-08 09:00:20.208929,2023-03-08 16:27:20.208929,CUST_2176,Medium,In-Person,Finance,Type B,9664.03,Finance_Agent_1,447,202.76,Delayed,System A,True
+CASE_00030,Activity_1,2023-02-14 11:38:51.859111,2023-02-14 14:33:51.859111,CUST_9254,Low,Phone,Customer Service,Type C,6038.59,Customer_Agent_2,175,138.27,Delayed,System A,True
+CASE_00030,Activity_2,2023-02-14 14:33:51.859111,2023-02-15 09:00:51.859111,CUST_9254,Low,Phone,Customer Service,Type C,6038.59,Customer_Agent_3,337,120.01,Expedited,System B,False
+CASE_00030,Activity_3,2023-02-15 09:00:51.859111,2023-02-15 09:31:51.859111,CUST_9254,Low,Phone,Customer Service,Type C,6038.59,Customer_Agent_2,31,92.66,Delayed,System A,False
+CASE_00031,Activity_1,2023-11-23 09:00:36.632157,2023-11-23 16:20:36.632157,CUST_4106,High,Phone,Legal,Type B,9963.47,Legal_Agent_1,440,211.65,Delayed,System A,False
+CASE_00031,Activity_2,2023-11-23 16:20:36.632157,2023-11-24 09:00:36.632157,CUST_4106,High,Phone,Legal,Type B,9963.47,Legal_Agent_3,424,212.7,Completed,System C,True
+CASE_00031,Activity_3,2023-11-24 09:00:36.632157,2023-11-24 10:57:36.632157,CUST_4106,High,Phone,Legal,Type B,9963.47,Legal_Agent_3,117,163.25,Delayed,System A,False
+CASE_00032,Activity_3,2023-05-25 10:56:40.048731,2023-05-25 17:43:40.048731,CUST_8851,Medium,Phone,Finance,Type C,8695.14,Finance_Agent_2,407,140.0,Expedited,System A,True
+CASE_00033,Activity_1,2023-05-22 09:00:40.729107,2023-05-22 11:54:40.729107,CUST_7197,Medium,Email,Customer Service,Type C,824.33,Customer_Agent_3,174,174.06,Expedited,System B,True
+CASE_00033,Activity_2,2023-05-22 11:54:40.729107,2023-05-22 12:56:40.729107,CUST_7197,Medium,Email,Customer Service,Type C,824.33,Customer_Agent_2,62,183.95,Delayed,System A,False
+CASE_00033,Activity_3,2023-05-22 12:56:40.729107,2023-05-23 09:00:40.729107,CUST_7197,Medium,Email,Customer Service,Type C,824.33,Customer_Agent_1,373,137.25,Expedited,System B,False
+CASE_00034,Activity_3,2023-09-05 09:00:22.590560,2023-09-05 16:16:22.590560,CUST_7473,Medium,Phone,Finance,Type B,6044.89,Finance_Agent_2,436,176.22,Delayed,System C,True
+CASE_00035,Activity_3,2023-06-16 09:00:19.348654,2023-06-16 15:55:19.348654,CUST_9417,Medium,In-Person,Legal,Type C,5168.75,Legal_Agent_1,415,150.9,Delayed,System B,False
+CASE_00036,Activity_3,2023-10-13 09:00:17.015027,2023-10-13 12:29:17.015027,CUST_3094,High,Phone,Legal,Type A,384.09,Legal_Agent_1,209,185.33,Delayed,System A,False
+CASE_00037,Activity_1,2023-06-05 17:16:07.751518,2023-06-06 09:00:07.751518,CUST_8530,Low,Phone,Legal,Type C,6310.81,Legal_Agent_3,202,187.97,Delayed,System C,True
+CASE_00037,Activity_2,2023-06-06 09:00:07.751518,2023-06-06 12:00:07.751518,CUST_8530,Low,Phone,Legal,Type C,6310.81,Legal_Agent_1,180,178.62,Completed,System B,False
+CASE_00037,Activity_3,2023-06-06 12:00:07.751518,2023-06-06 17:45:07.751518,CUST_8530,Low,Phone,Legal,Type C,6310.81,Legal_Agent_1,345,136.55,Completed,System C,True
+CASE_00038,Activity_3,2023-06-05 09:00:04.039398,2023-06-05 15:06:04.039398,CUST_9119,Medium,In-Person,Sales,Type B,9744.95,Sales_Agent_1,366,51.53,Completed,System B,False
+CASE_00039,Activity_1,2023-03-24 09:00:19.053624,2023-03-24 09:51:19.053624,CUST_8363,High,Phone,Operations,Type C,4250.77,Operations_Agent_2,51,89.79,Delayed,System B,True
+CASE_00039,Activity_2,2023-03-24 09:51:19.053624,2023-03-24 10:23:19.053624,CUST_8363,High,Phone,Operations,Type C,4250.77,Operations_Agent_2,32,135.37,Expedited,System B,False
+CASE_00039,Activity_3,2023-03-24 10:23:19.053624,2023-03-24 11:29:19.053624,CUST_8363,High,Phone,Operations,Type C,4250.77,Operations_Agent_2,66,123.17,Completed,System B,False
+CASE_00040,Activity_3,2023-12-27 09:00:20.539244,2023-12-27 13:39:20.539244,CUST_5577,High,Web,Operations,Type A,1153.18,Operations_Agent_1,279,93.9,Completed,System A,False
+CASE_00041,Activity_3,2023-06-08 09:00:46.981957,2023-06-08 10:32:46.981957,CUST_7290,High,Email,Customer Service,Type B,8976.56,Customer_Agent_1,92,107.57,Expedited,System C,True
+CASE_00042,Activity_3,2023-08-14 14:12:16.689241,2023-08-15 09:00:16.689241,CUST_3670,Low,In-Person,Sales,Type B,6904.16,Sales_Agent_2,445,147.96,Completed,System C,False
+CASE_00043,Activity_1,2023-08-15 09:00:08.884683,2023-08-15 15:07:08.884683,CUST_4645,High,Phone,Legal,Type B,4721.86,Legal_Agent_2,367,176.96,Completed,System C,False
+CASE_00043,Activity_2,2023-08-15 15:07:08.884683,2023-08-16 09:00:08.884683,CUST_4645,High,Phone,Legal,Type B,4721.86,Legal_Agent_2,253,161.09,Completed,System B,True
+CASE_00043,Activity_3,2023-08-16 09:00:08.884683,2023-08-16 13:11:08.884683,CUST_4645,High,Phone,Legal,Type B,4721.86,Legal_Agent_1,251,157.68,Delayed,System A,False
+CASE_00044,Activity_3,2023-05-04 09:00:45.281731,2023-05-04 09:34:45.281731,CUST_8883,Low,Web,Legal,Type A,479.14,Legal_Agent_2,34,191.41,Completed,System A,False
+CASE_00045,Activity_1,2023-01-31 09:00:50.164413,2023-01-31 10:53:50.164413,CUST_9057,Medium,In-Person,Customer Service,Type A,3940.27,Customer_Agent_1,113,126.8,Completed,System C,False
+CASE_00045,Activity_2,2023-01-31 10:53:50.164413,2023-01-31 11:28:50.164413,CUST_9057,Medium,In-Person,Customer Service,Type A,3940.27,Customer_Agent_3,35,97.03,Completed,System B,False
+CASE_00045,Activity_3,2023-01-31 11:28:50.164413,2023-01-31 13:07:50.164413,CUST_9057,Medium,In-Person,Customer Service,Type A,3940.27,Customer_Agent_2,99,105.74,Completed,System C,True
+CASE_00046,Activity_1,2023-09-26 09:00:35.745213,2023-09-26 09:38:35.745213,CUST_5479,Medium,In-Person,Legal,Type B,4063.17,Legal_Agent_2,38,217.31,Expedited,System A,False
+CASE_00046,Activity_2,2023-09-26 09:38:35.745213,2023-09-26 12:36:35.745213,CUST_5479,Medium,In-Person,Legal,Type B,4063.17,Legal_Agent_3,178,189.51,Delayed,System B,False
+CASE_00046,Activity_3,2023-09-26 12:36:35.745213,2023-09-26 17:52:35.745213,CUST_5479,Medium,In-Person,Legal,Type B,4063.17,Legal_Agent_2,316,148.53,Delayed,System C,False
+CASE_00047,Activity_1,2023-05-30 14:38:12.023243,2023-05-31 09:00:12.023243,CUST_5557,Low,Phone,Operations,Type A,5121.68,Operations_Agent_2,382,88.54,Expedited,System A,True
+CASE_00047,Activity_2,2023-05-31 09:00:12.023243,2023-05-31 13:44:12.023243,CUST_5557,Low,Phone,Operations,Type A,5121.68,Operations_Agent_1,284,91.72,Expedited,System A,True
+CASE_00047,Activity_3,2023-05-31 13:44:12.023243,2023-06-01 09:00:12.023243,CUST_5557,Low,Phone,Operations,Type A,5121.68,Operations_Agent_2,404,162.26,Delayed,System A,True
+CASE_00048,Activity_3,2023-01-05 09:00:52.911250,2023-01-05 09:30:52.911250,CUST_3289,Medium,In-Person,Sales,Type B,2519.54,Sales_Agent_1,30,100.96,Expedited,System B,True
+CASE_00049,Activity_1,2023-02-24 09:00:32.350233,2023-02-24 11:35:32.350233,CUST_2887,Low,In-Person,Sales,Type A,2883.11,Sales_Agent_3,155,133.43,Delayed,System B,True
+CASE_00049,Activity_2,2023-02-24 11:35:32.350233,2023-02-24 13:50:32.350233,CUST_2887,Low,In-Person,Sales,Type A,2883.11,Sales_Agent_1,135,104.55,Delayed,System B,False
+CASE_00049,Activity_3,2023-02-24 13:50:32.350233,2023-02-28 09:00:32.350233,CUST_2887,Low,In-Person,Sales,Type A,2883.11,Sales_Agent_3,319,72.49,Expedited,System B,False
+CASE_00050,Activity_3,2023-04-19 12:02:26.003595,2023-04-19 14:39:26.003595,CUST_5037,High,Web,Sales,Type A,7187.18,Sales_Agent_1,157,87.41,Delayed,System C,False
+CASE_00051,Activity_3,2023-05-02 10:32:01.192310,2023-05-02 13:15:01.192310,CUST_1316,Medium,Phone,Operations,Type B,8899.59,Operations_Agent_1,163,95.17,Delayed,System B,False
+CASE_00052,Activity_3,2023-06-15 09:00:28.595967,2023-06-15 11:14:28.595967,CUST_2670,Low,Phone,Customer Service,Type A,816.51,Customer_Agent_3,134,143.37,Completed,System C,False
+CASE_00053,Activity_1,2023-02-15 09:00:35.178851,2023-02-15 12:08:35.178851,CUST_2874,Medium,Web,Legal,Type B,4741.69,Legal_Agent_3,188,156.55,Expedited,System C,False
+CASE_00053,Activity_2,2023-02-15 12:08:35.178851,2023-02-15 15:16:35.178851,CUST_2874,Medium,Web,Legal,Type B,4741.69,Legal_Agent_1,188,159.02,Delayed,System A,True
+CASE_00053,Activity_3,2023-02-15 15:16:35.178851,2023-02-15 15:46:35.178851,CUST_2874,Medium,Web,Legal,Type B,4741.69,Legal_Agent_3,30,186.81,Expedited,System A,False
+CASE_00054,Activity_3,2023-04-03 09:00:56.558261,2023-04-03 12:51:56.558261,CUST_6069,High,Web,Legal,Type A,705.13,Legal_Agent_2,231,227.1,Expedited,System C,False
+CASE_00055,Activity_1,2023-04-14 10:54:58.399551,2023-04-14 12:19:58.399551,CUST_1363,High,Phone,Legal,Type A,8170.35,Legal_Agent_2,85,195.39,Completed,System B,True
+CASE_00055,Activity_2,2023-04-14 12:19:58.399551,2023-04-14 13:39:58.399551,CUST_1363,High,Phone,Legal,Type A,8170.35,Legal_Agent_2,80,180.97,Delayed,System B,True
+CASE_00055,Activity_3,2023-04-14 13:39:58.399551,2023-04-14 15:01:58.399551,CUST_1363,High,Phone,Legal,Type A,8170.35,Legal_Agent_2,82,180.84,Completed,System A,False
+CASE_00056,Activity_3,2023-09-07 09:00:25.922829,2023-09-07 11:23:25.922829,CUST_7578,Low,Email,Sales,Type C,3530.01,Sales_Agent_1,143,92.09,Delayed,System C,True
+CASE_00057,Activity_3,2023-05-25 09:20:23.731911,2023-05-25 12:10:23.731911,CUST_9393,Medium,Email,Customer Service,Type A,1415.17,Customer_Agent_3,170,180.83,Completed,System B,False
+CASE_00058,Activity_3,2023-01-20 14:29:53.977430,2023-01-24 09:00:53.977430,CUST_9068,High,Phone,Customer Service,Type C,2245.56,Customer_Agent_2,352,112.19,Delayed,System A,False
+CASE_00059,Activity_1,2023-02-28 14:07:43.637940,2023-03-01 09:00:43.637940,CUST_2862,Low,In-Person,Operations,Type B,6936.54,Operations_Agent_1,443,109.28,Completed,System C,True
+CASE_00059,Activity_2,2023-03-01 09:00:43.637940,2023-03-01 11:39:43.637940,CUST_2862,Low,In-Person,Operations,Type B,6936.54,Operations_Agent_1,159,103.56,Completed,System C,True
+CASE_00059,Activity_3,2023-03-01 11:39:43.637940,2023-03-02 09:00:43.637940,CUST_2862,Low,In-Person,Operations,Type B,6936.54,Operations_Agent_3,395,91.52,Completed,System A,True
+CASE_00060,Activity_1,2023-12-05 09:00:07.168483,2023-12-05 12:21:07.168483,CUST_4364,Medium,Email,Finance,Type B,5826.08,Finance_Agent_2,201,205.35,Expedited,System A,True
+CASE_00060,Activity_2,2023-12-05 12:21:07.168483,2023-12-05 15:25:07.168483,CUST_4364,Medium,Email,Finance,Type B,5826.08,Finance_Agent_2,184,140.93,Delayed,System A,True
+CASE_00060,Activity_3,2023-12-05 15:25:07.168483,2023-12-06 09:00:07.168483,CUST_4364,Medium,Email,Finance,Type B,5826.08,Finance_Agent_1,313,155.59,Delayed,System C,True
+CASE_00061,Activity_3,2023-02-07 09:00:37.337962,2023-02-07 12:18:37.337962,CUST_4497,High,Web,Sales,Type A,4029.84,Sales_Agent_3,198,90.03,Expedited,System B,True
+CASE_00062,Activity_3,2023-07-06 09:00:21.762711,2023-07-06 10:23:21.762711,CUST_3822,Low,Email,Operations,Type A,3983.42,Operations_Agent_2,83,132.05,Expedited,System A,True
+CASE_00063,Activity_3,2023-11-28 09:00:37.250079,2023-11-28 16:24:37.250079,CUST_3634,High,Phone,Legal,Type B,4337.66,Legal_Agent_1,444,197.05,Expedited,System A,True
+CASE_00064,Activity_1,2023-01-10 09:00:40.224353,2023-01-10 16:50:40.224353,CUST_7205,High,Phone,Customer Service,Type C,8205.18,Customer_Agent_2,470,117.59,Completed,System A,False
+CASE_00064,Activity_2,2023-01-10 16:50:40.224353,2023-01-11 09:00:40.224353,CUST_7205,High,Phone,Customer Service,Type C,8205.18,Customer_Agent_2,328,155.52,Delayed,System A,False
+CASE_00064,Activity_3,2023-01-11 09:00:40.224353,2023-01-11 10:14:40.224353,CUST_7205,High,Phone,Customer Service,Type C,8205.18,Customer_Agent_3,74,135.38,Expedited,System B,True
+CASE_00065,Activity_3,2023-11-30 16:08:25.876171,2023-12-01 09:00:25.876171,CUST_2400,High,Web,Legal,Type C,478.72,Legal_Agent_3,409,205.09,Completed,System B,True
+CASE_00066,Activity_1,2023-07-25 09:00:01.710361,2023-07-25 14:51:01.710361,CUST_4346,Medium,Web,Legal,Type B,919.14,Legal_Agent_2,351,165.28,Delayed,System C,False
+CASE_00066,Activity_2,2023-07-25 14:51:01.710361,2023-07-25 15:50:01.710361,CUST_4346,Medium,Web,Legal,Type B,919.14,Legal_Agent_2,59,150.94,Delayed,System C,True
+CASE_00066,Activity_3,2023-07-25 15:50:01.710361,2023-07-26 09:00:01.710361,CUST_4346,Medium,Web,Legal,Type B,919.14,Legal_Agent_2,445,147.05,Delayed,System C,False
+CASE_00067,Activity_3,2023-07-20 09:00:26.702934,2023-07-20 16:32:26.702934,CUST_7710,High,In-Person,Finance,Type C,690.11,Finance_Agent_2,452,117.53,Delayed,System B,True
+CASE_00068,Activity_1,2023-12-05 09:00:53.778031,2023-12-05 14:28:53.778031,CUST_9305,High,Email,Legal,Type A,8928.86,Legal_Agent_2,328,171.5,Expedited,System B,False
+CASE_00068,Activity_2,2023-12-05 14:28:53.778031,2023-12-06 09:00:53.778031,CUST_9305,High,Email,Legal,Type A,8928.86,Legal_Agent_2,355,229.43,Expedited,System A,False
+CASE_00068,Activity_3,2023-12-06 09:00:53.778031,2023-12-06 13:20:53.778031,CUST_9305,High,Email,Legal,Type A,8928.86,Legal_Agent_2,260,147.17,Delayed,System C,False
+CASE_00069,Activity_1,2023-07-18 17:22:46.716132,2023-07-19 09:00:46.716132,CUST_7398,Low,Email,Legal,Type B,7686.58,Legal_Agent_2,284,159.99,Delayed,System C,True
+CASE_00069,Activity_2,2023-07-19 09:00:46.716132,2023-07-19 15:54:46.716132,CUST_7398,Low,Email,Legal,Type B,7686.58,Legal_Agent_1,414,208.01,Delayed,System B,False
+CASE_00069,Activity_3,2023-07-19 15:54:46.716132,2023-07-20 09:00:46.716132,CUST_7398,Low,Email,Legal,Type B,7686.58,Legal_Agent_3,163,193.34,Expedited,System B,False
+CASE_00070,Activity_1,2023-10-06 09:00:32.060551,2023-10-06 09:37:32.060551,CUST_4957,Low,Email,Legal,Type C,8495.51,Legal_Agent_3,37,222.5,Completed,System A,False
+CASE_00070,Activity_2,2023-10-06 09:37:32.060551,2023-10-06 12:36:32.060551,CUST_4957,Low,Email,Legal,Type C,8495.51,Legal_Agent_3,179,208.57,Delayed,System A,True
+CASE_00070,Activity_3,2023-10-06 12:36:32.060551,2023-10-10 09:00:32.060551,CUST_4957,Low,Email,Legal,Type C,8495.51,Legal_Agent_3,329,130.73,Delayed,System B,True
+CASE_00071,Activity_1,2023-05-02 09:00:47.885086,2023-05-02 16:54:47.885086,CUST_1355,High,Email,Customer Service,Type B,734.82,Customer_Agent_1,474,123.85,Delayed,System C,False
+CASE_00071,Activity_2,2023-05-02 16:54:47.885086,2023-05-03 09:00:47.885086,CUST_1355,High,Email,Customer Service,Type B,734.82,Customer_Agent_1,453,109.61,Delayed,System B,True
+CASE_00071,Activity_3,2023-05-03 09:00:47.885086,2023-05-03 11:48:47.885086,CUST_1355,High,Email,Customer Service,Type B,734.82,Customer_Agent_3,168,176.16,Delayed,System B,False
+CASE_00072,Activity_1,2023-03-23 09:00:16.366420,2023-03-23 12:22:16.366420,CUST_4871,High,Web,Finance,Type B,2093.5,Finance_Agent_1,202,165.37,Completed,System A,False
+CASE_00072,Activity_2,2023-03-23 12:22:16.366420,2023-03-24 09:00:16.366420,CUST_4871,High,Web,Finance,Type B,2093.5,Finance_Agent_2,462,150.26,Expedited,System A,True
+CASE_00072,Activity_3,2023-03-24 09:00:16.366420,2023-03-24 16:29:16.366420,CUST_4871,High,Web,Finance,Type B,2093.5,Finance_Agent_1,449,201.48,Delayed,System B,False
+CASE_00073,Activity_1,2023-03-21 09:00:27.005101,2023-03-21 11:02:27.005101,CUST_4918,High,Email,Legal,Type A,957.81,Legal_Agent_2,122,219.59,Expedited,System C,True
+CASE_00073,Activity_2,2023-03-21 11:02:27.005101,2023-03-21 14:17:27.005101,CUST_4918,High,Email,Legal,Type A,957.81,Legal_Agent_2,195,225.87,Delayed,System C,True
+CASE_00073,Activity_3,2023-03-21 14:17:27.005101,2023-03-21 17:45:27.005101,CUST_4918,High,Email,Legal,Type A,957.81,Legal_Agent_1,208,217.52,Expedited,System C,True
+CASE_00074,Activity_3,2023-10-17 16:44:55.437204,2023-10-18 09:00:55.437204,CUST_4259,Medium,Web,Legal,Type B,127.01,Legal_Agent_3,302,137.59,Completed,System B,False
+CASE_00075,Activity_3,2023-02-07 17:48:56.761499,2023-02-08 09:00:56.761499,CUST_6137,Medium,Web,Customer Service,Type C,3910.78,Customer_Agent_2,238,117.73,Delayed,System A,True
+CASE_00076,Activity_3,2023-06-20 09:00:55.524789,2023-06-20 14:25:55.524789,CUST_1027,High,Email,Sales,Type C,3524.1,Sales_Agent_2,325,64.42,Completed,System B,False
+CASE_00077,Activity_3,2023-06-06 09:00:11.054514,2023-06-06 12:17:11.054514,CUST_5587,High,In-Person,Customer Service,Type C,8257.49,Customer_Agent_1,197,118.48,Expedited,System A,False
+CASE_00078,Activity_1,2023-09-29 15:20:46.692183,2023-10-03 09:00:46.692183,CUST_8717,High,In-Person,Operations,Type B,5234.19,Operations_Agent_3,343,148.58,Completed,System A,False
+CASE_00078,Activity_2,2023-10-03 09:00:46.692183,2023-10-03 12:00:46.692183,CUST_8717,High,In-Person,Operations,Type B,5234.19,Operations_Agent_1,180,91.37,Delayed,System B,False
+CASE_00078,Activity_3,2023-10-03 12:00:46.692183,2023-10-03 13:17:46.692183,CUST_8717,High,In-Person,Operations,Type B,5234.19,Operations_Agent_3,77,152.48,Completed,System A,False
+CASE_00079,Activity_3,2023-11-30 09:00:42.319910,2023-11-30 12:14:42.319910,CUST_5061,High,Phone,Operations,Type A,3317.09,Operations_Agent_2,194,122.01,Delayed,System B,False
+CASE_00080,Activity_1,2023-12-27 09:00:35.958964,2023-12-27 16:54:35.958964,CUST_1419,Low,Phone,Legal,Type C,3214.1,Legal_Agent_3,474,131.18,Completed,System C,False
+CASE_00080,Activity_2,2023-12-27 16:54:35.958964,2023-12-28 09:00:35.958964,CUST_1419,Low,Phone,Legal,Type C,3214.1,Legal_Agent_2,457,179.94,Completed,System B,True
+CASE_00080,Activity_3,2023-12-28 09:00:35.958964,2023-12-28 15:03:35.958964,CUST_1419,Low,Phone,Legal,Type C,3214.1,Legal_Agent_3,363,199.31,Completed,System B,False
+CASE_00081,Activity_1,2023-12-12 09:00:19.837260,2023-12-12 16:24:19.837260,CUST_3165,Low,In-Person,Customer Service,Type A,559.45,Customer_Agent_1,444,93.95,Completed,System A,True
+CASE_00081,Activity_2,2023-12-12 16:24:19.837260,2023-12-13 09:00:19.837260,CUST_3165,Low,In-Person,Customer Service,Type A,559.45,Customer_Agent_2,143,157.08,Delayed,System C,False
+CASE_00081,Activity_3,2023-12-13 09:00:19.837260,2023-12-13 14:48:19.837260,CUST_3165,Low,In-Person,Customer Service,Type A,559.45,Customer_Agent_1,348,158.52,Expedited,System A,True
+CASE_00082,Activity_1,2023-06-29 09:00:01.607248,2023-06-29 15:10:01.607248,CUST_3179,Low,Email,Operations,Type C,9164.71,Operations_Agent_1,370,155.55,Expedited,System A,True
+CASE_00082,Activity_2,2023-06-29 15:10:01.607248,2023-06-29 17:05:01.607248,CUST_3179,Low,Email,Operations,Type C,9164.71,Operations_Agent_2,115,169.52,Delayed,System B,False
+CASE_00082,Activity_3,2023-06-29 17:05:01.607248,2023-06-30 09:00:01.607248,CUST_3179,Low,Email,Operations,Type C,9164.71,Operations_Agent_1,389,121.59,Delayed,System B,True
+CASE_00083,Activity_1,2023-08-02 13:50:09.539634,2023-08-03 09:00:09.539634,CUST_1437,Low,Web,Operations,Type B,3088.61,Operations_Agent_2,319,132.47,Delayed,System A,False
+CASE_00083,Activity_2,2023-08-03 09:00:09.539634,2023-08-03 10:04:09.539634,CUST_1437,Low,Web,Operations,Type B,3088.61,Operations_Agent_1,64,129.16,Delayed,System A,False
+CASE_00083,Activity_3,2023-08-03 10:04:09.539634,2023-08-03 14:23:09.539634,CUST_1437,Low,Web,Operations,Type B,3088.61,Operations_Agent_2,259,143.46,Expedited,System B,True
+CASE_00084,Activity_3,2023-11-02 09:00:24.665639,2023-11-02 15:18:24.665639,CUST_1128,Low,Web,Legal,Type B,4559.35,Legal_Agent_2,378,143.71,Completed,System A,True
+CASE_00085,Activity_1,2023-04-04 13:32:39.403451,2023-04-05 09:00:39.403451,CUST_7511,Low,Email,Sales,Type C,1598.65,Sales_Agent_1,296,96.95,Expedited,System B,False
+CASE_00085,Activity_2,2023-04-05 09:00:39.403451,2023-04-05 10:45:39.403451,CUST_7511,Low,Email,Sales,Type C,1598.65,Sales_Agent_1,105,86.24,Expedited,System C,False
+CASE_00085,Activity_3,2023-04-05 10:45:39.403451,2023-04-05 15:53:39.403451,CUST_7511,Low,Email,Sales,Type C,1598.65,Sales_Agent_2,308,116.89,Expedited,System A,False
+CASE_00086,Activity_3,2023-02-10 09:00:28.594007,2023-02-10 10:00:28.594007,CUST_2110,Medium,Phone,Sales,Type C,9820.58,Sales_Agent_1,60,61.35,Delayed,System A,False
+CASE_00087,Activity_1,2023-01-24 09:00:18.107810,2023-01-24 16:06:18.107810,CUST_3762,Medium,Phone,Legal,Type C,8687.23,Legal_Agent_2,426,219.86,Completed,System A,False
+CASE_00087,Activity_2,2023-01-24 16:06:18.107810,2023-01-25 09:00:18.107810,CUST_3762,Medium,Phone,Legal,Type C,8687.23,Legal_Agent_2,143,144.38,Expedited,System C,True
+CASE_00087,Activity_3,2023-01-25 09:00:18.107810,2023-01-25 16:42:18.107810,CUST_3762,Medium,Phone,Legal,Type C,8687.23,Legal_Agent_1,462,207.16,Delayed,System C,False
+CASE_00088,Activity_1,2023-08-02 09:00:52.074516,2023-08-02 12:54:52.074516,CUST_3482,Medium,Web,Sales,Type A,8206.96,Sales_Agent_1,234,134.73,Delayed,System B,False
+CASE_00088,Activity_2,2023-08-02 12:54:52.074516,2023-08-02 17:18:52.074516,CUST_3482,Medium,Web,Sales,Type A,8206.96,Sales_Agent_2,264,71.48,Completed,System A,True
+CASE_00088,Activity_3,2023-08-02 17:18:52.074516,2023-08-03 09:00:52.074516,CUST_3482,Medium,Web,Sales,Type A,8206.96,Sales_Agent_2,397,132.13,Expedited,System A,True
+CASE_00089,Activity_3,2023-12-01 12:14:09.891887,2023-12-05 09:00:09.891887,CUST_4755,Medium,Email,Sales,Type B,102.39,Sales_Agent_2,364,149.89,Completed,System A,True
+CASE_00090,Activity_3,2023-03-02 13:19:46.952783,2023-03-02 14:54:46.952783,CUST_3109,Low,Web,Sales,Type A,4740.74,Sales_Agent_1,95,148.99,Delayed,System A,False
+CASE_00091,Activity_1,2023-12-07 09:00:40.880298,2023-12-07 14:48:40.880298,CUST_5132,Medium,In-Person,Operations,Type A,2299.6,Operations_Agent_2,348,122.15,Delayed,System C,False
+CASE_00091,Activity_2,2023-12-07 14:48:40.880298,2023-12-08 09:00:40.880298,CUST_5132,Medium,In-Person,Operations,Type A,2299.6,Operations_Agent_1,227,132.67,Completed,System C,True
+CASE_00091,Activity_3,2023-12-08 09:00:40.880298,2023-12-08 14:23:40.880298,CUST_5132,Medium,In-Person,Operations,Type A,2299.6,Operations_Agent_2,323,151.8,Delayed,System A,False
+CASE_00092,Activity_3,2023-09-26 17:14:49.372732,2023-09-27 09:00:49.372732,CUST_2792,Medium,Email,Finance,Type A,7076.94,Finance_Agent_2,346,115.96,Delayed,System C,True
+CASE_00093,Activity_1,2023-01-17 09:00:06.874263,2023-01-17 13:45:06.874263,CUST_8383,Medium,Web,Operations,Type A,2968.61,Operations_Agent_1,285,70.52,Delayed,System B,True
+CASE_00093,Activity_2,2023-01-17 13:45:06.874263,2023-01-17 16:00:06.874263,CUST_8383,Medium,Web,Operations,Type A,2968.61,Operations_Agent_1,135,138.38,Completed,System B,True
+CASE_00093,Activity_3,2023-01-17 16:00:06.874263,2023-01-18 09:00:06.874263,CUST_8383,Medium,Web,Operations,Type A,2968.61,Operations_Agent_1,441,145.7,Completed,System A,True
+CASE_00094,Activity_3,2023-02-08 09:00:17.933553,2023-02-08 10:12:17.933553,CUST_2559,High,Email,Sales,Type A,7032.31,Sales_Agent_3,72,74.24,Delayed,System A,False
+CASE_00095,Activity_3,2023-11-27 09:39:27.817870,2023-11-27 14:17:27.817870,CUST_2915,High,In-Person,Finance,Type A,9254.97,Finance_Agent_1,278,115.44,Delayed,System A,False
+CASE_00096,Activity_3,2023-10-20 09:00:29.838277,2023-10-20 14:24:29.838277,CUST_9798,Medium,Web,Finance,Type B,9759.61,Finance_Agent_1,324,147.59,Expedited,System C,False
+CASE_00097,Activity_3,2023-07-04 16:26:29.673219,2023-07-05 09:00:29.673219,CUST_3147,Medium,In-Person,Legal,Type A,1052.56,Legal_Agent_2,359,224.19,Completed,System B,True
+CASE_00098,Activity_3,2023-02-21 12:32:10.187921,2023-02-21 16:04:10.187921,CUST_1064,Medium,Web,Sales,Type B,7858.56,Sales_Agent_3,212,107.69,Completed,System C,True
+CASE_00099,Activity_1,2023-01-10 09:00:59.149096,2023-01-10 12:37:59.149096,CUST_4137,Low,Web,Finance,Type A,4093.25,Finance_Agent_1,217,207.8,Expedited,System A,False
+CASE_00099,Activity_2,2023-01-10 12:37:59.149096,2023-01-10 17:25:59.149096,CUST_4137,Low,Web,Finance,Type A,4093.25,Finance_Agent_2,288,144.38,Expedited,System B,False
+CASE_00099,Activity_3,2023-01-10 17:25:59.149096,2023-01-11 09:00:59.149096,CUST_4137,Low,Web,Finance,Type A,4093.25,Finance_Agent_2,190,209.31,Expedited,System C,False
+CASE_00100,Activity_1,2023-07-25 09:00:43.256087,2023-07-25 13:26:43.256087,CUST_3217,Medium,Email,Legal,Type C,2340.49,Legal_Agent_1,266,176.66,Completed,System A,True
+CASE_00100,Activity_2,2023-07-25 13:26:43.256087,2023-07-25 14:04:43.256087,CUST_3217,Medium,Email,Legal,Type C,2340.49,Legal_Agent_3,38,176.64,Expedited,System B,False
+CASE_00100,Activity_3,2023-07-25 14:04:43.256087,2023-07-25 14:35:43.256087,CUST_3217,Medium,Email,Legal,Type C,2340.49,Legal_Agent_2,31,195.06,Completed,System A,True
+CASE_00101,Activity_1,2023-04-11 09:00:05.015034,2023-04-11 11:14:05.015034,CUST_1286,Low,Phone,Legal,Type A,7068.15,Legal_Agent_1,134,148.23,Delayed,System C,True
+CASE_00101,Activity_2,2023-04-11 11:14:05.015034,2023-04-11 14:28:05.015034,CUST_1286,Low,Phone,Legal,Type A,7068.15,Legal_Agent_3,194,193.17,Delayed,System C,True
+CASE_00101,Activity_3,2023-04-11 14:28:05.015034,2023-04-11 17:34:05.015034,CUST_1286,Low,Phone,Legal,Type A,7068.15,Legal_Agent_3,186,162.87,Completed,System C,False
+CASE_00102,Activity_3,2023-02-07 11:43:42.053436,2023-02-08 09:00:42.053436,CUST_1038,High,In-Person,Operations,Type B,3744.85,Operations_Agent_3,453,110.85,Delayed,System C,True
+CASE_00103,Activity_3,2023-06-13 09:00:27.756020,2023-06-13 13:33:27.756020,CUST_5009,Low,Web,Legal,Type A,5770.29,Legal_Agent_2,273,223.8,Completed,System B,True
+CASE_00104,Activity_3,2023-09-11 09:00:11.069807,2023-09-11 11:54:11.069807,CUST_4433,Medium,Web,Sales,Type C,5293.14,Sales_Agent_3,174,104.43,Completed,System A,False
+CASE_00105,Activity_3,2023-09-19 09:00:56.466125,2023-09-19 14:13:56.466125,CUST_7148,Medium,In-Person,Customer Service,Type A,170.98,Customer_Agent_1,313,138.56,Completed,System C,True
+CASE_00106,Activity_1,2023-11-02 09:00:41.945474,2023-11-02 13:12:41.945474,CUST_4289,High,Email,Operations,Type B,5676.75,Operations_Agent_3,252,153.78,Completed,System A,False
+CASE_00106,Activity_2,2023-11-02 13:12:41.945474,2023-11-02 15:30:41.945474,CUST_4289,High,Email,Operations,Type B,5676.75,Operations_Agent_3,138,111.95,Delayed,System B,True
+CASE_00106,Activity_3,2023-11-02 15:30:41.945474,2023-11-02 17:36:41.945474,CUST_4289,High,Email,Operations,Type B,5676.75,Operations_Agent_1,126,129.23,Expedited,System A,True
+CASE_00107,Activity_1,2023-02-10 09:00:15.080645,2023-02-10 14:11:15.080645,CUST_8341,Medium,Web,Customer Service,Type B,6782.3,Customer_Agent_1,311,93.82,Completed,System C,True
+CASE_00107,Activity_2,2023-02-10 14:11:15.080645,2023-02-14 09:00:15.080645,CUST_8341,Medium,Web,Customer Service,Type B,6782.3,Customer_Agent_1,288,185.12,Expedited,System A,False
+CASE_00107,Activity_3,2023-02-14 09:00:15.080645,2023-02-14 14:33:15.080645,CUST_8341,Medium,Web,Customer Service,Type B,6782.3,Customer_Agent_3,333,106.75,Delayed,System C,False
+CASE_00108,Activity_3,2023-01-31 09:00:38.192650,2023-01-31 10:52:38.192650,CUST_8565,High,In-Person,Operations,Type B,8038.74,Operations_Agent_1,112,169.87,Completed,System C,False
+CASE_00109,Activity_3,2023-08-09 09:00:15.446564,2023-08-09 14:54:15.446564,CUST_9780,Low,Phone,Operations,Type A,1962.61,Operations_Agent_1,354,143.48,Delayed,System C,True
+CASE_00110,Activity_1,2023-03-21 09:00:27.408837,2023-03-21 15:57:27.408837,CUST_7647,Medium,Web,Sales,Type C,9772.99,Sales_Agent_2,417,133.87,Completed,System C,True
+CASE_00110,Activity_2,2023-03-21 15:57:27.408837,2023-03-22 09:00:27.408837,CUST_7647,Medium,Web,Sales,Type C,9772.99,Sales_Agent_2,210,112.01,Expedited,System B,True
+CASE_00110,Activity_3,2023-03-22 09:00:27.408837,2023-03-22 10:18:27.408837,CUST_7647,Medium,Web,Sales,Type C,9772.99,Sales_Agent_3,78,61.56,Completed,System A,False
+CASE_00111,Activity_3,2023-03-14 12:09:50.675204,2023-03-14 16:15:50.675204,CUST_2571,High,Email,Customer Service,Type C,6287.57,Customer_Agent_3,246,121.65,Completed,System C,False
+CASE_00112,Activity_1,2023-03-14 09:00:18.866090,2023-03-14 12:55:18.866090,CUST_4469,High,Phone,Operations,Type C,7308.64,Operations_Agent_3,235,153.99,Expedited,System C,True
+CASE_00112,Activity_2,2023-03-14 12:55:18.866090,2023-03-15 09:00:18.866090,CUST_4469,High,Phone,Operations,Type C,7308.64,Operations_Agent_3,309,79.9,Expedited,System B,True
+CASE_00112,Activity_3,2023-03-15 09:00:18.866090,2023-03-15 12:16:18.866090,CUST_4469,High,Phone,Operations,Type C,7308.64,Operations_Agent_1,196,133.63,Completed,System C,False
+CASE_00113,Activity_1,2023-01-09 09:00:54.775821,2023-01-09 14:05:54.775821,CUST_5740,High,In-Person,Sales,Type B,4653.31,Sales_Agent_2,305,99.64,Delayed,System A,True
+CASE_00113,Activity_2,2023-01-09 14:05:54.775821,2023-01-10 09:00:54.775821,CUST_5740,High,In-Person,Sales,Type B,4653.31,Sales_Agent_2,439,103.35,Completed,System C,True
+CASE_00113,Activity_3,2023-01-10 09:00:54.775821,2023-01-10 14:10:54.775821,CUST_5740,High,In-Person,Sales,Type B,4653.31,Sales_Agent_3,310,116.18,Delayed,System A,True
+CASE_00114,Activity_1,2023-10-19 09:00:12.907063,2023-10-19 11:56:12.907063,CUST_7892,High,Web,Operations,Type C,3525.65,Operations_Agent_3,176,124.56,Delayed,System B,True
+CASE_00114,Activity_2,2023-10-19 11:56:12.907063,2023-10-19 14:04:12.907063,CUST_7892,High,Web,Operations,Type C,3525.65,Operations_Agent_3,128,124.87,Completed,System A,True
+CASE_00114,Activity_3,2023-10-19 14:04:12.907063,2023-10-19 17:33:12.907063,CUST_7892,High,Web,Operations,Type C,3525.65,Operations_Agent_3,209,111.08,Expedited,System C,True
+CASE_00115,Activity_1,2023-04-10 09:00:11.729534,2023-04-10 15:18:11.729534,CUST_2626,Low,Email,Operations,Type B,9587.45,Operations_Agent_1,378,71.36,Completed,System C,False
+CASE_00115,Activity_2,2023-04-10 15:18:11.729534,2023-04-10 17:09:11.729534,CUST_2626,Low,Email,Operations,Type B,9587.45,Operations_Agent_3,111,95.44,Expedited,System B,True
+CASE_00115,Activity_3,2023-04-10 17:09:11.729534,2023-04-11 09:00:11.729534,CUST_2626,Low,Email,Operations,Type B,9587.45,Operations_Agent_3,176,121.9,Completed,System C,True
+CASE_00116,Activity_3,2023-11-06 14:41:38.598738,2023-11-07 09:00:38.598738,CUST_9093,Low,Web,Finance,Type B,7753.61,Finance_Agent_1,349,181.09,Expedited,System A,True
+CASE_00117,Activity_1,2023-08-22 09:00:13.219318,2023-08-22 14:26:13.219318,CUST_2116,Low,Email,Customer Service,Type B,9036.7,Customer_Agent_3,326,130.06,Delayed,System C,True
+CASE_00117,Activity_2,2023-08-22 14:26:13.219318,2023-08-23 09:00:13.219318,CUST_2116,Low,Email,Customer Service,Type B,9036.7,Customer_Agent_2,371,106.65,Delayed,System C,True
+CASE_00117,Activity_3,2023-08-23 09:00:13.219318,2023-08-23 16:22:13.219318,CUST_2116,Low,Email,Customer Service,Type B,9036.7,Customer_Agent_1,442,187.51,Completed,System C,False
+CASE_00118,Activity_1,2023-03-30 15:00:41.492365,2023-03-31 09:00:41.492365,CUST_4191,Medium,Web,Legal,Type C,9016.71,Legal_Agent_2,285,146.38,Delayed,System C,False
+CASE_00118,Activity_2,2023-03-31 09:00:41.492365,2023-03-31 14:05:41.492365,CUST_4191,Medium,Web,Legal,Type C,9016.71,Legal_Agent_1,305,138.61,Expedited,System A,True
+CASE_00118,Activity_3,2023-03-31 14:05:41.492365,2023-03-31 16:22:41.492365,CUST_4191,Medium,Web,Legal,Type C,9016.71,Legal_Agent_3,137,226.89,Delayed,System A,True
+CASE_00119,Activity_3,2023-07-26 09:00:08.244399,2023-07-26 16:22:08.244399,CUST_6985,Low,In-Person,Legal,Type B,1765.65,Legal_Agent_1,442,147.89,Completed,System A,False
+CASE_00120,Activity_1,2023-02-07 09:00:23.359052,2023-02-07 13:44:23.359052,CUST_1027,High,In-Person,Sales,Type A,3907.16,Sales_Agent_2,284,90.54,Expedited,System A,False
+CASE_00120,Activity_2,2023-02-07 13:44:23.359052,2023-02-08 09:00:23.359052,CUST_1027,High,In-Person,Sales,Type A,3907.16,Sales_Agent_1,403,132.37,Expedited,System A,True
+CASE_00120,Activity_3,2023-02-08 09:00:23.359052,2023-02-08 10:39:23.359052,CUST_1027,High,In-Person,Sales,Type A,3907.16,Sales_Agent_3,99,117.21,Delayed,System C,False
+CASE_00121,Activity_1,2023-09-05 09:00:04.267232,2023-09-05 12:41:04.267232,CUST_6961,Low,Phone,Customer Service,Type A,8301.34,Customer_Agent_3,221,188.81,Completed,System A,True
+CASE_00121,Activity_2,2023-09-05 12:41:04.267232,2023-09-05 16:15:04.267232,CUST_6961,Low,Phone,Customer Service,Type A,8301.34,Customer_Agent_1,214,158.76,Expedited,System C,True
+CASE_00121,Activity_3,2023-09-05 16:15:04.267232,2023-09-06 09:00:04.267232,CUST_6961,Low,Phone,Customer Service,Type A,8301.34,Customer_Agent_1,201,163.19,Completed,System C,False
+CASE_00122,Activity_1,2023-04-18 09:00:22.163746,2023-04-18 09:36:22.163746,CUST_6153,High,Web,Customer Service,Type C,7910.95,Customer_Agent_2,36,167.61,Delayed,System A,True
+CASE_00122,Activity_2,2023-04-18 09:36:22.163746,2023-04-18 12:08:22.163746,CUST_6153,High,Web,Customer Service,Type C,7910.95,Customer_Agent_1,152,121.62,Expedited,System C,True
+CASE_00122,Activity_3,2023-04-18 12:08:22.163746,2023-04-18 13:32:22.163746,CUST_6153,High,Web,Customer Service,Type C,7910.95,Customer_Agent_1,84,145.53,Completed,System B,True
+CASE_00123,Activity_1,2023-04-07 09:00:31.027897,2023-04-07 12:29:31.027897,CUST_6885,Medium,Email,Customer Service,Type C,295.18,Customer_Agent_2,209,187.41,Completed,System A,True
+CASE_00123,Activity_2,2023-04-07 12:29:31.027897,2023-04-11 09:00:31.027897,CUST_6885,Medium,Email,Customer Service,Type C,295.18,Customer_Agent_3,474,118.89,Completed,System C,False
+CASE_00123,Activity_3,2023-04-11 09:00:31.027897,2023-04-11 12:42:31.027897,CUST_6885,Medium,Email,Customer Service,Type C,295.18,Customer_Agent_1,222,128.15,Expedited,System A,True
+CASE_00124,Activity_1,2023-10-16 09:00:37.575924,2023-10-16 14:19:37.575924,CUST_1282,Medium,Email,Operations,Type A,7641.08,Operations_Agent_3,319,132.52,Expedited,System C,False
+CASE_00124,Activity_2,2023-10-16 14:19:37.575924,2023-10-17 09:00:37.575924,CUST_1282,Medium,Email,Operations,Type A,7641.08,Operations_Agent_2,256,169.31,Delayed,System A,True
+CASE_00124,Activity_3,2023-10-17 09:00:37.575924,2023-10-17 12:04:37.575924,CUST_1282,Medium,Email,Operations,Type A,7641.08,Operations_Agent_3,184,112.37,Delayed,System A,False
+CASE_00125,Activity_1,2023-07-11 14:46:12.253682,2023-07-12 09:00:12.253682,CUST_2944,Medium,In-Person,Operations,Type A,8204.34,Operations_Agent_2,211,89.55,Completed,System A,True
+CASE_00125,Activity_2,2023-07-12 09:00:12.253682,2023-07-12 15:45:12.253682,CUST_2944,Medium,In-Person,Operations,Type A,8204.34,Operations_Agent_3,405,134.73,Completed,System A,False
+CASE_00125,Activity_3,2023-07-12 15:45:12.253682,2023-07-13 09:00:12.253682,CUST_2944,Medium,In-Person,Operations,Type A,8204.34,Operations_Agent_3,363,100.89,Expedited,System C,True
+CASE_00126,Activity_1,2023-12-19 09:00:42.935251,2023-12-19 10:17:42.935251,CUST_2941,Low,Email,Operations,Type A,3099.82,Operations_Agent_1,77,124.07,Expedited,System B,True
+CASE_00126,Activity_2,2023-12-19 10:17:42.935251,2023-12-19 11:44:42.935251,CUST_2941,Low,Email,Operations,Type A,3099.82,Operations_Agent_2,87,138.63,Expedited,System B,True
+CASE_00126,Activity_3,2023-12-19 11:44:42.935251,2023-12-20 09:00:42.935251,CUST_2941,Low,Email,Operations,Type A,3099.82,Operations_Agent_2,437,103.59,Delayed,System B,True
+CASE_00127,Activity_1,2023-07-04 09:00:27.399633,2023-07-04 13:54:27.399633,CUST_9953,Medium,In-Person,Sales,Type B,8200.12,Sales_Agent_2,294,139.49,Completed,System C,False
+CASE_00127,Activity_2,2023-07-04 13:54:27.399633,2023-07-05 09:00:27.399633,CUST_9953,Medium,In-Person,Sales,Type B,8200.12,Sales_Agent_1,259,132.07,Expedited,System B,False
+CASE_00127,Activity_3,2023-07-05 09:00:27.399633,2023-07-05 12:58:27.399633,CUST_9953,Medium,In-Person,Sales,Type B,8200.12,Sales_Agent_2,238,59.57,Completed,System A,False
+CASE_00128,Activity_3,2023-07-07 13:23:00.994401,2023-07-07 14:32:00.994401,CUST_5945,Medium,Phone,Customer Service,Type C,6258.9,Customer_Agent_3,69,166.4,Delayed,System C,False
+CASE_00129,Activity_1,2023-02-20 13:50:13.930736,2023-02-21 09:00:13.930736,CUST_3544,High,Email,Customer Service,Type C,5460.84,Customer_Agent_1,318,118.02,Delayed,System A,False
+CASE_00129,Activity_2,2023-02-21 09:00:13.930736,2023-02-21 15:24:13.930736,CUST_3544,High,Email,Customer Service,Type C,5460.84,Customer_Agent_2,384,189.78,Delayed,System B,False
+CASE_00129,Activity_3,2023-02-21 15:24:13.930736,2023-02-22 09:00:13.930736,CUST_3544,High,Email,Customer Service,Type C,5460.84,Customer_Agent_3,177,177.49,Delayed,System C,False
+CASE_00130,Activity_1,2023-06-06 09:00:28.946353,2023-06-06 16:25:28.946353,CUST_7223,Low,Email,Customer Service,Type C,5701.74,Customer_Agent_2,445,153.61,Delayed,System B,True
+CASE_00130,Activity_2,2023-06-06 16:25:28.946353,2023-06-07 09:00:28.946353,CUST_7223,Low,Email,Customer Service,Type C,5701.74,Customer_Agent_3,304,180.88,Expedited,System C,False
+CASE_00130,Activity_3,2023-06-07 09:00:28.946353,2023-06-07 10:50:28.946353,CUST_7223,Low,Email,Customer Service,Type C,5701.74,Customer_Agent_2,110,119.02,Completed,System A,False
+CASE_00131,Activity_3,2023-01-24 13:34:04.559407,2023-01-24 14:55:04.559407,CUST_6630,High,Email,Finance,Type A,9227.48,Finance_Agent_2,81,184.27,Delayed,System C,True
+CASE_00132,Activity_1,2023-01-03 09:00:13.415131,2023-01-03 10:43:13.415131,CUST_6827,Low,Email,Finance,Type A,4458.74,Finance_Agent_2,103,188.27,Delayed,System C,True
+CASE_00132,Activity_2,2023-01-03 10:43:13.415131,2023-01-03 12:34:13.415131,CUST_6827,Low,Email,Finance,Type A,4458.74,Finance_Agent_2,111,209.68,Expedited,System A,True
+CASE_00132,Activity_3,2023-01-03 12:34:13.415131,2023-01-03 16:59:13.415131,CUST_6827,Low,Email,Finance,Type A,4458.74,Finance_Agent_2,265,198.75,Completed,System B,True
+CASE_00133,Activity_1,2023-09-14 13:38:58.030859,2023-09-14 17:08:58.030859,CUST_6828,Medium,Phone,Customer Service,Type A,6793.98,Customer_Agent_2,210,114.58,Expedited,System B,False
+CASE_00133,Activity_2,2023-09-14 17:08:58.030859,2023-09-15 09:00:58.030859,CUST_6828,Medium,Phone,Customer Service,Type A,6793.98,Customer_Agent_1,395,183.36,Completed,System A,False
+CASE_00133,Activity_3,2023-09-15 09:00:58.030859,2023-09-15 14:23:58.030859,CUST_6828,Medium,Phone,Customer Service,Type A,6793.98,Customer_Agent_3,323,131.01,Completed,System B,False
+CASE_00134,Activity_3,2023-03-08 10:01:20.572365,2023-03-08 14:03:20.572365,CUST_5056,Medium,Phone,Legal,Type C,4982.96,Legal_Agent_1,242,165.37,Completed,System B,False
+CASE_00135,Activity_1,2023-12-22 11:35:43.037841,2023-12-22 17:37:43.037841,CUST_6172,Medium,Web,Customer Service,Type C,9142.83,Customer_Agent_2,362,119.48,Completed,System A,True
+CASE_00135,Activity_2,2023-12-22 17:37:43.037841,2023-12-26 09:00:43.037841,CUST_6172,Medium,Web,Customer Service,Type C,9142.83,Customer_Agent_3,393,151.33,Completed,System B,True
+CASE_00135,Activity_3,2023-12-26 09:00:43.037841,2023-12-26 13:37:43.037841,CUST_6172,Medium,Web,Customer Service,Type C,9142.83,Customer_Agent_2,277,91.36,Expedited,System C,True
+CASE_00136,Activity_3,2023-08-29 09:00:35.983348,2023-08-29 15:31:35.983348,CUST_3223,Low,Email,Operations,Type A,8398.84,Operations_Agent_3,391,108.98,Completed,System C,False
+CASE_00137,Activity_1,2023-12-01 09:22:03.142935,2023-12-01 12:50:03.142935,CUST_7894,Low,Phone,Sales,Type A,8557.34,Sales_Agent_2,208,123.3,Expedited,System A,False
+CASE_00137,Activity_2,2023-12-01 12:50:03.142935,2023-12-01 17:44:03.142935,CUST_7894,Low,Phone,Sales,Type A,8557.34,Sales_Agent_3,294,108.93,Expedited,System A,True
+CASE_00137,Activity_3,2023-12-01 17:44:03.142935,2023-12-05 09:00:03.142935,CUST_7894,Low,Phone,Sales,Type A,8557.34,Sales_Agent_1,314,85.23,Expedited,System B,False
+CASE_00138,Activity_3,2023-02-24 15:43:55.724191,2023-02-28 09:00:55.724191,CUST_7529,High,In-Person,Legal,Type B,9158.17,Legal_Agent_2,328,141.53,Delayed,System B,False
+CASE_00139,Activity_1,2023-04-18 09:00:58.367124,2023-04-18 12:22:58.367124,CUST_3684,Medium,Phone,Finance,Type A,1582.49,Finance_Agent_1,202,179.94,Expedited,System C,True
+CASE_00139,Activity_2,2023-04-18 12:22:58.367124,2023-04-18 13:27:58.367124,CUST_3684,Medium,Phone,Finance,Type A,1582.49,Finance_Agent_1,65,175.56,Completed,System C,True
+CASE_00139,Activity_3,2023-04-18 13:27:58.367124,2023-04-19 09:00:58.367124,CUST_3684,Medium,Phone,Finance,Type A,1582.49,Finance_Agent_1,474,201.15,Delayed,System B,True
+CASE_00140,Activity_1,2023-05-25 13:33:50.950224,2023-05-25 14:50:50.950224,CUST_7963,High,Web,Sales,Type A,4102.52,Sales_Agent_2,77,95.38,Expedited,System C,False
+CASE_00140,Activity_2,2023-05-25 14:50:50.950224,2023-05-26 09:00:50.950224,CUST_7963,High,Web,Sales,Type A,4102.52,Sales_Agent_3,358,63.33,Expedited,System C,False
+CASE_00140,Activity_3,2023-05-26 09:00:50.950224,2023-05-26 13:03:50.950224,CUST_7963,High,Web,Sales,Type A,4102.52,Sales_Agent_3,243,71.02,Delayed,System A,False
+CASE_00141,Activity_3,2023-12-27 14:20:17.887275,2023-12-27 15:17:17.887275,CUST_1384,Low,Phone,Finance,Type A,1834.65,Finance_Agent_2,57,174.98,Completed,System B,True
+CASE_00142,Activity_3,2023-06-13 14:12:26.388123,2023-06-14 09:00:26.388123,CUST_3651,High,In-Person,Customer Service,Type C,1704.86,Customer_Agent_2,250,143.26,Expedited,System B,False
+CASE_00143,Activity_1,2023-03-02 13:08:28.630727,2023-03-02 15:11:28.630727,CUST_6104,High,Phone,Finance,Type B,7998.85,Finance_Agent_1,123,173.21,Delayed,System C,False
+CASE_00143,Activity_2,2023-03-02 15:11:28.630727,2023-03-03 09:00:28.630727,CUST_6104,High,Phone,Finance,Type B,7998.85,Finance_Agent_1,445,166.23,Delayed,System C,True
+CASE_00143,Activity_3,2023-03-03 09:00:28.630727,2023-03-03 15:17:28.630727,CUST_6104,High,Phone,Finance,Type B,7998.85,Finance_Agent_2,377,176.09,Completed,System B,False
+CASE_00144,Activity_3,2023-05-09 09:00:34.661995,2023-05-09 11:52:34.661995,CUST_6018,Medium,In-Person,Legal,Type A,1477.45,Legal_Agent_2,172,206.64,Expedited,System C,True
+CASE_00145,Activity_3,2023-07-11 15:53:55.816018,2023-07-12 09:00:55.816018,CUST_6978,Low,Email,Finance,Type B,6338.12,Finance_Agent_1,477,151.56,Expedited,System B,False
+CASE_00146,Activity_1,2023-09-15 09:00:31.964533,2023-09-15 16:01:31.964533,CUST_8602,Medium,In-Person,Operations,Type B,3012.39,Operations_Agent_3,421,165.57,Completed,System A,True
+CASE_00146,Activity_2,2023-09-15 16:01:31.964533,2023-09-19 09:00:31.964533,CUST_8602,Medium,In-Person,Operations,Type B,3012.39,Operations_Agent_2,237,116.46,Expedited,System A,False
+CASE_00146,Activity_3,2023-09-19 09:00:31.964533,2023-09-19 15:55:31.964533,CUST_8602,Medium,In-Person,Operations,Type B,3012.39,Operations_Agent_1,415,110.82,Delayed,System B,False
+CASE_00147,Activity_3,2023-12-05 09:00:39.906123,2023-12-05 13:02:39.906123,CUST_9471,High,Web,Customer Service,Type B,7091.74,Customer_Agent_3,242,140.06,Delayed,System B,False
+CASE_00148,Activity_1,2023-06-06 09:00:46.210521,2023-06-06 10:01:46.210521,CUST_9585,High,Email,Finance,Type A,2822.25,Finance_Agent_2,61,199.69,Delayed,System C,True
+CASE_00148,Activity_2,2023-06-06 10:01:46.210521,2023-06-06 14:42:46.210521,CUST_9585,High,Email,Finance,Type A,2822.25,Finance_Agent_1,281,190.1,Expedited,System A,False
+CASE_00148,Activity_3,2023-06-06 14:42:46.210521,2023-06-06 16:28:46.210521,CUST_9585,High,Email,Finance,Type A,2822.25,Finance_Agent_1,106,169.01,Expedited,System B,False
+CASE_00149,Activity_1,2023-08-15 09:00:23.455456,2023-08-15 13:56:23.455456,CUST_5008,Low,Phone,Sales,Type B,8006.87,Sales_Agent_3,296,130.37,Completed,System B,False
+CASE_00149,Activity_2,2023-08-15 13:56:23.455456,2023-08-16 09:00:23.455456,CUST_5008,Low,Phone,Sales,Type B,8006.87,Sales_Agent_2,427,147.3,Completed,System B,False
+CASE_00149,Activity_3,2023-08-16 09:00:23.455456,2023-08-16 10:19:23.455456,CUST_5008,Low,Phone,Sales,Type B,8006.87,Sales_Agent_1,79,84.52,Completed,System C,False
+CASE_00150,Activity_1,2023-08-15 09:00:46.789882,2023-08-15 10:44:46.789882,CUST_6552,High,Web,Customer Service,Type A,9136.24,Customer_Agent_2,104,165.1,Delayed,System C,True
+CASE_00150,Activity_2,2023-08-15 10:44:46.789882,2023-08-15 13:03:46.789882,CUST_6552,High,Web,Customer Service,Type A,9136.24,Customer_Agent_1,139,132.8,Expedited,System B,True
+CASE_00150,Activity_3,2023-08-15 13:03:46.789882,2023-08-15 15:25:46.789882,CUST_6552,High,Web,Customer Service,Type A,9136.24,Customer_Agent_1,142,181.89,Completed,System A,False
+CASE_00151,Activity_3,2023-11-22 10:35:30.512252,2023-11-22 16:51:30.512252,CUST_9689,High,Web,Customer Service,Type B,5948.91,Customer_Agent_1,376,125.57,Delayed,System B,False
+CASE_00152,Activity_1,2023-08-15 09:00:03.459422,2023-08-15 15:43:03.459422,CUST_6396,Low,Web,Legal,Type B,2420.69,Legal_Agent_2,403,223.2,Completed,System B,True
+CASE_00152,Activity_2,2023-08-15 15:43:03.459422,2023-08-16 09:00:03.459422,CUST_6396,Low,Web,Legal,Type B,2420.69,Legal_Agent_2,190,176.73,Delayed,System B,False
+CASE_00152,Activity_3,2023-08-16 09:00:03.459422,2023-08-16 09:54:03.459422,CUST_6396,Low,Web,Legal,Type B,2420.69,Legal_Agent_3,54,176.84,Delayed,System C,True
+CASE_00153,Activity_1,2023-01-31 11:36:38.193867,2023-01-31 15:15:38.193867,CUST_9516,High,In-Person,Operations,Type C,4619.16,Operations_Agent_1,219,122.32,Delayed,System A,True
+CASE_00153,Activity_2,2023-01-31 15:15:38.193867,2023-02-01 09:00:38.193867,CUST_9516,High,In-Person,Operations,Type C,4619.16,Operations_Agent_2,225,137.3,Delayed,System A,False
+CASE_00153,Activity_3,2023-02-01 09:00:38.193867,2023-02-01 16:32:38.193867,CUST_9516,High,In-Person,Operations,Type C,4619.16,Operations_Agent_2,452,144.9,Delayed,System B,False
+CASE_00154,Activity_1,2023-01-31 09:00:08.779253,2023-01-31 15:34:08.779253,CUST_6850,High,Web,Customer Service,Type B,5942.37,Customer_Agent_2,394,154.18,Expedited,System A,True
+CASE_00154,Activity_2,2023-01-31 15:34:08.779253,2023-02-01 09:00:08.779253,CUST_6850,High,Web,Customer Service,Type B,5942.37,Customer_Agent_1,164,134.68,Completed,System C,False
+CASE_00154,Activity_3,2023-02-01 09:00:08.779253,2023-02-01 16:48:08.779253,CUST_6850,High,Web,Customer Service,Type B,5942.37,Customer_Agent_1,468,128.16,Completed,System A,False
+CASE_00155,Activity_3,2023-01-24 13:04:36.198160,2023-01-24 15:33:36.198160,CUST_2125,High,In-Person,Customer Service,Type A,5818.66,Customer_Agent_2,149,98.82,Expedited,System B,True
+CASE_00156,Activity_3,2023-07-31 09:00:45.483422,2023-07-31 12:44:45.483422,CUST_7469,Low,Phone,Legal,Type A,6367.56,Legal_Agent_1,224,143.25,Completed,System B,True
+CASE_00157,Activity_3,2023-03-16 09:00:44.019073,2023-03-16 11:47:44.019073,CUST_7479,Medium,Web,Operations,Type C,3272.3,Operations_Agent_2,167,94.27,Expedited,System C,False
+CASE_00158,Activity_3,2023-08-29 16:34:34.369357,2023-08-30 09:00:34.369357,CUST_9911,Low,Phone,Finance,Type B,5180.92,Finance_Agent_1,307,117.84,Expedited,System B,False
+CASE_00159,Activity_3,2023-11-20 16:04:22.379765,2023-11-20 17:12:22.379765,CUST_3770,Medium,Web,Sales,Type A,8695.94,Sales_Agent_1,68,95.95,Expedited,System A,False
+CASE_00160,Activity_1,2023-06-27 16:08:17.423118,2023-06-28 09:00:17.423118,CUST_2530,High,In-Person,Operations,Type C,4576.41,Operations_Agent_1,457,119.31,Expedited,System B,True
+CASE_00160,Activity_2,2023-06-28 09:00:17.423118,2023-06-28 11:23:17.423118,CUST_2530,High,In-Person,Operations,Type C,4576.41,Operations_Agent_3,143,99.16,Completed,System A,False
+CASE_00160,Activity_3,2023-06-28 11:23:17.423118,2023-06-29 09:00:17.423118,CUST_2530,High,In-Person,Operations,Type C,4576.41,Operations_Agent_1,413,92.84,Delayed,System A,False
+CASE_00161,Activity_3,2023-04-24 14:27:51.727984,2023-04-24 16:35:51.727984,CUST_6177,Low,In-Person,Operations,Type A,3408.85,Operations_Agent_1,128,128.25,Completed,System C,False
+CASE_00162,Activity_3,2023-12-22 13:08:37.386066,2023-12-22 17:22:37.386066,CUST_9737,High,Email,Finance,Type A,8162.31,Finance_Agent_2,254,166.77,Completed,System B,True
+CASE_00163,Activity_1,2023-10-24 12:44:05.527765,2023-10-24 13:53:05.527765,CUST_1267,High,In-Person,Operations,Type A,3731.65,Operations_Agent_1,69,82.2,Expedited,System B,True
+CASE_00163,Activity_2,2023-10-24 13:53:05.527765,2023-10-24 15:25:05.527765,CUST_1267,High,In-Person,Operations,Type A,3731.65,Operations_Agent_1,92,106.33,Expedited,System A,False
+CASE_00163,Activity_3,2023-10-24 15:25:05.527765,2023-10-25 09:00:05.527765,CUST_1267,High,In-Person,Operations,Type A,3731.65,Operations_Agent_2,344,157.39,Completed,System B,True
+CASE_00164,Activity_1,2023-08-22 09:00:59.183502,2023-08-22 13:33:59.183502,CUST_7695,Medium,Phone,Sales,Type B,5585.83,Sales_Agent_3,273,89.75,Completed,System A,False
+CASE_00164,Activity_2,2023-08-22 13:33:59.183502,2023-08-22 15:10:59.183502,CUST_7695,Medium,Phone,Sales,Type B,5585.83,Sales_Agent_1,97,89.41,Delayed,System A,False
+CASE_00164,Activity_3,2023-08-22 15:10:59.183502,2023-08-23 09:00:59.183502,CUST_7695,Medium,Phone,Sales,Type B,5585.83,Sales_Agent_2,399,103.51,Completed,System C,False
+CASE_00165,Activity_3,2023-02-10 14:50:52.191674,2023-02-10 16:11:52.191674,CUST_5370,Medium,Email,Sales,Type A,3848.68,Sales_Agent_3,81,89.29,Completed,System C,True
+CASE_00166,Activity_1,2023-06-27 09:00:24.967055,2023-06-27 15:19:24.967055,CUST_5630,High,Web,Sales,Type A,8658.78,Sales_Agent_2,379,99.79,Completed,System A,False
+CASE_00166,Activity_2,2023-06-27 15:19:24.967055,2023-06-28 09:00:24.967055,CUST_5630,High,Web,Sales,Type A,8658.78,Sales_Agent_2,248,127.06,Expedited,System B,True
+CASE_00166,Activity_3,2023-06-28 09:00:24.967055,2023-06-28 11:11:24.967055,CUST_5630,High,Web,Sales,Type A,8658.78,Sales_Agent_1,131,100.94,Delayed,System B,False
+CASE_00167,Activity_1,2023-03-15 10:37:16.394885,2023-03-15 14:34:16.394885,CUST_6964,High,In-Person,Customer Service,Type C,3258.39,Customer_Agent_2,237,135.76,Completed,System B,False
+CASE_00167,Activity_2,2023-03-15 14:34:16.394885,2023-03-16 09:00:16.394885,CUST_6964,High,In-Person,Customer Service,Type C,3258.39,Customer_Agent_2,341,101.24,Expedited,System B,False
+CASE_00167,Activity_3,2023-03-16 09:00:16.394885,2023-03-16 12:56:16.394885,CUST_6964,High,In-Person,Customer Service,Type C,3258.39,Customer_Agent_3,236,122.8,Completed,System C,False
+CASE_00168,Activity_1,2023-03-27 09:00:50.385418,2023-03-27 12:55:50.385418,CUST_9663,Low,Web,Sales,Type A,2065.6,Sales_Agent_3,235,148.43,Delayed,System C,False
+CASE_00168,Activity_2,2023-03-27 12:55:50.385418,2023-03-27 15:42:50.385418,CUST_9663,Low,Web,Sales,Type A,2065.6,Sales_Agent_3,167,64.57,Delayed,System B,True
+CASE_00168,Activity_3,2023-03-27 15:42:50.385418,2023-03-27 17:24:50.385418,CUST_9663,Low,Web,Sales,Type A,2065.6,Sales_Agent_2,102,123.85,Expedited,System C,False
+CASE_00169,Activity_1,2023-02-28 09:00:06.482079,2023-02-28 10:12:06.482079,CUST_9306,Medium,Phone,Operations,Type B,3759.7,Operations_Agent_2,72,74.28,Delayed,System B,False
+CASE_00169,Activity_2,2023-02-28 10:12:06.482079,2023-02-28 12:44:06.482079,CUST_9306,Medium,Phone,Operations,Type B,3759.7,Operations_Agent_1,152,142.98,Delayed,System B,False
+CASE_00169,Activity_3,2023-02-28 12:44:06.482079,2023-02-28 15:09:06.482079,CUST_9306,Medium,Phone,Operations,Type B,3759.7,Operations_Agent_1,145,158.07,Delayed,System B,False
+CASE_00170,Activity_1,2023-05-17 09:35:41.007569,2023-05-17 14:03:41.007569,CUST_7467,High,In-Person,Customer Service,Type A,1653.12,Customer_Agent_1,268,123.19,Delayed,System C,False
+CASE_00170,Activity_2,2023-05-17 14:03:41.007569,2023-05-17 17:49:41.007569,CUST_7467,High,In-Person,Customer Service,Type A,1653.12,Customer_Agent_2,226,98.65,Delayed,System B,False
+CASE_00170,Activity_3,2023-05-17 17:49:41.007569,2023-05-18 09:00:41.007569,CUST_7467,High,In-Person,Customer Service,Type A,1653.12,Customer_Agent_3,258,171.67,Delayed,System C,False
+CASE_00171,Activity_3,2023-01-09 12:56:51.373485,2023-01-10 09:00:51.373485,CUST_5244,Medium,In-Person,Finance,Type C,2068.29,Finance_Agent_2,316,163.95,Completed,System A,True
+CASE_00172,Activity_3,2023-10-23 11:54:52.059657,2023-10-23 14:20:52.059657,CUST_7506,High,Email,Legal,Type B,4048.66,Legal_Agent_3,146,186.95,Completed,System C,True
+CASE_00173,Activity_1,2023-03-08 09:00:46.032263,2023-03-08 16:43:46.032263,CUST_4357,Low,In-Person,Finance,Type C,1748.58,Finance_Agent_1,463,126.71,Expedited,System B,False
+CASE_00173,Activity_2,2023-03-08 16:43:46.032263,2023-03-09 09:00:46.032263,CUST_4357,Low,In-Person,Finance,Type C,1748.58,Finance_Agent_1,88,161.44,Expedited,System B,True
+CASE_00173,Activity_3,2023-03-09 09:00:46.032263,2023-03-09 13:14:46.032263,CUST_4357,Low,In-Person,Finance,Type C,1748.58,Finance_Agent_1,254,126.31,Expedited,System C,True
+CASE_00174,Activity_1,2023-03-30 09:00:36.833315,2023-03-30 14:23:36.833315,CUST_5078,Low,In-Person,Finance,Type C,5544.68,Finance_Agent_1,323,111.02,Expedited,System C,True
+CASE_00174,Activity_2,2023-03-30 14:23:36.833315,2023-03-31 09:00:36.833315,CUST_5078,Low,In-Person,Finance,Type C,5544.68,Finance_Agent_1,469,113.53,Delayed,System C,False
+CASE_00174,Activity_3,2023-03-31 09:00:36.833315,2023-03-31 11:23:36.833315,CUST_5078,Low,In-Person,Finance,Type C,5544.68,Finance_Agent_1,143,163.29,Completed,System B,True
+CASE_00175,Activity_1,2023-07-13 09:00:24.148552,2023-07-13 16:12:24.148552,CUST_3757,High,In-Person,Customer Service,Type A,869.61,Customer_Agent_2,432,163.56,Expedited,System C,False
+CASE_00175,Activity_2,2023-07-13 16:12:24.148552,2023-07-14 09:00:24.148552,CUST_3757,High,In-Person,Customer Service,Type A,869.61,Customer_Agent_2,436,166.32,Completed,System B,True
+CASE_00175,Activity_3,2023-07-14 09:00:24.148552,2023-07-14 16:32:24.148552,CUST_3757,High,In-Person,Customer Service,Type A,869.61,Customer_Agent_1,452,187.36,Expedited,System A,False
+CASE_00176,Activity_3,2023-11-21 09:00:28.795840,2023-11-21 14:01:28.795840,CUST_6712,Low,In-Person,Operations,Type C,5285.65,Operations_Agent_3,301,98.68,Completed,System C,True
+CASE_00177,Activity_1,2023-11-21 15:36:09.974084,2023-11-21 16:46:09.974084,CUST_5388,High,In-Person,Sales,Type C,4727.23,Sales_Agent_2,70,56.79,Expedited,System B,False
+CASE_00177,Activity_2,2023-11-21 16:46:09.974084,2023-11-21 17:42:09.974084,CUST_5388,High,In-Person,Sales,Type C,4727.23,Sales_Agent_1,56,104.6,Expedited,System A,False
+CASE_00177,Activity_3,2023-11-21 17:42:09.974084,2023-11-22 09:00:09.974084,CUST_5388,High,In-Person,Sales,Type C,4727.23,Sales_Agent_3,440,83.88,Completed,System B,True
+CASE_00178,Activity_3,2023-05-17 09:00:33.463463,2023-05-17 11:16:33.463463,CUST_7551,Medium,Email,Finance,Type A,8384.18,Finance_Agent_2,136,110.53,Delayed,System C,True
+CASE_00179,Activity_3,2023-09-27 09:00:09.202368,2023-09-27 09:47:09.202368,CUST_7483,Medium,In-Person,Finance,Type C,7133.36,Finance_Agent_1,47,133.31,Delayed,System A,True
+CASE_00180,Activity_3,2023-12-06 09:00:17.029593,2023-12-06 16:36:17.029593,CUST_5597,Medium,In-Person,Legal,Type A,1635.22,Legal_Agent_1,456,172.01,Completed,System B,False
+CASE_00181,Activity_3,2023-05-11 09:00:41.947491,2023-05-11 16:51:41.947491,CUST_1496,Medium,Web,Sales,Type A,2720.46,Sales_Agent_1,471,108.94,Expedited,System A,True
+CASE_00182,Activity_3,2023-08-08 09:00:05.285490,2023-08-08 11:15:05.285490,CUST_8595,Low,Email,Customer Service,Type C,6368.26,Customer_Agent_3,135,129.65,Expedited,System A,False
+CASE_00183,Activity_1,2023-11-21 09:00:29.032159,2023-11-21 11:17:29.032159,CUST_4355,High,Web,Operations,Type C,226.16,Operations_Agent_2,137,72.93,Expedited,System B,False
+CASE_00183,Activity_2,2023-11-21 11:17:29.032159,2023-11-22 09:00:29.032159,CUST_4355,High,Web,Operations,Type C,226.16,Operations_Agent_3,454,151.44,Completed,System C,True
+CASE_00183,Activity_3,2023-11-22 09:00:29.032159,2023-11-22 14:57:29.032159,CUST_4355,High,Web,Operations,Type C,226.16,Operations_Agent_3,357,164.7,Expedited,System C,False
+CASE_00184,Activity_1,2023-09-05 13:29:12.322277,2023-09-05 15:52:12.322277,CUST_8643,Medium,In-Person,Legal,Type C,8620.51,Legal_Agent_1,143,174.28,Expedited,System C,True
+CASE_00184,Activity_2,2023-09-05 15:52:12.322277,2023-09-06 09:00:12.322277,CUST_8643,Medium,In-Person,Legal,Type C,8620.51,Legal_Agent_3,338,223.95,Completed,System A,False
+CASE_00184,Activity_3,2023-09-06 09:00:12.322277,2023-09-06 16:21:12.322277,CUST_8643,Medium,In-Person,Legal,Type C,8620.51,Legal_Agent_2,441,133.88,Expedited,System A,True
+CASE_00185,Activity_3,2023-05-23 10:31:14.022365,2023-05-23 14:09:14.022365,CUST_1457,Low,Web,Finance,Type A,3476.26,Finance_Agent_1,218,201.75,Delayed,System A,True
+CASE_00186,Activity_3,2023-06-27 10:16:25.433914,2023-06-27 11:51:25.433914,CUST_4004,High,Web,Sales,Type C,5055.6,Sales_Agent_2,95,64.0,Completed,System A,False
+CASE_00187,Activity_3,2023-09-12 09:00:27.090052,2023-09-12 15:07:27.090052,CUST_5097,Medium,Phone,Finance,Type B,4229.1,Finance_Agent_1,367,156.45,Delayed,System B,True
+CASE_00188,Activity_1,2023-01-20 09:00:18.993063,2023-01-20 10:06:18.993063,CUST_9271,Medium,Web,Sales,Type A,4004.21,Sales_Agent_1,66,109.99,Delayed,System B,True
+CASE_00188,Activity_2,2023-01-20 10:06:18.993063,2023-01-20 17:49:18.993063,CUST_9271,Medium,Web,Sales,Type A,4004.21,Sales_Agent_3,463,149.77,Completed,System C,False
+CASE_00188,Activity_3,2023-01-20 17:49:18.993063,2023-01-24 09:00:18.993063,CUST_9271,Medium,Web,Sales,Type A,4004.21,Sales_Agent_1,91,113.43,Delayed,System A,False
+CASE_00189,Activity_1,2023-06-14 13:32:52.296069,2023-06-15 09:00:52.296069,CUST_7790,Low,Email,Finance,Type B,7953.9,Finance_Agent_1,339,138.77,Delayed,System B,True
+CASE_00189,Activity_2,2023-06-15 09:00:52.296069,2023-06-15 10:57:52.296069,CUST_7790,Low,Email,Finance,Type B,7953.9,Finance_Agent_1,117,195.83,Delayed,System B,True
+CASE_00189,Activity_3,2023-06-15 10:57:52.296069,2023-06-15 12:31:52.296069,CUST_7790,Low,Email,Finance,Type B,7953.9,Finance_Agent_1,94,128.37,Completed,System A,True
+CASE_00190,Activity_1,2023-04-18 09:00:20.685330,2023-04-18 10:42:20.685330,CUST_1380,High,Email,Sales,Type C,3338.73,Sales_Agent_1,102,99.29,Delayed,System B,False
+CASE_00190,Activity_2,2023-04-18 10:42:20.685330,2023-04-18 15:14:20.685330,CUST_1380,High,Email,Sales,Type C,3338.73,Sales_Agent_1,272,86.49,Completed,System A,False
+CASE_00190,Activity_3,2023-04-18 15:14:20.685330,2023-04-19 09:00:20.685330,CUST_1380,High,Email,Sales,Type C,3338.73,Sales_Agent_1,465,130.47,Expedited,System C,False
+CASE_00191,Activity_3,2023-05-16 09:00:09.310001,2023-05-16 16:36:09.310001,CUST_4401,Medium,Phone,Operations,Type C,6539.75,Operations_Agent_1,456,122.97,Completed,System C,True
+CASE_00192,Activity_1,2023-12-18 09:00:15.097344,2023-12-18 12:17:15.097344,CUST_2601,High,In-Person,Sales,Type A,710.71,Sales_Agent_1,197,90.09,Delayed,System C,True
+CASE_00192,Activity_2,2023-12-18 12:17:15.097344,2023-12-18 12:57:15.097344,CUST_2601,High,In-Person,Sales,Type A,710.71,Sales_Agent_2,40,60.23,Expedited,System C,True
+CASE_00192,Activity_3,2023-12-18 12:57:15.097344,2023-12-19 09:00:15.097344,CUST_2601,High,In-Person,Sales,Type A,710.71,Sales_Agent_1,370,96.12,Expedited,System A,True
+CASE_00193,Activity_3,2023-03-06 09:00:37.583666,2023-03-06 14:17:37.583666,CUST_8642,High,Email,Sales,Type B,3850.92,Sales_Agent_1,317,88.16,Expedited,System C,True
+CASE_00194,Activity_1,2023-02-28 11:39:21.435660,2023-02-28 17:46:21.435660,CUST_4938,High,Phone,Operations,Type B,2343.93,Operations_Agent_2,367,142.55,Expedited,System C,True
+CASE_00194,Activity_2,2023-02-28 17:46:21.435660,2023-03-01 09:00:21.435660,CUST_4938,High,Phone,Operations,Type B,2343.93,Operations_Agent_3,100,70.93,Expedited,System A,True
+CASE_00194,Activity_3,2023-03-01 09:00:21.435660,2023-03-01 10:35:21.435660,CUST_4938,High,Phone,Operations,Type B,2343.93,Operations_Agent_3,95,127.27,Expedited,System A,False
+CASE_00195,Activity_1,2023-03-07 09:00:14.589325,2023-03-07 09:48:14.589325,CUST_9026,Medium,Phone,Customer Service,Type B,2454.25,Customer_Agent_2,48,112.71,Expedited,System B,False
+CASE_00195,Activity_2,2023-03-07 09:48:14.589325,2023-03-07 12:21:14.589325,CUST_9026,Medium,Phone,Customer Service,Type B,2454.25,Customer_Agent_2,153,93.17,Expedited,System A,False
+CASE_00195,Activity_3,2023-03-07 12:21:14.589325,2023-03-07 15:05:14.589325,CUST_9026,Medium,Phone,Customer Service,Type B,2454.25,Customer_Agent_3,164,151.98,Delayed,System A,True
+CASE_00196,Activity_1,2023-06-06 09:00:03.460231,2023-06-06 13:04:03.460231,CUST_9334,Medium,Phone,Sales,Type A,7387.69,Sales_Agent_1,244,126.87,Delayed,System B,False
+CASE_00196,Activity_2,2023-06-06 13:04:03.460231,2023-06-06 17:21:03.460231,CUST_9334,Medium,Phone,Sales,Type A,7387.69,Sales_Agent_3,257,117.03,Expedited,System C,True
+CASE_00196,Activity_3,2023-06-06 17:21:03.460231,2023-06-07 09:00:03.460231,CUST_9334,Medium,Phone,Sales,Type A,7387.69,Sales_Agent_1,410,66.01,Delayed,System B,False
+CASE_00197,Activity_3,2023-11-29 09:00:42.456980,2023-11-29 16:51:42.456980,CUST_5909,Medium,Email,Finance,Type A,9224.52,Finance_Agent_2,471,164.1,Completed,System B,False
+CASE_00198,Activity_3,2023-08-29 17:03:10.701810,2023-08-30 09:00:10.701810,CUST_4651,Medium,Web,Operations,Type B,3737.41,Operations_Agent_2,387,95.17,Completed,System A,False
+CASE_00199,Activity_3,2023-10-10 09:00:28.130216,2023-10-10 13:03:28.130216,CUST_2564,High,In-Person,Operations,Type B,1594.08,Operations_Agent_2,243,90.94,Delayed,System B,True
+CASE_00200,Activity_1,2023-01-17 12:11:09.512956,2023-01-17 15:52:09.512956,CUST_5372,Low,Phone,Customer Service,Type C,8680.82,Customer_Agent_1,221,185.35,Completed,System A,False
+CASE_00200,Activity_2,2023-01-17 15:52:09.512956,2023-01-18 09:00:09.512956,CUST_5372,Low,Phone,Customer Service,Type C,8680.82,Customer_Agent_3,305,136.35,Expedited,System A,False
+CASE_00200,Activity_3,2023-01-18 09:00:09.512956,2023-01-18 11:39:09.512956,CUST_5372,Low,Phone,Customer Service,Type C,8680.82,Customer_Agent_1,159,93.87,Expedited,System C,False
+CASE_00201,Activity_1,2023-03-07 17:55:06.122497,2023-03-08 09:00:06.122497,CUST_6350,Low,Phone,Operations,Type B,554.74,Operations_Agent_1,285,86.18,Expedited,System A,True
+CASE_00201,Activity_2,2023-03-08 09:00:06.122497,2023-03-08 13:50:06.122497,CUST_6350,Low,Phone,Operations,Type B,554.74,Operations_Agent_1,290,94.63,Delayed,System A,False
+CASE_00201,Activity_3,2023-03-08 13:50:06.122497,2023-03-09 09:00:06.122497,CUST_6350,Low,Phone,Operations,Type B,554.74,Operations_Agent_3,256,162.87,Expedited,System A,False
+CASE_00202,Activity_3,2023-11-28 09:00:58.898962,2023-11-28 11:30:58.898962,CUST_4790,Medium,Phone,Legal,Type C,6887.18,Legal_Agent_1,150,217.73,Delayed,System C,False
+CASE_00203,Activity_1,2023-09-12 11:42:32.988546,2023-09-12 13:34:32.988546,CUST_7065,Low,Email,Finance,Type B,5649.7,Finance_Agent_1,112,145.63,Delayed,System B,False
+CASE_00203,Activity_2,2023-09-12 13:34:32.988546,2023-09-13 09:00:32.988546,CUST_7065,Low,Email,Finance,Type B,5649.7,Finance_Agent_1,431,130.86,Delayed,System C,False
+CASE_00203,Activity_3,2023-09-13 09:00:32.988546,2023-09-13 10:14:32.988546,CUST_7065,Low,Email,Finance,Type B,5649.7,Finance_Agent_2,74,154.47,Completed,System C,False
+CASE_00204,Activity_1,2023-05-30 12:47:47.470949,2023-05-31 09:00:47.470949,CUST_8713,High,Web,Sales,Type A,4912.0,Sales_Agent_2,400,104.4,Delayed,System A,False
+CASE_00204,Activity_2,2023-05-31 09:00:47.470949,2023-05-31 15:57:47.470949,CUST_8713,High,Web,Sales,Type A,4912.0,Sales_Agent_1,417,99.5,Expedited,System A,True
+CASE_00204,Activity_3,2023-05-31 15:57:47.470949,2023-05-31 17:41:47.470949,CUST_8713,High,Web,Sales,Type A,4912.0,Sales_Agent_2,104,74.19,Expedited,System C,False
+CASE_00205,Activity_3,2023-11-17 09:00:52.369648,2023-11-17 14:56:52.369648,CUST_6165,Medium,Email,Sales,Type C,3830.8,Sales_Agent_2,356,99.38,Delayed,System C,True
+CASE_00206,Activity_1,2023-02-21 09:00:47.038914,2023-02-21 10:29:47.038914,CUST_6856,High,In-Person,Customer Service,Type A,133.08,Customer_Agent_3,89,142.35,Expedited,System A,False
+CASE_00206,Activity_2,2023-02-21 10:29:47.038914,2023-02-21 12:09:47.038914,CUST_6856,High,In-Person,Customer Service,Type A,133.08,Customer_Agent_1,100,147.3,Delayed,System C,True
+CASE_00206,Activity_3,2023-02-21 12:09:47.038914,2023-02-21 16:27:47.038914,CUST_6856,High,In-Person,Customer Service,Type A,133.08,Customer_Agent_3,258,112.94,Completed,System C,False
+CASE_00207,Activity_1,2024-01-02 10:54:10.061356,2024-01-02 14:21:10.061356,CUST_4859,Medium,Email,Operations,Type A,8719.48,Operations_Agent_1,207,142.72,Completed,System B,False
+CASE_00207,Activity_2,2024-01-02 14:21:10.061356,2024-01-03 09:00:10.061356,CUST_4859,Medium,Email,Operations,Type A,8719.48,Operations_Agent_2,435,112.16,Completed,System A,True
+CASE_00207,Activity_3,2024-01-03 09:00:10.061356,2024-01-03 16:32:10.061356,CUST_4859,Medium,Email,Operations,Type A,8719.48,Operations_Agent_1,452,102.74,Delayed,System A,True
+CASE_00208,Activity_1,2023-06-06 09:00:55.598572,2023-06-06 11:48:55.598572,CUST_7043,High,Web,Operations,Type C,8360.39,Operations_Agent_3,168,152.99,Expedited,System A,True
+CASE_00208,Activity_2,2023-06-06 11:48:55.598572,2023-06-06 14:09:55.598572,CUST_7043,High,Web,Operations,Type C,8360.39,Operations_Agent_3,141,95.91,Expedited,System A,False
+CASE_00208,Activity_3,2023-06-06 14:09:55.598572,2023-06-06 17:00:55.598572,CUST_7043,High,Web,Operations,Type C,8360.39,Operations_Agent_2,171,84.64,Delayed,System C,False
+CASE_00209,Activity_1,2023-03-28 09:00:54.801691,2023-03-28 13:23:54.801691,CUST_1334,Low,Email,Operations,Type C,7088.64,Operations_Agent_3,263,169.54,Delayed,System C,False
+CASE_00209,Activity_2,2023-03-28 13:23:54.801691,2023-03-28 16:40:54.801691,CUST_1334,Low,Email,Operations,Type C,7088.64,Operations_Agent_2,197,156.54,Expedited,System B,True
+CASE_00209,Activity_3,2023-03-28 16:40:54.801691,2023-03-29 09:00:54.801691,CUST_1334,Low,Email,Operations,Type C,7088.64,Operations_Agent_2,361,160.35,Completed,System B,True
+CASE_00210,Activity_3,2023-07-06 09:00:25.155693,2023-07-06 12:23:25.155693,CUST_9665,Low,Phone,Customer Service,Type B,2173.91,Customer_Agent_1,203,93.67,Completed,System B,False
+CASE_00211,Activity_1,2023-06-06 09:00:51.560079,2023-06-06 12:51:51.560079,CUST_3166,Medium,Phone,Finance,Type B,6532.76,Finance_Agent_1,231,119.71,Completed,System B,False
+CASE_00211,Activity_2,2023-06-06 12:51:51.560079,2023-06-06 16:33:51.560079,CUST_3166,Medium,Phone,Finance,Type B,6532.76,Finance_Agent_2,222,199.35,Delayed,System B,False
+CASE_00211,Activity_3,2023-06-06 16:33:51.560079,2023-06-07 09:00:51.560079,CUST_3166,Medium,Phone,Finance,Type B,6532.76,Finance_Agent_1,205,140.83,Expedited,System B,True
+CASE_00212,Activity_1,2023-09-27 12:29:06.318109,2023-09-27 13:39:06.318109,CUST_8124,Medium,Email,Legal,Type B,2123.39,Legal_Agent_1,70,204.06,Expedited,System C,True
+CASE_00212,Activity_2,2023-09-27 13:39:06.318109,2023-09-27 17:07:06.318109,CUST_8124,Medium,Email,Legal,Type B,2123.39,Legal_Agent_3,208,176.35,Completed,System B,True
+CASE_00212,Activity_3,2023-09-27 17:07:06.318109,2023-09-28 09:00:06.318109,CUST_8124,Medium,Email,Legal,Type B,2123.39,Legal_Agent_1,290,227.86,Completed,System C,True
+CASE_00213,Activity_3,2023-09-05 09:00:50.833733,2023-09-05 09:37:50.833733,CUST_9301,High,In-Person,Legal,Type C,1036.04,Legal_Agent_3,37,176.75,Expedited,System C,False
+CASE_00214,Activity_3,2023-07-26 09:12:53.228596,2023-07-26 12:06:53.228596,CUST_4947,Low,Phone,Customer Service,Type A,5557.28,Customer_Agent_3,174,170.2,Delayed,System C,False
+CASE_00215,Activity_3,2023-08-25 09:00:16.356813,2023-08-25 15:12:16.356813,CUST_1379,High,Email,Customer Service,Type C,6730.28,Customer_Agent_1,372,186.18,Delayed,System B,False
+CASE_00216,Activity_1,2023-02-13 16:06:41.334471,2023-02-14 09:00:41.334471,CUST_1207,Medium,Phone,Operations,Type C,8767.58,Operations_Agent_2,326,110.59,Delayed,System A,False
+CASE_00216,Activity_2,2023-02-14 09:00:41.334471,2023-02-14 13:04:41.334471,CUST_1207,Medium,Phone,Operations,Type C,8767.58,Operations_Agent_1,244,153.73,Completed,System B,False
+CASE_00216,Activity_3,2023-02-14 13:04:41.334471,2023-02-15 09:00:41.334471,CUST_1207,Medium,Phone,Operations,Type C,8767.58,Operations_Agent_3,413,158.24,Expedited,System B,False
+CASE_00217,Activity_1,2023-12-12 09:00:36.066494,2023-12-12 14:50:36.066494,CUST_4632,High,Phone,Sales,Type B,5453.01,Sales_Agent_2,350,136.31,Expedited,System B,False
+CASE_00217,Activity_2,2023-12-12 14:50:36.066494,2023-12-13 09:00:36.066494,CUST_4632,High,Phone,Sales,Type B,5453.01,Sales_Agent_3,210,125.54,Expedited,System A,False
+CASE_00217,Activity_3,2023-12-13 09:00:36.066494,2023-12-13 14:22:36.066494,CUST_4632,High,Phone,Sales,Type B,5453.01,Sales_Agent_3,322,135.05,Expedited,System A,True
+CASE_00218,Activity_3,2023-12-26 09:00:56.739935,2023-12-26 15:26:56.739935,CUST_5228,High,Email,Finance,Type B,864.55,Finance_Agent_1,386,125.41,Delayed,System C,False
+CASE_00219,Activity_1,2023-12-14 09:00:37.819820,2023-12-14 10:39:37.819820,CUST_9756,High,Phone,Customer Service,Type A,5443.71,Customer_Agent_2,99,107.42,Completed,System A,False
+CASE_00219,Activity_2,2023-12-14 10:39:37.819820,2023-12-14 13:12:37.819820,CUST_9756,High,Phone,Customer Service,Type A,5443.71,Customer_Agent_1,153,130.38,Completed,System B,False
+CASE_00219,Activity_3,2023-12-14 13:12:37.819820,2023-12-15 09:00:37.819820,CUST_9756,High,Phone,Customer Service,Type A,5443.71,Customer_Agent_2,379,157.16,Completed,System C,True
+CASE_00220,Activity_1,2023-11-02 09:00:26.881245,2023-11-02 13:32:26.881245,CUST_2076,High,In-Person,Operations,Type B,8135.11,Operations_Agent_1,272,133.44,Delayed,System B,True
+CASE_00220,Activity_2,2023-11-02 13:32:26.881245,2023-11-02 17:43:26.881245,CUST_2076,High,In-Person,Operations,Type B,8135.11,Operations_Agent_3,251,95.54,Delayed,System A,True
+CASE_00220,Activity_3,2023-11-02 17:43:26.881245,2023-11-03 09:00:26.881245,CUST_2076,High,In-Person,Operations,Type B,8135.11,Operations_Agent_1,443,166.89,Delayed,System A,False
+CASE_00221,Activity_1,2023-09-11 09:00:14.551952,2023-09-11 09:59:14.551952,CUST_9251,High,Phone,Sales,Type B,6474.87,Sales_Agent_3,59,58.42,Delayed,System A,True
+CASE_00221,Activity_2,2023-09-11 09:59:14.551952,2023-09-11 13:06:14.551952,CUST_9251,High,Phone,Sales,Type B,6474.87,Sales_Agent_2,187,97.81,Delayed,System C,False
+CASE_00221,Activity_3,2023-09-11 13:06:14.551952,2023-09-12 09:00:14.551952,CUST_9251,High,Phone,Sales,Type B,6474.87,Sales_Agent_2,432,75.83,Completed,System C,False
+CASE_00222,Activity_1,2023-04-11 15:25:53.173189,2023-04-12 09:00:53.173189,CUST_5917,Low,Web,Customer Service,Type B,4119.79,Customer_Agent_3,343,130.22,Delayed,System C,True
+CASE_00222,Activity_2,2023-04-12 09:00:53.173189,2023-04-12 16:17:53.173189,CUST_5917,Low,Web,Customer Service,Type B,4119.79,Customer_Agent_3,437,146.26,Completed,System A,False
+CASE_00222,Activity_3,2023-04-12 16:17:53.173189,2023-04-13 09:00:53.173189,CUST_5917,Low,Web,Customer Service,Type B,4119.79,Customer_Agent_2,139,168.76,Delayed,System B,True
+CASE_00223,Activity_3,2023-03-03 15:28:30.580423,2023-03-03 17:16:30.580423,CUST_5163,Low,Phone,Legal,Type C,9070.19,Legal_Agent_3,108,196.19,Delayed,System B,False
+CASE_00224,Activity_1,2023-08-29 09:00:31.057553,2023-08-29 16:11:31.057553,CUST_3964,Low,Phone,Operations,Type A,1703.0,Operations_Agent_2,431,101.87,Expedited,System B,False
+CASE_00224,Activity_2,2023-08-29 16:11:31.057553,2023-08-29 17:06:31.057553,CUST_3964,Low,Phone,Operations,Type A,1703.0,Operations_Agent_3,55,144.88,Delayed,System B,False
+CASE_00224,Activity_3,2023-08-29 17:06:31.057553,2023-08-30 09:00:31.057553,CUST_3964,Low,Phone,Operations,Type A,1703.0,Operations_Agent_3,71,73.82,Expedited,System C,True
+CASE_00225,Activity_1,2023-02-14 09:00:37.016354,2023-02-14 13:17:37.016354,CUST_1940,Medium,Phone,Sales,Type C,7381.03,Sales_Agent_2,257,128.79,Completed,System A,False
+CASE_00225,Activity_2,2023-02-14 13:17:37.016354,2023-02-15 09:00:37.016354,CUST_1940,Medium,Phone,Sales,Type C,7381.03,Sales_Agent_3,381,102.61,Delayed,System A,False
+CASE_00225,Activity_3,2023-02-15 09:00:37.016354,2023-02-15 16:26:37.016354,CUST_1940,Medium,Phone,Sales,Type C,7381.03,Sales_Agent_2,446,101.53,Expedited,System C,True
+CASE_00226,Activity_3,2023-11-13 09:00:33.763720,2023-11-13 16:14:33.763720,CUST_1781,High,Phone,Finance,Type B,642.63,Finance_Agent_2,434,207.03,Completed,System C,True
+CASE_00227,Activity_1,2023-03-22 09:00:07.865892,2023-03-22 16:54:07.865892,CUST_8500,Medium,Phone,Finance,Type C,4249.75,Finance_Agent_2,474,184.01,Completed,System B,True
+CASE_00227,Activity_2,2023-03-22 16:54:07.865892,2023-03-23 09:00:07.865892,CUST_8500,Medium,Phone,Finance,Type C,4249.75,Finance_Agent_2,332,126.58,Completed,System C,True
+CASE_00227,Activity_3,2023-03-23 09:00:07.865892,2023-03-23 15:49:07.865892,CUST_8500,Medium,Phone,Finance,Type C,4249.75,Finance_Agent_1,409,179.38,Expedited,System A,False
+CASE_00228,Activity_3,2023-07-18 09:00:16.856624,2023-07-18 16:25:16.856624,CUST_7755,Medium,Email,Customer Service,Type A,7203.59,Customer_Agent_2,445,95.93,Delayed,System C,True
+CASE_00229,Activity_1,2023-04-18 17:07:53.362155,2023-04-19 09:00:53.362155,CUST_6169,Low,Email,Operations,Type C,8928.56,Operations_Agent_3,121,135.16,Completed,System C,False
+CASE_00229,Activity_2,2023-04-19 09:00:53.362155,2023-04-19 15:09:53.362155,CUST_6169,Low,Email,Operations,Type C,8928.56,Operations_Agent_3,369,117.91,Delayed,System B,False
+CASE_00229,Activity_3,2023-04-19 15:09:53.362155,2023-04-20 09:00:53.362155,CUST_6169,Low,Email,Operations,Type C,8928.56,Operations_Agent_2,301,127.68,Completed,System A,False
+CASE_00230,Activity_1,2023-05-18 09:00:10.517308,2023-05-18 14:13:10.517308,CUST_6505,Medium,Email,Operations,Type B,7609.64,Operations_Agent_2,313,114.84,Expedited,System B,True
+CASE_00230,Activity_2,2023-05-18 14:13:10.517308,2023-05-18 17:40:10.517308,CUST_6505,Medium,Email,Operations,Type B,7609.64,Operations_Agent_2,207,74.68,Completed,System B,False
+CASE_00230,Activity_3,2023-05-18 17:40:10.517308,2023-05-19 09:00:10.517308,CUST_6505,Medium,Email,Operations,Type B,7609.64,Operations_Agent_3,194,72.74,Delayed,System C,False
+CASE_00231,Activity_1,2023-12-08 09:00:52.543746,2023-12-08 14:34:52.543746,CUST_1248,Low,Email,Customer Service,Type C,8591.96,Customer_Agent_3,334,138.44,Completed,System A,True
+CASE_00231,Activity_2,2023-12-08 14:34:52.543746,2023-12-08 17:08:52.543746,CUST_1248,Low,Email,Customer Service,Type C,8591.96,Customer_Agent_2,154,127.47,Delayed,System C,False
+CASE_00231,Activity_3,2023-12-08 17:08:52.543746,2023-12-12 09:00:52.543746,CUST_1248,Low,Email,Customer Service,Type C,8591.96,Customer_Agent_3,326,153.71,Completed,System A,True
+CASE_00232,Activity_1,2023-07-17 09:00:57.971958,2023-07-17 15:13:57.971958,CUST_2200,High,Phone,Finance,Type A,595.47,Finance_Agent_2,373,149.22,Completed,System A,True
+CASE_00232,Activity_2,2023-07-17 15:13:57.971958,2023-07-18 09:00:57.971958,CUST_2200,High,Phone,Finance,Type A,595.47,Finance_Agent_1,458,110.09,Completed,System B,True
+CASE_00232,Activity_3,2023-07-18 09:00:57.971958,2023-07-18 16:28:57.971958,CUST_2200,High,Phone,Finance,Type A,595.47,Finance_Agent_2,448,127.25,Expedited,System C,True
+CASE_00233,Activity_3,2023-09-19 09:00:22.310260,2023-09-19 16:55:22.310260,CUST_6560,Low,Web,Operations,Type B,9704.06,Operations_Agent_3,475,133.71,Expedited,System B,True
+CASE_00234,Activity_1,2023-06-13 16:54:17.010030,2023-06-14 09:00:17.010030,CUST_9305,High,In-Person,Operations,Type B,6213.02,Operations_Agent_3,81,75.35,Delayed,System C,True
+CASE_00234,Activity_2,2023-06-14 09:00:17.010030,2023-06-14 11:15:17.010030,CUST_9305,High,In-Person,Operations,Type B,6213.02,Operations_Agent_1,135,102.27,Delayed,System C,True
+CASE_00234,Activity_3,2023-06-14 11:15:17.010030,2023-06-14 14:52:17.010030,CUST_9305,High,In-Person,Operations,Type B,6213.02,Operations_Agent_3,217,103.73,Completed,System C,False
+CASE_00235,Activity_1,2023-04-04 09:00:57.449154,2023-04-04 11:25:57.449154,CUST_7854,High,Web,Sales,Type A,6905.04,Sales_Agent_3,145,70.99,Delayed,System A,False
+CASE_00235,Activity_2,2023-04-04 11:25:57.449154,2023-04-04 14:30:57.449154,CUST_7854,High,Web,Sales,Type A,6905.04,Sales_Agent_1,185,107.56,Completed,System A,True
+CASE_00235,Activity_3,2023-04-04 14:30:57.449154,2023-04-04 16:49:57.449154,CUST_7854,High,Web,Sales,Type A,6905.04,Sales_Agent_3,139,117.83,Completed,System C,False
+CASE_00236,Activity_3,2023-05-30 13:09:23.884172,2023-05-31 09:00:23.884172,CUST_4065,High,Email,Operations,Type C,2044.8,Operations_Agent_1,453,137.47,Completed,System C,False
+CASE_00237,Activity_1,2023-12-19 15:41:11.494226,2023-12-20 09:00:11.494226,CUST_5764,Low,Email,Legal,Type A,4129.45,Legal_Agent_1,223,222.38,Expedited,System C,True
+CASE_00237,Activity_2,2023-12-20 09:00:11.494226,2023-12-20 11:58:11.494226,CUST_5764,Low,Email,Legal,Type A,4129.45,Legal_Agent_2,178,152.88,Completed,System A,True
+CASE_00237,Activity_3,2023-12-20 11:58:11.494226,2023-12-20 13:44:11.494226,CUST_5764,Low,Email,Legal,Type A,4129.45,Legal_Agent_2,106,137.84,Completed,System C,False
+CASE_00238,Activity_1,2023-10-18 09:00:18.086763,2023-10-18 14:38:18.086763,CUST_3068,Medium,Email,Customer Service,Type B,1408.1,Customer_Agent_2,338,94.46,Delayed,System C,False
+CASE_00238,Activity_2,2023-10-18 14:38:18.086763,2023-10-19 09:00:18.086763,CUST_3068,Medium,Email,Customer Service,Type B,1408.1,Customer_Agent_3,371,104.09,Expedited,System C,False
+CASE_00238,Activity_3,2023-10-19 09:00:18.086763,2023-10-19 13:34:18.086763,CUST_3068,Medium,Email,Customer Service,Type B,1408.1,Customer_Agent_3,274,174.07,Expedited,System C,True
+CASE_00239,Activity_1,2023-08-21 09:00:22.523498,2023-08-21 09:58:22.523498,CUST_2465,Low,In-Person,Finance,Type A,6225.02,Finance_Agent_2,58,185.99,Completed,System C,False
+CASE_00239,Activity_2,2023-08-21 09:58:22.523498,2023-08-21 15:51:22.523498,CUST_2465,Low,In-Person,Finance,Type A,6225.02,Finance_Agent_1,353,130.1,Delayed,System B,True
+CASE_00239,Activity_3,2023-08-21 15:51:22.523498,2023-08-22 09:00:22.523498,CUST_2465,Low,In-Person,Finance,Type A,6225.02,Finance_Agent_1,202,152.89,Delayed,System A,False
+CASE_00240,Activity_3,2023-10-10 12:25:33.464968,2023-10-10 17:52:33.464968,CUST_8594,Low,Email,Legal,Type C,3719.2,Legal_Agent_1,327,196.94,Delayed,System A,True
+CASE_00241,Activity_1,2023-03-10 09:00:18.348996,2023-03-10 11:04:18.348996,CUST_3307,Medium,Phone,Operations,Type A,6702.05,Operations_Agent_2,124,167.54,Expedited,System C,True
+CASE_00241,Activity_2,2023-03-10 11:04:18.348996,2023-03-10 11:47:18.348996,CUST_3307,Medium,Phone,Operations,Type A,6702.05,Operations_Agent_1,43,113.93,Expedited,System B,True
+CASE_00241,Activity_3,2023-03-10 11:47:18.348996,2023-03-10 13:08:18.348996,CUST_3307,Medium,Phone,Operations,Type A,6702.05,Operations_Agent_2,81,96.99,Expedited,System C,True
+CASE_00242,Activity_1,2023-04-25 09:00:21.621209,2023-04-25 16:36:21.621209,CUST_4878,High,Phone,Operations,Type C,7147.03,Operations_Agent_2,456,88.3,Delayed,System B,False
+CASE_00242,Activity_2,2023-04-25 16:36:21.621209,2023-04-26 09:00:21.621209,CUST_4878,High,Phone,Operations,Type C,7147.03,Operations_Agent_3,228,139.98,Expedited,System A,False
+CASE_00242,Activity_3,2023-04-26 09:00:21.621209,2023-04-26 12:19:21.621209,CUST_4878,High,Phone,Operations,Type C,7147.03,Operations_Agent_3,199,134.49,Completed,System B,False
+CASE_00243,Activity_3,2023-05-16 09:00:04.980843,2023-05-16 11:19:04.980843,CUST_4680,High,Email,Customer Service,Type A,716.59,Customer_Agent_1,139,176.47,Expedited,System A,True
+CASE_00244,Activity_1,2023-02-07 16:26:56.050081,2023-02-08 09:00:56.050081,CUST_7697,High,Email,Customer Service,Type C,9894.63,Customer_Agent_1,158,109.83,Expedited,System C,False
+CASE_00244,Activity_2,2023-02-08 09:00:56.050081,2023-02-08 10:19:56.050081,CUST_7697,High,Email,Customer Service,Type C,9894.63,Customer_Agent_3,79,134.72,Delayed,System C,True
+CASE_00244,Activity_3,2023-02-08 10:19:56.050081,2023-02-08 10:57:56.050081,CUST_7697,High,Email,Customer Service,Type C,9894.63,Customer_Agent_3,38,187.83,Completed,System C,True
+CASE_00245,Activity_1,2023-05-23 09:00:37.103249,2023-05-23 14:03:37.103249,CUST_8232,High,Phone,Customer Service,Type B,8033.7,Customer_Agent_1,303,122.9,Delayed,System B,False
+CASE_00245,Activity_2,2023-05-23 14:03:37.103249,2023-05-24 09:00:37.103249,CUST_8232,High,Phone,Customer Service,Type B,8033.7,Customer_Agent_3,434,176.0,Expedited,System C,True
+CASE_00245,Activity_3,2023-05-24 09:00:37.103249,2023-05-24 16:27:37.103249,CUST_8232,High,Phone,Customer Service,Type B,8033.7,Customer_Agent_3,447,93.49,Completed,System A,True
+CASE_00246,Activity_1,2023-05-02 09:00:14.201498,2023-05-02 16:27:14.201498,CUST_6203,Medium,Phone,Finance,Type B,5178.54,Finance_Agent_1,447,150.36,Expedited,System A,False
+CASE_00246,Activity_2,2023-05-02 16:27:14.201498,2023-05-03 09:00:14.201498,CUST_6203,Medium,Phone,Finance,Type B,5178.54,Finance_Agent_1,377,124.06,Expedited,System A,False
+CASE_00246,Activity_3,2023-05-03 09:00:14.201498,2023-05-03 10:44:14.201498,CUST_6203,Medium,Phone,Finance,Type B,5178.54,Finance_Agent_2,104,129.94,Expedited,System C,True
+CASE_00247,Activity_3,2023-08-31 09:00:50.715176,2023-08-31 14:50:50.715176,CUST_2230,Low,Email,Customer Service,Type C,4831.95,Customer_Agent_2,350,114.23,Delayed,System C,True
+CASE_00248,Activity_3,2023-09-19 09:00:44.126233,2023-09-19 11:43:44.126233,CUST_5232,Low,In-Person,Sales,Type B,9303.52,Sales_Agent_3,163,132.24,Completed,System A,False
+CASE_00249,Activity_3,2023-11-21 09:33:05.612184,2023-11-21 14:53:05.612184,CUST_8097,Low,Web,Sales,Type A,6368.8,Sales_Agent_3,320,139.99,Expedited,System A,True
+CASE_00250,Activity_3,2023-12-27 09:00:34.110684,2023-12-27 15:20:34.110684,CUST_8666,Medium,Email,Customer Service,Type A,9134.28,Customer_Agent_1,380,150.5,Expedited,System A,True
+CASE_00251,Activity_3,2023-11-15 11:32:46.853855,2023-11-16 09:00:46.853855,CUST_3520,High,In-Person,Legal,Type A,807.97,Legal_Agent_2,449,188.89,Expedited,System C,False
+CASE_00252,Activity_3,2023-11-02 09:00:01.872050,2023-11-02 09:47:01.872050,CUST_4456,High,Email,Operations,Type B,7031.61,Operations_Agent_2,47,92.69,Expedited,System B,False
+CASE_00253,Activity_3,2023-04-19 15:52:43.792090,2023-04-20 09:00:43.792090,CUST_6056,Low,Phone,Finance,Type C,2775.62,Finance_Agent_1,400,208.79,Delayed,System B,True
+CASE_00254,Activity_1,2023-09-12 09:00:50.709486,2023-09-12 10:26:50.709486,CUST_8135,Low,Phone,Sales,Type B,6319.68,Sales_Agent_1,86,105.58,Delayed,System B,True
+CASE_00254,Activity_2,2023-09-12 10:26:50.709486,2023-09-12 13:03:50.709486,CUST_8135,Low,Phone,Sales,Type B,6319.68,Sales_Agent_2,157,142.67,Expedited,System C,True
+CASE_00254,Activity_3,2023-09-12 13:03:50.709486,2023-09-12 14:42:50.709486,CUST_8135,Low,Phone,Sales,Type B,6319.68,Sales_Agent_1,99,89.09,Expedited,System B,True
+CASE_00255,Activity_3,2023-09-25 11:31:28.733951,2023-09-25 15:20:28.733951,CUST_3081,Low,Web,Legal,Type C,8947.87,Legal_Agent_3,229,188.89,Expedited,System A,True
+CASE_00256,Activity_1,2023-10-24 09:00:28.645011,2023-10-24 10:27:28.645011,CUST_4531,Low,In-Person,Sales,Type B,4582.13,Sales_Agent_1,87,60.16,Completed,System B,True
+CASE_00256,Activity_2,2023-10-24 10:27:28.645011,2023-10-24 14:13:28.645011,CUST_4531,Low,In-Person,Sales,Type B,4582.13,Sales_Agent_1,226,63.11,Completed,System A,True
+CASE_00256,Activity_3,2023-10-24 14:13:28.645011,2023-10-24 14:45:28.645011,CUST_4531,Low,In-Person,Sales,Type B,4582.13,Sales_Agent_3,32,114.83,Completed,System A,False
+CASE_00257,Activity_3,2023-01-27 09:00:26.943344,2023-01-27 16:49:26.943344,CUST_1581,High,In-Person,Operations,Type A,6989.71,Operations_Agent_3,469,159.61,Completed,System A,True
+CASE_00258,Activity_1,2023-11-14 09:00:19.910872,2023-11-14 15:57:19.910872,CUST_4576,Low,Web,Operations,Type B,6838.09,Operations_Agent_3,417,139.22,Completed,System B,True
+CASE_00258,Activity_2,2023-11-14 15:57:19.910872,2023-11-14 17:34:19.910872,CUST_4576,Low,Web,Operations,Type B,6838.09,Operations_Agent_2,97,74.62,Delayed,System C,False
+CASE_00258,Activity_3,2023-11-14 17:34:19.910872,2023-11-15 09:00:19.910872,CUST_4576,Low,Web,Operations,Type B,6838.09,Operations_Agent_1,68,147.13,Expedited,System C,False
+CASE_00259,Activity_3,2023-02-08 13:45:45.716666,2023-02-09 09:00:45.716666,CUST_4381,High,Web,Finance,Type A,5539.86,Finance_Agent_1,414,206.85,Expedited,System A,False
+CASE_00260,Activity_1,2023-06-08 09:00:30.300610,2023-06-08 16:20:30.300610,CUST_8083,High,Phone,Sales,Type A,1272.72,Sales_Agent_3,440,141.11,Expedited,System C,False
+CASE_00260,Activity_2,2023-06-08 16:20:30.300610,2023-06-09 09:00:30.300610,CUST_8083,High,Phone,Sales,Type A,1272.72,Sales_Agent_3,402,55.18,Completed,System B,False
+CASE_00260,Activity_3,2023-06-09 09:00:30.300610,2023-06-09 11:00:30.300610,CUST_8083,High,Phone,Sales,Type A,1272.72,Sales_Agent_3,120,107.83,Expedited,System A,False
+CASE_00261,Activity_3,2023-10-18 09:00:13.286052,2023-10-18 15:59:13.286052,CUST_5135,Medium,Phone,Finance,Type A,9735.96,Finance_Agent_2,419,149.56,Completed,System C,True
+CASE_00262,Activity_3,2023-11-06 09:00:24.744574,2023-11-06 15:19:24.744574,CUST_1562,Low,Email,Sales,Type A,5433.31,Sales_Agent_3,379,66.39,Expedited,System A,False
+CASE_00263,Activity_1,2023-10-31 17:17:49.011163,2023-11-01 09:00:49.011163,CUST_4085,Medium,In-Person,Operations,Type C,9566.71,Operations_Agent_3,123,136.05,Completed,System B,True
+CASE_00263,Activity_2,2023-11-01 09:00:49.011163,2023-11-01 11:02:49.011163,CUST_4085,Medium,In-Person,Operations,Type C,9566.71,Operations_Agent_3,122,166.13,Delayed,System B,False
+CASE_00263,Activity_3,2023-11-01 11:02:49.011163,2023-11-02 09:00:49.011163,CUST_4085,Medium,In-Person,Operations,Type C,9566.71,Operations_Agent_3,468,116.01,Expedited,System B,True
+CASE_00264,Activity_3,2023-08-10 09:00:42.631329,2023-08-10 16:28:42.631329,CUST_3223,Low,In-Person,Sales,Type B,4184.24,Sales_Agent_2,448,97.23,Expedited,System B,True
+CASE_00265,Activity_1,2023-05-31 09:00:55.857573,2023-05-31 13:39:55.857573,CUST_5055,Low,In-Person,Finance,Type A,3185.6,Finance_Agent_1,279,121.63,Delayed,System A,True
+CASE_00265,Activity_2,2023-05-31 13:39:55.857573,2023-06-01 09:00:55.857573,CUST_5055,Low,In-Person,Finance,Type A,3185.6,Finance_Agent_2,308,205.76,Expedited,System A,False
+CASE_00265,Activity_3,2023-06-01 09:00:55.857573,2023-06-01 15:23:55.857573,CUST_5055,Low,In-Person,Finance,Type A,3185.6,Finance_Agent_1,383,146.91,Expedited,System C,False
+CASE_00266,Activity_1,2023-07-24 09:00:20.236950,2023-07-24 11:49:20.236950,CUST_7035,High,In-Person,Legal,Type A,1649.89,Legal_Agent_2,169,201.63,Completed,System B,False
+CASE_00266,Activity_2,2023-07-24 11:49:20.236950,2023-07-24 15:16:20.236950,CUST_7035,High,In-Person,Legal,Type A,1649.89,Legal_Agent_3,207,213.72,Completed,System A,True
+CASE_00266,Activity_3,2023-07-24 15:16:20.236950,2023-07-25 09:00:20.236950,CUST_7035,High,In-Person,Legal,Type A,1649.89,Legal_Agent_2,470,135.38,Completed,System A,True
+CASE_00267,Activity_3,2023-09-11 09:00:54.619917,2023-09-11 13:23:54.619917,CUST_7037,Medium,In-Person,Finance,Type C,6416.44,Finance_Agent_2,263,117.25,Delayed,System A,False
+CASE_00268,Activity_1,2023-12-01 09:00:39.406329,2023-12-01 10:58:39.406329,CUST_4692,Low,Phone,Legal,Type C,1758.67,Legal_Agent_1,118,209.06,Expedited,System B,False
+CASE_00268,Activity_2,2023-12-01 10:58:39.406329,2023-12-01 16:39:39.406329,CUST_4692,Low,Phone,Legal,Type C,1758.67,Legal_Agent_2,341,181.42,Delayed,System A,False
+CASE_00268,Activity_3,2023-12-01 16:39:39.406329,2023-12-05 09:00:39.406329,CUST_4692,Low,Phone,Legal,Type C,1758.67,Legal_Agent_3,223,140.68,Delayed,System A,False
+CASE_00269,Activity_1,2023-03-21 09:00:24.658398,2023-03-21 16:44:24.658398,CUST_3496,Low,Phone,Operations,Type C,8684.67,Operations_Agent_1,464,113.45,Expedited,System A,False
+CASE_00269,Activity_2,2023-03-21 16:44:24.658398,2023-03-22 09:00:24.658398,CUST_3496,Low,Phone,Operations,Type C,8684.67,Operations_Agent_2,179,137.2,Expedited,System C,False
+CASE_00269,Activity_3,2023-03-22 09:00:24.658398,2023-03-22 10:12:24.658398,CUST_3496,Low,Phone,Operations,Type C,8684.67,Operations_Agent_1,72,104.04,Completed,System A,False
+CASE_00270,Activity_1,2023-05-16 09:00:47.879898,2023-05-16 12:51:47.879898,CUST_2307,Low,Web,Customer Service,Type B,9828.9,Customer_Agent_3,231,128.11,Completed,System C,False
+CASE_00270,Activity_2,2023-05-16 12:51:47.879898,2023-05-16 13:27:47.879898,CUST_2307,Low,Web,Customer Service,Type B,9828.9,Customer_Agent_2,36,139.25,Expedited,System A,True
+CASE_00270,Activity_3,2023-05-16 13:27:47.879898,2023-05-17 09:00:47.879898,CUST_2307,Low,Web,Customer Service,Type B,9828.9,Customer_Agent_3,390,189.19,Delayed,System B,False
+CASE_00271,Activity_3,2023-10-24 16:57:49.329407,2023-10-25 09:00:49.329407,CUST_9158,High,Phone,Legal,Type C,5005.43,Legal_Agent_1,355,203.12,Delayed,System A,True
+CASE_00272,Activity_3,2023-12-29 09:00:53.615819,2023-12-29 14:12:53.615819,CUST_5519,Medium,Phone,Legal,Type B,5149.55,Legal_Agent_3,312,219.83,Delayed,System C,False
+CASE_00273,Activity_1,2023-11-01 09:00:23.103244,2023-11-01 15:33:23.103244,CUST_5009,Medium,Email,Legal,Type A,7417.35,Legal_Agent_1,393,178.85,Completed,System A,False
+CASE_00273,Activity_2,2023-11-01 15:33:23.103244,2023-11-02 09:00:23.103244,CUST_5009,Medium,Email,Legal,Type A,7417.35,Legal_Agent_3,377,215.3,Completed,System C,False
+CASE_00273,Activity_3,2023-11-02 09:00:23.103244,2023-11-02 11:37:23.103244,CUST_5009,Medium,Email,Legal,Type A,7417.35,Legal_Agent_1,157,148.78,Delayed,System A,True
+CASE_00274,Activity_3,2023-09-11 09:00:14.644502,2023-09-11 12:21:14.644502,CUST_6339,Low,Web,Finance,Type A,6621.85,Finance_Agent_2,201,171.51,Completed,System A,False
+CASE_00275,Activity_3,2023-09-28 09:00:55.463432,2023-09-28 10:38:55.463432,CUST_9458,Medium,Phone,Customer Service,Type C,9798.88,Customer_Agent_2,98,149.58,Delayed,System A,True
+CASE_00276,Activity_1,2023-10-27 09:00:38.340360,2023-10-27 11:20:38.340360,CUST_9445,Medium,Email,Finance,Type B,1485.59,Finance_Agent_1,140,177.14,Completed,System A,True
+CASE_00276,Activity_2,2023-10-27 11:20:38.340360,2023-10-31 09:00:38.340360,CUST_9445,Medium,Email,Finance,Type B,1485.59,Finance_Agent_1,471,193.01,Expedited,System B,False
+CASE_00276,Activity_3,2023-10-31 09:00:38.340360,2023-10-31 11:10:38.340360,CUST_9445,Medium,Email,Finance,Type B,1485.59,Finance_Agent_2,130,201.95,Delayed,System C,False
+CASE_00277,Activity_3,2023-09-26 09:00:03.572726,2023-09-26 14:11:03.572726,CUST_7779,High,In-Person,Sales,Type A,2290.8,Sales_Agent_3,311,125.52,Expedited,System C,False
+CASE_00278,Activity_1,2023-08-23 09:00:56.580184,2023-08-23 11:50:56.580184,CUST_9400,Low,Phone,Customer Service,Type A,1724.6,Customer_Agent_3,170,108.19,Expedited,System C,False
+CASE_00278,Activity_2,2023-08-23 11:50:56.580184,2023-08-24 09:00:56.580184,CUST_9400,Low,Phone,Customer Service,Type A,1724.6,Customer_Agent_2,397,176.8,Expedited,System B,True
+CASE_00278,Activity_3,2023-08-24 09:00:56.580184,2023-08-24 12:34:56.580184,CUST_9400,Low,Phone,Customer Service,Type A,1724.6,Customer_Agent_1,214,153.54,Completed,System B,True
+CASE_00279,Activity_1,2023-03-02 09:00:16.828229,2023-03-02 10:27:16.828229,CUST_7576,High,Phone,Operations,Type A,4768.06,Operations_Agent_1,87,102.06,Delayed,System C,True
+CASE_00279,Activity_2,2023-03-02 10:27:16.828229,2023-03-02 11:08:16.828229,CUST_7576,High,Phone,Operations,Type A,4768.06,Operations_Agent_1,41,168.13,Delayed,System B,True
+CASE_00279,Activity_3,2023-03-02 11:08:16.828229,2023-03-03 09:00:16.828229,CUST_7576,High,Phone,Operations,Type A,4768.06,Operations_Agent_1,443,140.37,Expedited,System A,True
+CASE_00280,Activity_3,2023-07-03 09:00:03.092699,2023-07-03 12:01:03.092699,CUST_2411,High,Email,Sales,Type B,8064.48,Sales_Agent_1,181,85.03,Completed,System B,False
+CASE_00281,Activity_1,2023-12-22 09:00:28.320291,2023-12-22 12:38:28.320291,CUST_7137,Low,Email,Customer Service,Type B,6914.26,Customer_Agent_3,218,144.87,Delayed,System C,False
+CASE_00281,Activity_2,2023-12-22 12:38:28.320291,2023-12-26 09:00:28.320291,CUST_7137,Low,Email,Customer Service,Type B,6914.26,Customer_Agent_2,465,148.64,Completed,System B,False
+CASE_00281,Activity_3,2023-12-26 09:00:28.320291,2023-12-26 16:05:28.320291,CUST_7137,Low,Email,Customer Service,Type B,6914.26,Customer_Agent_3,425,145.01,Completed,System B,True
+CASE_00282,Activity_3,2023-11-21 09:00:07.398219,2023-11-21 13:18:07.398219,CUST_2576,Low,Phone,Finance,Type B,7477.15,Finance_Agent_2,258,186.81,Completed,System B,True
+CASE_00283,Activity_3,2023-07-19 09:00:03.478673,2023-07-19 10:14:03.478673,CUST_6412,Low,Email,Sales,Type C,9111.0,Sales_Agent_3,74,111.06,Expedited,System C,True
+CASE_00284,Activity_1,2023-11-17 11:21:48.051639,2023-11-17 12:46:48.051639,CUST_1308,Low,Web,Legal,Type B,1018.87,Legal_Agent_2,85,208.11,Expedited,System B,True
+CASE_00284,Activity_2,2023-11-17 12:46:48.051639,2023-11-17 14:23:48.051639,CUST_1308,Low,Web,Legal,Type B,1018.87,Legal_Agent_2,97,135.18,Completed,System B,False
+CASE_00284,Activity_3,2023-11-17 14:23:48.051639,2023-11-17 15:44:48.051639,CUST_1308,Low,Web,Legal,Type B,1018.87,Legal_Agent_3,81,150.52,Expedited,System C,False
+CASE_00285,Activity_1,2023-06-15 09:00:03.778469,2023-06-15 10:26:03.778469,CUST_1727,Low,Web,Finance,Type A,6864.62,Finance_Agent_2,86,174.7,Delayed,System B,True
+CASE_00285,Activity_2,2023-06-15 10:26:03.778469,2023-06-15 16:39:03.778469,CUST_1727,Low,Web,Finance,Type A,6864.62,Finance_Agent_1,373,160.06,Completed,System C,False
+CASE_00285,Activity_3,2023-06-15 16:39:03.778469,2023-06-16 09:00:03.778469,CUST_1727,Low,Web,Finance,Type A,6864.62,Finance_Agent_1,447,118.41,Delayed,System A,False
+CASE_00286,Activity_3,2023-07-05 09:00:59.279816,2023-07-05 13:05:59.279816,CUST_9946,High,Web,Customer Service,Type C,7963.48,Customer_Agent_1,245,152.63,Expedited,System A,True
+CASE_00287,Activity_3,2023-07-25 09:00:46.334099,2023-07-25 14:04:46.334099,CUST_4734,High,Phone,Sales,Type B,3212.54,Sales_Agent_2,304,75.51,Delayed,System C,True
+CASE_00288,Activity_1,2023-02-02 11:20:32.254518,2023-02-02 17:47:32.254518,CUST_1923,Medium,Email,Operations,Type C,1062.89,Operations_Agent_3,387,107.81,Delayed,System A,False
+CASE_00288,Activity_2,2023-02-02 17:47:32.254518,2023-02-03 09:00:32.254518,CUST_1923,Medium,Email,Operations,Type C,1062.89,Operations_Agent_2,350,169.03,Delayed,System A,True
+CASE_00288,Activity_3,2023-02-03 09:00:32.254518,2023-02-03 11:37:32.254518,CUST_1923,Medium,Email,Operations,Type C,1062.89,Operations_Agent_1,157,93.72,Expedited,System B,False
+CASE_00289,Activity_3,2023-10-20 09:00:51.858149,2023-10-20 16:49:51.858149,CUST_5105,High,Web,Legal,Type A,5988.93,Legal_Agent_2,469,221.55,Completed,System B,True
+CASE_00290,Activity_1,2023-11-21 09:00:53.168276,2023-11-21 13:22:53.168276,CUST_3329,High,Phone,Legal,Type A,994.3,Legal_Agent_1,262,173.78,Completed,System A,False
+CASE_00290,Activity_2,2023-11-21 13:22:53.168276,2023-11-21 15:03:53.168276,CUST_3329,High,Phone,Legal,Type A,994.3,Legal_Agent_1,101,168.45,Completed,System C,False
+CASE_00290,Activity_3,2023-11-21 15:03:53.168276,2023-11-22 09:00:53.168276,CUST_3329,High,Phone,Legal,Type A,994.3,Legal_Agent_1,457,158.13,Delayed,System A,True
+CASE_00291,Activity_1,2023-02-21 17:14:40.859104,2023-02-22 09:00:40.859104,CUST_2571,High,In-Person,Legal,Type A,2267.97,Legal_Agent_1,395,202.59,Completed,System B,True
+CASE_00291,Activity_2,2023-02-22 09:00:40.859104,2023-02-22 14:35:40.859104,CUST_2571,High,In-Person,Legal,Type A,2267.97,Legal_Agent_3,335,211.61,Completed,System A,True
+CASE_00291,Activity_3,2023-02-22 14:35:40.859104,2023-02-23 09:00:40.859104,CUST_2571,High,In-Person,Legal,Type A,2267.97,Legal_Agent_1,393,165.43,Completed,System B,True
+CASE_00292,Activity_3,2023-10-26 09:00:33.367671,2023-10-26 16:45:33.367671,CUST_9838,Medium,Email,Sales,Type A,3608.54,Sales_Agent_2,465,105.66,Completed,System B,False
+CASE_00293,Activity_3,2023-10-24 11:56:06.247592,2023-10-24 14:14:06.247592,CUST_6306,High,In-Person,Customer Service,Type A,6725.22,Customer_Agent_2,138,115.49,Expedited,System B,True
+CASE_00294,Activity_1,2023-09-26 09:00:54.979950,2023-09-26 13:31:54.979950,CUST_6603,Medium,In-Person,Customer Service,Type C,3838.87,Customer_Agent_3,271,107.6,Delayed,System B,True
+CASE_00294,Activity_2,2023-09-26 13:31:54.979950,2023-09-26 14:46:54.979950,CUST_6603,Medium,In-Person,Customer Service,Type C,3838.87,Customer_Agent_2,75,115.68,Completed,System B,False
+CASE_00294,Activity_3,2023-09-26 14:46:54.979950,2023-09-26 15:18:54.979950,CUST_6603,Medium,In-Person,Customer Service,Type C,3838.87,Customer_Agent_3,32,104.49,Delayed,System C,False
+CASE_00295,Activity_1,2023-09-22 09:00:29.633283,2023-09-22 12:28:29.633283,CUST_6669,Medium,Email,Finance,Type B,8273.99,Finance_Agent_1,208,204.75,Expedited,System B,False
+CASE_00295,Activity_2,2023-09-22 12:28:29.633283,2023-09-22 14:44:29.633283,CUST_6669,Medium,Email,Finance,Type B,8273.99,Finance_Agent_1,136,136.78,Expedited,System A,True
+CASE_00295,Activity_3,2023-09-22 14:44:29.633283,2023-09-26 09:00:29.633283,CUST_6669,Medium,Email,Finance,Type B,8273.99,Finance_Agent_1,380,208.72,Expedited,System B,False
+CASE_00296,Activity_1,2023-09-05 09:00:07.052611,2023-09-05 15:50:07.052611,CUST_4861,Medium,Phone,Customer Service,Type C,9398.78,Customer_Agent_3,410,154.73,Expedited,System A,True
+CASE_00296,Activity_2,2023-09-05 15:50:07.052611,2023-09-05 16:32:07.052611,CUST_4861,Medium,Phone,Customer Service,Type C,9398.78,Customer_Agent_1,42,174.74,Completed,System B,False
+CASE_00296,Activity_3,2023-09-05 16:32:07.052611,2023-09-06 09:00:07.052611,CUST_4861,Medium,Phone,Customer Service,Type C,9398.78,Customer_Agent_2,213,169.06,Delayed,System B,True
+CASE_00297,Activity_3,2023-11-28 09:00:57.904194,2023-11-28 17:00:57.904194,CUST_6934,High,Phone,Sales,Type A,7275.58,Sales_Agent_3,480,125.68,Delayed,System B,False
+CASE_00298,Activity_1,2023-06-07 09:00:51.195134,2023-06-07 16:08:51.195134,CUST_6022,Low,Email,Customer Service,Type A,6756.16,Customer_Agent_2,428,127.83,Delayed,System C,True
+CASE_00298,Activity_2,2023-06-07 16:08:51.195134,2023-06-08 09:00:51.195134,CUST_6022,Low,Email,Customer Service,Type A,6756.16,Customer_Agent_1,376,185.26,Completed,System B,True
+CASE_00298,Activity_3,2023-06-08 09:00:51.195134,2023-06-08 13:48:51.195134,CUST_6022,Low,Email,Customer Service,Type A,6756.16,Customer_Agent_1,288,152.21,Expedited,System B,False
+CASE_00299,Activity_1,2023-05-25 09:00:32.971275,2023-05-25 13:52:32.971275,CUST_3912,Low,Phone,Sales,Type C,2993.29,Sales_Agent_2,292,100.87,Completed,System C,False
+CASE_00299,Activity_2,2023-05-25 13:52:32.971275,2023-05-26 09:00:32.971275,CUST_3912,Low,Phone,Sales,Type C,2993.29,Sales_Agent_1,376,142.61,Delayed,System B,False
+CASE_00299,Activity_3,2023-05-26 09:00:32.971275,2023-05-26 10:00:32.971275,CUST_3912,Low,Phone,Sales,Type C,2993.29,Sales_Agent_1,60,143.55,Completed,System A,True
+CASE_00300,Activity_3,2023-06-01 09:07:59.043651,2023-06-01 14:38:59.043651,CUST_9058,Low,Email,Customer Service,Type C,8094.75,Customer_Agent_3,331,111.36,Completed,System B,False
+CASE_00301,Activity_1,2023-02-28 09:00:54.556541,2023-02-28 16:55:54.556541,CUST_1594,High,Email,Sales,Type A,8647.79,Sales_Agent_2,475,66.92,Expedited,System C,True
+CASE_00301,Activity_2,2023-02-28 16:55:54.556541,2023-03-01 09:00:54.556541,CUST_1594,High,Email,Sales,Type A,8647.79,Sales_Agent_2,257,67.82,Expedited,System B,True
+CASE_00301,Activity_3,2023-03-01 09:00:54.556541,2023-03-01 09:57:54.556541,CUST_1594,High,Email,Sales,Type A,8647.79,Sales_Agent_1,57,110.26,Expedited,System A,False
+CASE_00302,Activity_1,2023-06-06 10:14:17.823862,2023-06-06 17:33:17.823862,CUST_7876,Medium,Web,Customer Service,Type B,2084.48,Customer_Agent_3,439,167.41,Expedited,System B,False
+CASE_00302,Activity_2,2023-06-06 17:33:17.823862,2023-06-07 09:00:17.823862,CUST_7876,Medium,Web,Customer Service,Type B,2084.48,Customer_Agent_1,395,155.08,Delayed,System C,True
+CASE_00302,Activity_3,2023-06-07 09:00:17.823862,2023-06-07 12:44:17.823862,CUST_7876,Medium,Web,Customer Service,Type B,2084.48,Customer_Agent_3,224,108.8,Expedited,System A,False
+CASE_00303,Activity_3,2023-03-23 09:00:11.516433,2023-03-23 11:38:11.516433,CUST_9108,Low,In-Person,Operations,Type A,3835.88,Operations_Agent_2,158,119.53,Expedited,System B,True
+CASE_00304,Activity_3,2023-01-26 09:00:49.722777,2023-01-26 13:33:49.722777,CUST_2134,Medium,Email,Sales,Type C,931.28,Sales_Agent_2,273,60.28,Expedited,System B,False
+CASE_00305,Activity_1,2023-09-01 13:34:50.057877,2023-09-05 09:00:50.057877,CUST_1965,Medium,Email,Legal,Type B,7598.56,Legal_Agent_1,299,172.87,Completed,System B,True
+CASE_00305,Activity_2,2023-09-05 09:00:50.057877,2023-09-05 15:33:50.057877,CUST_1965,Medium,Email,Legal,Type B,7598.56,Legal_Agent_3,393,222.55,Expedited,System A,False
+CASE_00305,Activity_3,2023-09-05 15:33:50.057877,2023-09-06 09:00:50.057877,CUST_1965,Medium,Email,Legal,Type B,7598.56,Legal_Agent_2,191,205.69,Delayed,System C,False
+CASE_00306,Activity_1,2023-05-23 16:15:07.216215,2023-05-23 17:01:07.216215,CUST_3623,Medium,Email,Finance,Type C,9321.83,Finance_Agent_1,46,143.74,Expedited,System A,True
+CASE_00306,Activity_2,2023-05-23 17:01:07.216215,2023-05-24 09:00:07.216215,CUST_3623,Medium,Email,Finance,Type C,9321.83,Finance_Agent_1,164,145.03,Delayed,System A,False
+CASE_00306,Activity_3,2023-05-24 09:00:07.216215,2023-05-24 15:26:07.216215,CUST_3623,Medium,Email,Finance,Type C,9321.83,Finance_Agent_1,386,181.14,Delayed,System B,False
+CASE_00307,Activity_3,2023-01-02 16:55:27.977445,2023-01-03 09:00:27.977445,CUST_2277,Medium,Email,Customer Service,Type C,8219.26,Customer_Agent_2,155,138.26,Expedited,System C,True
+CASE_00308,Activity_3,2023-07-11 09:00:44.636482,2023-07-11 14:49:44.636482,CUST_7345,High,Email,Sales,Type B,5193.76,Sales_Agent_3,349,149.51,Delayed,System C,True
+CASE_00309,Activity_3,2023-03-15 14:21:16.167031,2023-03-15 15:06:16.167031,CUST_1546,Low,In-Person,Operations,Type A,8526.84,Operations_Agent_3,45,94.06,Delayed,System A,False
+CASE_00310,Activity_1,2023-10-09 12:53:34.693212,2023-10-10 09:00:34.693212,CUST_6152,Low,Phone,Operations,Type B,7500.89,Operations_Agent_3,471,93.16,Delayed,System C,False
+CASE_00310,Activity_2,2023-10-10 09:00:34.693212,2023-10-10 15:09:34.693212,CUST_6152,Low,Phone,Operations,Type B,7500.89,Operations_Agent_2,369,119.64,Completed,System B,True
+CASE_00310,Activity_3,2023-10-10 15:09:34.693212,2023-10-11 09:00:34.693212,CUST_6152,Low,Phone,Operations,Type B,7500.89,Operations_Agent_3,292,152.09,Completed,System A,True
+CASE_00311,Activity_1,2023-12-07 09:00:09.160300,2023-12-07 09:56:09.160300,CUST_8211,Low,Web,Legal,Type C,2813.3,Legal_Agent_2,56,166.89,Expedited,System B,False
+CASE_00311,Activity_2,2023-12-07 09:56:09.160300,2023-12-07 12:08:09.160300,CUST_8211,Low,Web,Legal,Type C,2813.3,Legal_Agent_2,132,166.86,Expedited,System B,False
+CASE_00311,Activity_3,2023-12-07 12:08:09.160300,2023-12-07 14:52:09.160300,CUST_8211,Low,Web,Legal,Type C,2813.3,Legal_Agent_3,164,192.95,Expedited,System B,True
+CASE_00312,Activity_1,2023-12-29 09:00:52.160576,2023-12-29 12:31:52.160576,CUST_3265,Medium,Phone,Operations,Type B,9982.7,Operations_Agent_3,211,122.49,Completed,System A,False
+CASE_00312,Activity_2,2023-12-29 12:31:52.160576,2024-01-02 09:00:52.160576,CUST_3265,Medium,Phone,Operations,Type B,9982.7,Operations_Agent_3,421,97.88,Delayed,System C,True
+CASE_00312,Activity_3,2024-01-02 09:00:52.160576,2024-01-02 09:45:52.160576,CUST_3265,Medium,Phone,Operations,Type B,9982.7,Operations_Agent_1,45,138.14,Completed,System C,True
+CASE_00313,Activity_3,2023-03-28 09:37:49.016062,2023-03-28 12:40:49.016062,CUST_2904,Medium,Phone,Legal,Type A,1531.54,Legal_Agent_1,183,143.0,Delayed,System C,False
+CASE_00314,Activity_1,2023-08-31 09:00:16.485702,2023-08-31 12:47:16.485702,CUST_1150,Medium,Phone,Legal,Type C,6326.88,Legal_Agent_3,227,213.28,Expedited,System C,True
+CASE_00314,Activity_2,2023-08-31 12:47:16.485702,2023-09-01 09:00:16.485702,CUST_1150,Medium,Phone,Legal,Type C,6326.88,Legal_Agent_2,417,210.83,Expedited,System B,False
+CASE_00314,Activity_3,2023-09-01 09:00:16.485702,2023-09-01 14:29:16.485702,CUST_1150,Medium,Phone,Legal,Type C,6326.88,Legal_Agent_2,329,226.31,Completed,System C,True
+CASE_00315,Activity_1,2023-06-19 09:00:50.402617,2023-06-19 15:18:50.402617,CUST_1359,High,Phone,Legal,Type B,9802.22,Legal_Agent_3,378,219.05,Completed,System C,True
+CASE_00315,Activity_2,2023-06-19 15:18:50.402617,2023-06-19 16:49:50.402617,CUST_1359,High,Phone,Legal,Type B,9802.22,Legal_Agent_3,91,166.14,Completed,System C,True
+CASE_00315,Activity_3,2023-06-19 16:49:50.402617,2023-06-20 09:00:50.402617,CUST_1359,High,Phone,Legal,Type B,9802.22,Legal_Agent_3,86,164.77,Delayed,System B,False
+CASE_00316,Activity_3,2023-01-24 09:00:03.914407,2023-01-24 11:37:03.914407,CUST_9659,Low,Web,Legal,Type C,5317.43,Legal_Agent_3,157,196.59,Completed,System C,False
+CASE_00317,Activity_1,2023-05-23 09:00:14.356357,2023-05-23 14:46:14.356357,CUST_1558,Low,Email,Customer Service,Type B,5145.17,Customer_Agent_3,346,126.47,Expedited,System C,True
+CASE_00317,Activity_2,2023-05-23 14:46:14.356357,2023-05-23 17:16:14.356357,CUST_1558,Low,Email,Customer Service,Type B,5145.17,Customer_Agent_2,150,111.44,Delayed,System A,False
+CASE_00317,Activity_3,2023-05-23 17:16:14.356357,2023-05-24 09:00:14.356357,CUST_1558,Low,Email,Customer Service,Type B,5145.17,Customer_Agent_3,216,176.33,Expedited,System A,False
+CASE_00318,Activity_3,2023-10-12 09:00:20.286935,2023-10-12 10:46:20.286935,CUST_7754,High,Web,Legal,Type B,800.51,Legal_Agent_1,106,182.23,Delayed,System B,False
+CASE_00319,Activity_1,2023-10-04 09:00:58.286709,2023-10-04 10:03:58.286709,CUST_8586,High,In-Person,Sales,Type B,2110.36,Sales_Agent_3,63,87.0,Delayed,System C,False
+CASE_00319,Activity_2,2023-10-04 10:03:58.286709,2023-10-04 17:51:58.286709,CUST_8586,High,In-Person,Sales,Type B,2110.36,Sales_Agent_1,468,71.59,Delayed,System C,True
+CASE_00319,Activity_3,2023-10-04 17:51:58.286709,2023-10-05 09:00:58.286709,CUST_8586,High,In-Person,Sales,Type B,2110.36,Sales_Agent_1,377,55.02,Expedited,System C,True
+CASE_00320,Activity_1,2023-08-16 12:47:37.857963,2023-08-17 09:00:37.857963,CUST_1163,Medium,In-Person,Sales,Type C,312.1,Sales_Agent_3,344,104.72,Completed,System C,True
+CASE_00320,Activity_2,2023-08-17 09:00:37.857963,2023-08-17 10:54:37.857963,CUST_1163,Medium,In-Person,Sales,Type C,312.1,Sales_Agent_3,114,88.96,Expedited,System C,True
+CASE_00320,Activity_3,2023-08-17 10:54:37.857963,2023-08-17 12:00:37.857963,CUST_1163,Medium,In-Person,Sales,Type C,312.1,Sales_Agent_3,66,95.01,Delayed,System C,True
+CASE_00321,Activity_1,2023-02-28 09:00:57.719433,2023-02-28 16:48:57.719433,CUST_9980,Medium,Phone,Customer Service,Type B,8183.62,Customer_Agent_1,468,187.01,Completed,System A,False
+CASE_00321,Activity_2,2023-02-28 16:48:57.719433,2023-03-01 09:00:57.719433,CUST_9980,Medium,Phone,Customer Service,Type B,8183.62,Customer_Agent_3,125,99.87,Completed,System B,False
+CASE_00321,Activity_3,2023-03-01 09:00:57.719433,2023-03-01 12:46:57.719433,CUST_9980,Medium,Phone,Customer Service,Type B,8183.62,Customer_Agent_2,226,166.15,Delayed,System B,False
+CASE_00322,Activity_3,2023-01-03 13:46:51.269061,2023-01-04 09:00:51.269061,CUST_8291,Low,Phone,Customer Service,Type C,7847.48,Customer_Agent_3,399,162.83,Completed,System B,True
+CASE_00323,Activity_1,2023-12-01 09:00:30.882473,2023-12-01 10:36:30.882473,CUST_3180,Low,Phone,Finance,Type B,1938.97,Finance_Agent_1,96,198.65,Delayed,System C,True
+CASE_00323,Activity_2,2023-12-01 10:36:30.882473,2023-12-01 14:03:30.882473,CUST_3180,Low,Phone,Finance,Type B,1938.97,Finance_Agent_1,207,199.62,Expedited,System A,True
+CASE_00323,Activity_3,2023-12-01 14:03:30.882473,2023-12-01 15:27:30.882473,CUST_3180,Low,Phone,Finance,Type B,1938.97,Finance_Agent_2,84,113.83,Expedited,System B,True
+CASE_00324,Activity_3,2023-09-26 09:00:00.078058,2023-09-26 14:33:00.078058,CUST_8035,Medium,In-Person,Sales,Type B,4088.99,Sales_Agent_2,333,69.03,Delayed,System B,False
+CASE_00325,Activity_3,2023-02-09 09:00:56.663384,2023-02-09 15:49:56.663384,CUST_8002,High,Phone,Operations,Type B,1243.28,Operations_Agent_3,409,126.15,Delayed,System B,False
+CASE_00326,Activity_1,2023-08-04 09:00:20.849107,2023-08-04 15:44:20.849107,CUST_6048,Low,Web,Legal,Type C,6170.79,Legal_Agent_3,404,157.81,Expedited,System C,True
+CASE_00326,Activity_2,2023-08-04 15:44:20.849107,2023-08-08 09:00:20.849107,CUST_6048,Low,Web,Legal,Type C,6170.79,Legal_Agent_3,237,165.72,Completed,System B,True
+CASE_00326,Activity_3,2023-08-08 09:00:20.849107,2023-08-08 15:26:20.849107,CUST_6048,Low,Web,Legal,Type C,6170.79,Legal_Agent_3,386,184.35,Delayed,System A,True
+CASE_00327,Activity_3,2023-06-07 17:24:26.065287,2023-06-08 09:00:26.065287,CUST_9776,Low,Email,Legal,Type B,325.05,Legal_Agent_3,374,142.23,Expedited,System C,False
+CASE_00328,Activity_3,2023-03-30 09:00:06.465787,2023-03-30 09:54:06.465787,CUST_4152,Medium,Web,Customer Service,Type A,4143.52,Customer_Agent_3,54,154.33,Expedited,System A,True
+CASE_00329,Activity_1,2023-01-23 09:00:24.082766,2023-01-23 11:27:24.082766,CUST_8483,High,In-Person,Operations,Type A,6605.37,Operations_Agent_1,147,122.73,Completed,System C,False
+CASE_00329,Activity_2,2023-01-23 11:27:24.082766,2023-01-23 16:09:24.082766,CUST_8483,High,In-Person,Operations,Type A,6605.37,Operations_Agent_1,282,83.08,Delayed,System B,True
+CASE_00329,Activity_3,2023-01-23 16:09:24.082766,2023-01-24 09:00:24.082766,CUST_8483,High,In-Person,Operations,Type A,6605.37,Operations_Agent_3,207,99.13,Expedited,System C,True
+CASE_00330,Activity_1,2023-05-11 09:08:19.973742,2023-05-11 14:21:19.973742,CUST_7686,High,In-Person,Legal,Type B,5188.86,Legal_Agent_3,313,178.53,Expedited,System B,True
+CASE_00330,Activity_2,2023-05-11 14:21:19.973742,2023-05-11 16:30:19.973742,CUST_7686,High,In-Person,Legal,Type B,5188.86,Legal_Agent_2,129,180.99,Expedited,System C,True
+CASE_00330,Activity_3,2023-05-11 16:30:19.973742,2023-05-12 09:00:19.973742,CUST_7686,High,In-Person,Legal,Type B,5188.86,Legal_Agent_1,402,173.95,Completed,System B,True
+CASE_00331,Activity_3,2023-09-19 10:02:31.926629,2023-09-19 14:16:31.926629,CUST_4022,Medium,Email,Customer Service,Type C,7123.34,Customer_Agent_3,254,113.81,Completed,System C,True
+CASE_00332,Activity_3,2023-09-05 17:05:24.472985,2023-09-06 09:00:24.472985,CUST_7495,Medium,Email,Customer Service,Type B,3509.59,Customer_Agent_2,365,169.79,Expedited,System C,True
+CASE_00333,Activity_1,2023-10-30 09:00:42.942361,2023-10-30 12:51:42.942361,CUST_9579,Low,Email,Customer Service,Type B,7169.85,Customer_Agent_3,231,139.61,Expedited,System C,True
+CASE_00333,Activity_2,2023-10-30 12:51:42.942361,2023-10-31 09:00:42.942361,CUST_9579,Low,Email,Customer Service,Type B,7169.85,Customer_Agent_2,350,171.43,Delayed,System A,False
+CASE_00333,Activity_3,2023-10-31 09:00:42.942361,2023-10-31 14:46:42.942361,CUST_9579,Low,Email,Customer Service,Type B,7169.85,Customer_Agent_1,346,102.74,Expedited,System C,True
+CASE_00334,Activity_3,2023-12-19 09:00:28.573598,2023-12-19 16:23:28.573598,CUST_8026,Low,Phone,Legal,Type A,4539.18,Legal_Agent_2,443,206.84,Delayed,System A,True
+CASE_00335,Activity_1,2023-06-07 09:00:17.929224,2023-06-07 12:00:17.929224,CUST_3744,High,Email,Sales,Type B,7072.11,Sales_Agent_2,180,121.88,Delayed,System B,False
+CASE_00335,Activity_2,2023-06-07 12:00:17.929224,2023-06-08 09:00:17.929224,CUST_3744,High,Email,Sales,Type B,7072.11,Sales_Agent_2,445,52.53,Delayed,System A,True
+CASE_00335,Activity_3,2023-06-08 09:00:17.929224,2023-06-08 11:22:17.929224,CUST_3744,High,Email,Sales,Type B,7072.11,Sales_Agent_1,142,117.93,Expedited,System C,False
+CASE_00336,Activity_1,2023-01-10 14:13:31.026618,2023-01-11 09:00:31.026618,CUST_4409,Medium,Web,Sales,Type B,3474.72,Sales_Agent_1,298,139.8,Delayed,System C,True
+CASE_00336,Activity_2,2023-01-11 09:00:31.026618,2023-01-11 16:28:31.026618,CUST_4409,Medium,Web,Sales,Type B,3474.72,Sales_Agent_3,448,65.04,Completed,System B,False
+CASE_00336,Activity_3,2023-01-11 16:28:31.026618,2023-01-12 09:00:31.026618,CUST_4409,Medium,Web,Sales,Type B,3474.72,Sales_Agent_2,322,74.58,Expedited,System A,True
+CASE_00337,Activity_1,2023-01-05 09:00:22.032760,2023-01-05 15:09:22.032760,CUST_7260,Medium,Web,Operations,Type C,1535.75,Operations_Agent_1,369,115.59,Completed,System A,True
+CASE_00337,Activity_2,2023-01-05 15:09:22.032760,2023-01-06 09:00:22.032760,CUST_7260,Medium,Web,Operations,Type C,1535.75,Operations_Agent_1,249,88.76,Expedited,System A,False
+CASE_00337,Activity_3,2023-01-06 09:00:22.032760,2023-01-06 14:19:22.032760,CUST_7260,Medium,Web,Operations,Type C,1535.75,Operations_Agent_2,319,89.66,Delayed,System C,False
+CASE_00338,Activity_3,2023-06-09 09:00:39.297385,2023-06-09 14:24:39.297385,CUST_5767,High,In-Person,Customer Service,Type A,2618.97,Customer_Agent_3,324,120.36,Expedited,System B,False
+CASE_00339,Activity_1,2023-04-04 17:46:36.828825,2023-04-05 09:00:36.828825,CUST_8431,Low,In-Person,Sales,Type A,2669.76,Sales_Agent_1,325,59.55,Delayed,System A,False
+CASE_00339,Activity_2,2023-04-05 09:00:36.828825,2023-04-05 14:44:36.828825,CUST_8431,Low,In-Person,Sales,Type A,2669.76,Sales_Agent_3,344,103.35,Delayed,System B,False
+CASE_00339,Activity_3,2023-04-05 14:44:36.828825,2023-04-06 09:00:36.828825,CUST_8431,Low,In-Person,Sales,Type A,2669.76,Sales_Agent_3,285,53.25,Delayed,System B,False
+CASE_00340,Activity_3,2024-01-02 16:24:48.197590,2024-01-03 09:00:48.197590,CUST_1092,High,In-Person,Sales,Type B,3589.03,Sales_Agent_1,109,136.72,Expedited,System B,False
+CASE_00341,Activity_1,2023-05-30 17:37:08.122500,2023-05-31 09:00:08.122500,CUST_7970,Low,Email,Sales,Type B,9789.84,Sales_Agent_1,449,99.54,Expedited,System B,False
+CASE_00341,Activity_2,2023-05-31 09:00:08.122500,2023-05-31 11:36:08.122500,CUST_7970,Low,Email,Sales,Type B,9789.84,Sales_Agent_1,156,78.87,Completed,System C,False
+CASE_00341,Activity_3,2023-05-31 11:36:08.122500,2023-05-31 12:45:08.122500,CUST_7970,Low,Email,Sales,Type B,9789.84,Sales_Agent_2,69,70.91,Completed,System B,False
+CASE_00342,Activity_1,2023-03-30 15:03:00.132129,2023-03-31 09:00:00.132129,CUST_7868,Medium,In-Person,Customer Service,Type A,9956.33,Customer_Agent_1,362,177.26,Expedited,System A,False
+CASE_00342,Activity_2,2023-03-31 09:00:00.132129,2023-03-31 11:04:00.132129,CUST_7868,Medium,In-Person,Customer Service,Type A,9956.33,Customer_Agent_3,124,115.98,Completed,System A,False
+CASE_00342,Activity_3,2023-03-31 11:04:00.132129,2023-03-31 17:53:00.132129,CUST_7868,Medium,In-Person,Customer Service,Type A,9956.33,Customer_Agent_1,409,152.93,Completed,System B,True
+CASE_00343,Activity_1,2023-11-09 09:00:54.344949,2023-11-09 14:28:54.344949,CUST_5011,High,Email,Sales,Type A,3490.9,Sales_Agent_3,328,93.6,Expedited,System B,False
+CASE_00343,Activity_2,2023-11-09 14:28:54.344949,2023-11-10 09:00:54.344949,CUST_5011,High,Email,Sales,Type A,3490.9,Sales_Agent_3,301,125.21,Delayed,System B,False
+CASE_00343,Activity_3,2023-11-10 09:00:54.344949,2023-11-10 10:53:54.344949,CUST_5011,High,Email,Sales,Type A,3490.9,Sales_Agent_3,113,130.16,Completed,System B,False
+CASE_00344,Activity_3,2023-05-24 09:48:03.915917,2023-05-24 15:14:03.915917,CUST_6624,Medium,Web,Operations,Type C,4353.36,Operations_Agent_2,326,83.81,Completed,System A,True
+CASE_00345,Activity_1,2023-03-13 12:41:31.955584,2023-03-13 15:40:31.955584,CUST_3817,Medium,Web,Operations,Type A,437.36,Operations_Agent_2,179,137.26,Completed,System B,False
+CASE_00345,Activity_2,2023-03-13 15:40:31.955584,2023-03-14 09:00:31.955584,CUST_3817,Medium,Web,Operations,Type A,437.36,Operations_Agent_3,160,114.76,Completed,System C,True
+CASE_00345,Activity_3,2023-03-14 09:00:31.955584,2023-03-14 12:58:31.955584,CUST_3817,Medium,Web,Operations,Type A,437.36,Operations_Agent_3,238,142.22,Expedited,System A,True
+CASE_00346,Activity_1,2023-05-09 16:26:43.053284,2023-05-10 09:00:43.053284,CUST_2514,Medium,In-Person,Operations,Type C,7825.78,Operations_Agent_1,120,108.17,Delayed,System C,True
+CASE_00346,Activity_2,2023-05-10 09:00:43.053284,2023-05-10 15:25:43.053284,CUST_2514,Medium,In-Person,Operations,Type C,7825.78,Operations_Agent_3,385,111.94,Expedited,System A,False
+CASE_00346,Activity_3,2023-05-10 15:25:43.053284,2023-05-11 09:00:43.053284,CUST_2514,Medium,In-Person,Operations,Type C,7825.78,Operations_Agent_1,265,131.63,Delayed,System B,True
+CASE_00347,Activity_3,2023-03-07 09:00:09.738699,2023-03-07 15:33:09.738699,CUST_7012,Low,Web,Legal,Type B,9864.06,Legal_Agent_1,393,210.36,Expedited,System B,True
+CASE_00348,Activity_3,2023-02-22 17:48:43.764568,2023-02-23 09:00:43.764568,CUST_9880,Medium,Email,Customer Service,Type B,7202.63,Customer_Agent_2,408,136.32,Expedited,System A,False
+CASE_00349,Activity_1,2023-11-14 14:49:50.130822,2023-11-15 09:00:50.130822,CUST_4342,Low,Email,Sales,Type B,1405.74,Sales_Agent_2,273,105.04,Completed,System A,True
+CASE_00349,Activity_2,2023-11-15 09:00:50.130822,2023-11-15 11:34:50.130822,CUST_4342,Low,Email,Sales,Type B,1405.74,Sales_Agent_1,154,56.07,Delayed,System A,False
+CASE_00349,Activity_3,2023-11-15 11:34:50.130822,2023-11-16 09:00:50.130822,CUST_4342,Low,Email,Sales,Type B,1405.74,Sales_Agent_1,450,87.38,Expedited,System A,False
+CASE_00350,Activity_3,2023-11-29 15:06:04.655763,2023-11-29 16:41:04.655763,CUST_3178,High,Web,Legal,Type A,7997.98,Legal_Agent_3,95,193.2,Completed,System B,True
+CASE_00351,Activity_3,2023-05-19 09:00:57.068391,2023-05-19 13:20:57.068391,CUST_5767,High,Phone,Sales,Type A,3793.48,Sales_Agent_3,260,121.32,Expedited,System C,False
+CASE_00352,Activity_1,2023-06-22 09:00:46.011305,2023-06-22 16:09:46.011305,CUST_2395,Low,In-Person,Sales,Type B,3690.87,Sales_Agent_1,429,138.16,Completed,System C,True
+CASE_00352,Activity_2,2023-06-22 16:09:46.011305,2023-06-23 09:00:46.011305,CUST_2395,Low,In-Person,Sales,Type B,3690.87,Sales_Agent_2,127,101.81,Completed,System C,True
+CASE_00352,Activity_3,2023-06-23 09:00:46.011305,2023-06-23 16:54:46.011305,CUST_2395,Low,In-Person,Sales,Type B,3690.87,Sales_Agent_3,474,134.73,Completed,System B,False
+CASE_00353,Activity_3,2023-10-16 09:00:15.403559,2023-10-16 13:18:15.403559,CUST_4527,High,Phone,Legal,Type C,6029.63,Legal_Agent_3,258,164.13,Completed,System A,False
+CASE_00354,Activity_1,2023-07-27 13:19:22.110753,2023-07-28 09:00:22.110753,CUST_8632,Medium,In-Person,Operations,Type C,2135.08,Operations_Agent_1,355,153.38,Completed,System B,True
+CASE_00354,Activity_2,2023-07-28 09:00:22.110753,2023-07-28 16:13:22.110753,CUST_8632,Medium,In-Person,Operations,Type C,2135.08,Operations_Agent_2,433,103.64,Expedited,System A,False
+CASE_00354,Activity_3,2023-07-28 16:13:22.110753,2023-08-01 09:00:22.110753,CUST_8632,Medium,In-Person,Operations,Type C,2135.08,Operations_Agent_2,296,126.71,Completed,System A,False
+CASE_00355,Activity_1,2023-04-18 09:00:57.558734,2023-04-18 15:31:57.558734,CUST_7524,Medium,Web,Customer Service,Type A,9338.15,Customer_Agent_1,391,165.34,Expedited,System C,False
+CASE_00355,Activity_2,2023-04-18 15:31:57.558734,2023-04-18 16:36:57.558734,CUST_7524,Medium,Web,Customer Service,Type A,9338.15,Customer_Agent_1,65,153.09,Expedited,System B,True
+CASE_00355,Activity_3,2023-04-18 16:36:57.558734,2023-04-19 09:00:57.558734,CUST_7524,Medium,Web,Customer Service,Type A,9338.15,Customer_Agent_3,303,110.93,Completed,System A,True
+CASE_00356,Activity_3,2023-06-27 10:10:52.537507,2023-06-27 17:14:52.537507,CUST_3961,Low,Phone,Finance,Type A,9538.14,Finance_Agent_2,424,177.67,Completed,System C,True
+CASE_00357,Activity_1,2023-01-20 09:00:05.376862,2023-01-20 14:18:05.376862,CUST_2785,High,Phone,Legal,Type C,8276.82,Legal_Agent_3,318,181.26,Delayed,System C,True
+CASE_00357,Activity_2,2023-01-20 14:18:05.376862,2023-01-20 15:47:05.376862,CUST_2785,High,Phone,Legal,Type C,8276.82,Legal_Agent_1,89,213.01,Completed,System A,True
+CASE_00357,Activity_3,2023-01-20 15:47:05.376862,2023-01-24 09:00:05.376862,CUST_2785,High,Phone,Legal,Type C,8276.82,Legal_Agent_3,362,136.27,Expedited,System A,True
+CASE_00358,Activity_1,2023-03-15 13:32:02.317591,2023-03-16 09:00:02.317591,CUST_4028,Medium,Web,Operations,Type B,5269.83,Operations_Agent_3,390,90.42,Delayed,System B,True
+CASE_00358,Activity_2,2023-03-16 09:00:02.317591,2023-03-16 09:42:02.317591,CUST_4028,Medium,Web,Operations,Type B,5269.83,Operations_Agent_3,42,161.77,Expedited,System A,False
+CASE_00358,Activity_3,2023-03-16 09:42:02.317591,2023-03-16 13:26:02.317591,CUST_4028,Medium,Web,Operations,Type B,5269.83,Operations_Agent_1,224,96.46,Expedited,System C,True
+CASE_00359,Activity_1,2023-02-14 09:00:28.877915,2023-02-14 15:43:28.877915,CUST_6918,High,In-Person,Sales,Type C,2521.01,Sales_Agent_2,403,143.45,Delayed,System A,False
+CASE_00359,Activity_2,2023-02-14 15:43:28.877915,2023-02-15 09:00:28.877915,CUST_6918,High,In-Person,Sales,Type C,2521.01,Sales_Agent_1,208,107.37,Expedited,System C,True
+CASE_00359,Activity_3,2023-02-15 09:00:28.877915,2023-02-15 14:51:28.877915,CUST_6918,High,In-Person,Sales,Type C,2521.01,Sales_Agent_3,351,97.53,Expedited,System B,True
+CASE_00360,Activity_1,2023-12-21 09:00:32.157357,2023-12-21 12:42:32.157357,CUST_9796,Medium,Phone,Finance,Type B,8086.48,Finance_Agent_1,222,148.84,Delayed,System A,False
+CASE_00360,Activity_2,2023-12-21 12:42:32.157357,2023-12-22 09:00:32.157357,CUST_9796,Medium,Phone,Finance,Type B,8086.48,Finance_Agent_2,479,165.64,Delayed,System B,True
+CASE_00360,Activity_3,2023-12-22 09:00:32.157357,2023-12-22 13:14:32.157357,CUST_9796,Medium,Phone,Finance,Type B,8086.48,Finance_Agent_1,254,197.59,Expedited,System C,True
+CASE_00361,Activity_1,2023-12-26 13:06:10.535354,2023-12-26 16:05:10.535354,CUST_9418,Medium,Email,Finance,Type B,1815.65,Finance_Agent_1,179,189.99,Expedited,System B,True
+CASE_00361,Activity_2,2023-12-26 16:05:10.535354,2023-12-27 09:00:10.535354,CUST_9418,Medium,Email,Finance,Type B,1815.65,Finance_Agent_2,311,194.21,Delayed,System A,False
+CASE_00361,Activity_3,2023-12-27 09:00:10.535354,2023-12-27 09:59:10.535354,CUST_9418,Medium,Email,Finance,Type B,1815.65,Finance_Agent_2,59,165.41,Completed,System A,True
+CASE_00362,Activity_3,2023-03-21 11:46:27.580399,2023-03-21 12:31:27.580399,CUST_9207,Low,Web,Operations,Type B,2887.62,Operations_Agent_2,45,150.36,Completed,System A,False
+CASE_00363,Activity_1,2023-06-29 09:00:38.729074,2023-06-29 10:46:38.729074,CUST_9089,Medium,In-Person,Customer Service,Type C,132.06,Customer_Agent_2,106,170.27,Completed,System B,True
+CASE_00363,Activity_2,2023-06-29 10:46:38.729074,2023-06-29 16:21:38.729074,CUST_9089,Medium,In-Person,Customer Service,Type C,132.06,Customer_Agent_2,335,125.01,Completed,System B,True
+CASE_00363,Activity_3,2023-06-29 16:21:38.729074,2023-06-30 09:00:38.729074,CUST_9089,Medium,In-Person,Customer Service,Type C,132.06,Customer_Agent_2,387,112.56,Expedited,System B,True
+CASE_00364,Activity_3,2023-06-13 09:00:30.547783,2023-06-13 12:59:30.547783,CUST_2427,High,In-Person,Customer Service,Type C,6194.65,Customer_Agent_1,239,140.51,Delayed,System A,False
+CASE_00365,Activity_1,2023-09-19 09:24:59.185632,2023-09-19 16:59:59.185632,CUST_4435,High,Web,Sales,Type C,9072.34,Sales_Agent_2,455,137.0,Delayed,System B,False
+CASE_00365,Activity_2,2023-09-19 16:59:59.185632,2023-09-20 09:00:59.185632,CUST_4435,High,Web,Sales,Type C,9072.34,Sales_Agent_1,169,83.43,Delayed,System A,False
+CASE_00365,Activity_3,2023-09-20 09:00:59.185632,2023-09-20 16:48:59.185632,CUST_4435,High,Web,Sales,Type C,9072.34,Sales_Agent_1,468,115.26,Completed,System B,False
+CASE_00366,Activity_3,2023-11-28 09:00:46.107273,2023-11-28 15:54:46.107273,CUST_1505,Medium,Phone,Sales,Type C,6908.17,Sales_Agent_2,414,148.26,Expedited,System C,True
+CASE_00367,Activity_3,2023-02-13 09:00:54.120214,2023-02-13 16:46:54.120214,CUST_6340,Medium,Email,Finance,Type A,9614.85,Finance_Agent_2,466,170.35,Expedited,System C,True
+CASE_00368,Activity_3,2023-01-05 09:00:05.354141,2023-01-05 16:26:05.354141,CUST_6657,High,Web,Sales,Type A,2445.34,Sales_Agent_1,446,136.16,Expedited,System B,False
+CASE_00369,Activity_3,2023-08-07 10:37:26.018545,2023-08-07 15:28:26.018545,CUST_4952,Low,Phone,Customer Service,Type C,4163.18,Customer_Agent_3,291,108.31,Expedited,System A,False
+CASE_00370,Activity_1,2023-07-31 09:00:05.243071,2023-07-31 11:20:05.243071,CUST_8805,Low,Phone,Legal,Type A,1621.02,Legal_Agent_2,140,158.06,Delayed,System C,False
+CASE_00370,Activity_2,2023-07-31 11:20:05.243071,2023-07-31 12:26:05.243071,CUST_8805,Low,Phone,Legal,Type A,1621.02,Legal_Agent_2,66,149.0,Delayed,System A,True
+CASE_00370,Activity_3,2023-07-31 12:26:05.243071,2023-08-01 09:00:05.243071,CUST_8805,Low,Phone,Legal,Type A,1621.02,Legal_Agent_3,383,209.58,Delayed,System B,False
+CASE_00371,Activity_1,2023-08-01 09:00:13.186007,2023-08-01 16:52:13.186007,CUST_1517,Low,Email,Sales,Type C,3492.96,Sales_Agent_1,472,91.17,Completed,System C,True
+CASE_00371,Activity_2,2023-08-01 16:52:13.186007,2023-08-02 09:00:13.186007,CUST_1517,Low,Email,Sales,Type C,3492.96,Sales_Agent_1,249,147.49,Expedited,System A,True
+CASE_00371,Activity_3,2023-08-02 09:00:13.186007,2023-08-02 10:20:13.186007,CUST_1517,Low,Email,Sales,Type C,3492.96,Sales_Agent_2,80,128.08,Expedited,System B,True
+CASE_00372,Activity_1,2023-03-28 13:29:00.222484,2023-03-29 09:00:00.222484,CUST_8590,High,Phone,Sales,Type C,3185.33,Sales_Agent_2,437,56.59,Delayed,System A,True
+CASE_00372,Activity_2,2023-03-29 09:00:00.222484,2023-03-29 15:47:00.222484,CUST_8590,High,Phone,Sales,Type C,3185.33,Sales_Agent_3,407,77.36,Expedited,System B,True
+CASE_00372,Activity_3,2023-03-29 15:47:00.222484,2023-03-29 17:44:00.222484,CUST_8590,High,Phone,Sales,Type C,3185.33,Sales_Agent_3,117,87.2,Delayed,System C,True
+CASE_00373,Activity_3,2023-07-31 17:51:27.239130,2023-08-01 09:00:27.239130,CUST_6447,Low,Email,Legal,Type C,8017.81,Legal_Agent_3,207,185.55,Completed,System B,True
+CASE_00374,Activity_1,2023-08-18 09:00:36.251868,2023-08-18 15:33:36.251868,CUST_3104,Low,Phone,Operations,Type B,6659.07,Operations_Agent_2,393,165.61,Expedited,System C,False
+CASE_00374,Activity_2,2023-08-18 15:33:36.251868,2023-08-18 16:31:36.251868,CUST_3104,Low,Phone,Operations,Type B,6659.07,Operations_Agent_1,58,110.08,Expedited,System B,False
+CASE_00374,Activity_3,2023-08-18 16:31:36.251868,2023-08-22 09:00:36.251868,CUST_3104,Low,Phone,Operations,Type B,6659.07,Operations_Agent_2,225,160.63,Expedited,System B,True
+CASE_00375,Activity_3,2023-03-28 09:00:05.910527,2023-03-28 09:58:05.910527,CUST_9246,Medium,Phone,Finance,Type C,8830.02,Finance_Agent_1,58,128.24,Expedited,System B,False
+CASE_00376,Activity_1,2023-04-10 09:00:12.813643,2023-04-10 14:10:12.813643,CUST_9811,Low,Email,Operations,Type A,2154.35,Operations_Agent_2,310,88.3,Expedited,System A,False
+CASE_00376,Activity_2,2023-04-10 14:10:12.813643,2023-04-11 09:00:12.813643,CUST_9811,Low,Email,Operations,Type A,2154.35,Operations_Agent_3,440,100.21,Completed,System A,False
+CASE_00376,Activity_3,2023-04-11 09:00:12.813643,2023-04-11 16:07:12.813643,CUST_9811,Low,Email,Operations,Type A,2154.35,Operations_Agent_3,427,163.53,Expedited,System A,False
+CASE_00377,Activity_3,2023-01-03 11:59:26.125326,2023-01-03 16:00:26.125326,CUST_6769,High,Email,Operations,Type C,4084.08,Operations_Agent_2,241,87.25,Delayed,System C,False
+CASE_00378,Activity_3,2023-07-13 12:03:21.732842,2023-07-13 16:53:21.732842,CUST_2577,Medium,Web,Operations,Type A,2143.81,Operations_Agent_3,290,162.99,Delayed,System C,False
+CASE_00379,Activity_1,2023-06-13 15:03:27.050881,2023-06-14 09:00:27.050881,CUST_9698,High,Phone,Legal,Type C,8576.97,Legal_Agent_3,188,189.44,Delayed,System A,False
+CASE_00379,Activity_2,2023-06-14 09:00:27.050881,2023-06-14 11:12:27.050881,CUST_9698,High,Phone,Legal,Type C,8576.97,Legal_Agent_2,132,228.03,Expedited,System B,False
+CASE_00379,Activity_3,2023-06-14 11:12:27.050881,2023-06-14 16:20:27.050881,CUST_9698,High,Phone,Legal,Type C,8576.97,Legal_Agent_1,308,173.8,Completed,System A,True
+CASE_00380,Activity_1,2023-01-17 09:00:51.551215,2023-01-17 10:24:51.551215,CUST_9602,High,Web,Operations,Type A,2079.68,Operations_Agent_1,84,119.55,Expedited,System B,False
+CASE_00380,Activity_2,2023-01-17 10:24:51.551215,2023-01-17 14:16:51.551215,CUST_9602,High,Web,Operations,Type A,2079.68,Operations_Agent_2,232,128.94,Completed,System A,False
+CASE_00380,Activity_3,2023-01-17 14:16:51.551215,2023-01-17 15:31:51.551215,CUST_9602,High,Web,Operations,Type A,2079.68,Operations_Agent_2,75,97.54,Delayed,System B,True
+CASE_00381,Activity_3,2023-03-21 09:00:38.421684,2023-03-21 15:03:38.421684,CUST_9607,High,In-Person,Operations,Type B,1728.35,Operations_Agent_3,363,82.41,Completed,System A,True
+CASE_00382,Activity_1,2023-03-07 09:00:42.160924,2023-03-07 16:50:42.160924,CUST_2241,Low,Phone,Operations,Type C,7581.22,Operations_Agent_3,470,122.82,Completed,System B,False
+CASE_00382,Activity_2,2023-03-07 16:50:42.160924,2023-03-08 09:00:42.160924,CUST_2241,Low,Phone,Operations,Type C,7581.22,Operations_Agent_3,322,98.54,Delayed,System C,False
+CASE_00382,Activity_3,2023-03-08 09:00:42.160924,2023-03-08 12:14:42.160924,CUST_2241,Low,Phone,Operations,Type C,7581.22,Operations_Agent_1,194,131.96,Delayed,System C,False
+CASE_00383,Activity_1,2023-10-17 09:00:23.228104,2023-10-17 11:13:23.228104,CUST_4372,Low,In-Person,Sales,Type A,5135.73,Sales_Agent_2,133,81.54,Completed,System C,False
+CASE_00383,Activity_2,2023-10-17 11:13:23.228104,2023-10-17 16:32:23.228104,CUST_4372,Low,In-Person,Sales,Type A,5135.73,Sales_Agent_2,319,61.82,Delayed,System C,False
+CASE_00383,Activity_3,2023-10-17 16:32:23.228104,2023-10-17 17:16:23.228104,CUST_4372,Low,In-Person,Sales,Type A,5135.73,Sales_Agent_3,44,135.43,Expedited,System A,True
+CASE_00384,Activity_1,2023-07-03 12:47:10.539713,2023-07-04 09:00:10.539713,CUST_5634,Medium,Phone,Legal,Type C,9585.91,Legal_Agent_2,373,141.54,Expedited,System B,False
+CASE_00384,Activity_2,2023-07-04 09:00:10.539713,2023-07-04 14:17:10.539713,CUST_5634,Medium,Phone,Legal,Type C,9585.91,Legal_Agent_3,317,216.79,Delayed,System A,True
+CASE_00384,Activity_3,2023-07-04 14:17:10.539713,2023-07-04 16:42:10.539713,CUST_5634,Medium,Phone,Legal,Type C,9585.91,Legal_Agent_2,145,175.06,Completed,System C,True
+CASE_00385,Activity_1,2023-07-14 09:00:08.040074,2023-07-14 10:15:08.040074,CUST_3200,Medium,Email,Sales,Type A,735.39,Sales_Agent_2,75,148.42,Delayed,System C,True
+CASE_00385,Activity_2,2023-07-14 10:15:08.040074,2023-07-14 13:34:08.040074,CUST_3200,Medium,Email,Sales,Type A,735.39,Sales_Agent_2,199,54.36,Delayed,System B,False
+CASE_00385,Activity_3,2023-07-14 13:34:08.040074,2023-07-18 09:00:08.040074,CUST_3200,Medium,Email,Sales,Type A,735.39,Sales_Agent_1,340,109.42,Completed,System B,False
+CASE_00386,Activity_3,2023-08-11 09:00:47.360383,2023-08-11 10:36:47.360383,CUST_3170,Medium,Web,Operations,Type A,3940.61,Operations_Agent_1,96,129.96,Delayed,System B,False
+CASE_00387,Activity_3,2023-06-15 09:00:32.124193,2023-06-15 12:10:32.124193,CUST_7964,High,Phone,Customer Service,Type A,5641.77,Customer_Agent_3,190,160.81,Completed,System A,False
+CASE_00388,Activity_1,2023-01-24 09:12:07.052796,2023-01-24 12:35:07.052796,CUST_4886,High,Email,Legal,Type B,473.24,Legal_Agent_2,203,158.87,Expedited,System B,True
+CASE_00388,Activity_2,2023-01-24 12:35:07.052796,2023-01-24 15:12:07.052796,CUST_4886,High,Email,Legal,Type B,473.24,Legal_Agent_2,157,141.66,Delayed,System C,True
+CASE_00388,Activity_3,2023-01-24 15:12:07.052796,2023-01-25 09:00:07.052796,CUST_4886,High,Email,Legal,Type B,473.24,Legal_Agent_1,173,221.18,Delayed,System B,True
+CASE_00389,Activity_1,2023-06-13 12:47:09.404129,2023-06-13 17:13:09.404129,CUST_3818,High,Web,Finance,Type C,7727.46,Finance_Agent_1,266,113.53,Completed,System B,False
+CASE_00389,Activity_2,2023-06-13 17:13:09.404129,2023-06-14 09:00:09.404129,CUST_3818,High,Web,Finance,Type C,7727.46,Finance_Agent_1,401,202.74,Expedited,System C,False
+CASE_00389,Activity_3,2023-06-14 09:00:09.404129,2023-06-14 12:11:09.404129,CUST_3818,High,Web,Finance,Type C,7727.46,Finance_Agent_2,191,135.37,Expedited,System C,True
+CASE_00390,Activity_3,2023-11-29 09:00:04.967356,2023-11-29 11:00:04.967356,CUST_9422,Low,Email,Operations,Type A,7415.92,Operations_Agent_2,120,83.32,Expedited,System B,True
+CASE_00391,Activity_1,2023-06-13 09:00:02.915782,2023-06-13 10:12:02.915782,CUST_8644,Medium,Web,Finance,Type A,5190.18,Finance_Agent_1,72,169.22,Completed,System C,False
+CASE_00391,Activity_2,2023-06-13 10:12:02.915782,2023-06-13 15:34:02.915782,CUST_8644,Medium,Web,Finance,Type A,5190.18,Finance_Agent_2,322,160.22,Delayed,System C,True
+CASE_00391,Activity_3,2023-06-13 15:34:02.915782,2023-06-14 09:00:02.915782,CUST_8644,Medium,Web,Finance,Type A,5190.18,Finance_Agent_2,268,178.26,Delayed,System C,False
+CASE_00392,Activity_3,2023-10-24 09:00:22.589712,2023-10-24 14:55:22.589712,CUST_9175,Low,Web,Customer Service,Type A,6895.39,Customer_Agent_2,355,108.45,Delayed,System C,True
+CASE_00393,Activity_3,2023-04-11 09:00:04.501292,2023-04-11 10:49:04.501292,CUST_6834,High,Email,Legal,Type A,9672.18,Legal_Agent_1,109,171.78,Completed,System B,True
+CASE_00394,Activity_3,2023-04-25 09:00:17.893452,2023-04-25 09:32:17.893452,CUST_2233,High,Phone,Operations,Type B,4400.61,Operations_Agent_1,32,150.03,Completed,System A,False
+CASE_00395,Activity_3,2023-10-18 09:00:42.292656,2023-10-18 13:15:42.292656,CUST_7455,High,In-Person,Operations,Type C,8912.25,Operations_Agent_3,255,162.67,Completed,System C,False
+CASE_00396,Activity_1,2023-01-18 09:00:09.255402,2023-01-18 11:20:09.255402,CUST_8847,Low,Email,Sales,Type A,8596.02,Sales_Agent_2,140,116.78,Delayed,System C,True
+CASE_00396,Activity_2,2023-01-18 11:20:09.255402,2023-01-18 13:18:09.255402,CUST_8847,Low,Email,Sales,Type A,8596.02,Sales_Agent_3,118,142.63,Expedited,System B,True
+CASE_00396,Activity_3,2023-01-18 13:18:09.255402,2023-01-19 09:00:09.255402,CUST_8847,Low,Email,Sales,Type A,8596.02,Sales_Agent_3,440,74.32,Expedited,System A,True
+CASE_00397,Activity_1,2023-04-20 09:00:47.081081,2023-04-20 09:50:47.081081,CUST_8448,High,Phone,Sales,Type C,8479.1,Sales_Agent_2,50,53.31,Expedited,System A,True
+CASE_00397,Activity_2,2023-04-20 09:50:47.081081,2023-04-20 14:55:47.081081,CUST_8448,High,Phone,Sales,Type C,8479.1,Sales_Agent_3,305,139.66,Completed,System B,True
+CASE_00397,Activity_3,2023-04-20 14:55:47.081081,2023-04-20 15:27:47.081081,CUST_8448,High,Phone,Sales,Type C,8479.1,Sales_Agent_1,32,126.66,Expedited,System A,False
+CASE_00398,Activity_3,2023-05-15 09:00:24.266037,2023-05-15 16:06:24.266037,CUST_8737,Low,In-Person,Legal,Type B,3806.2,Legal_Agent_1,426,196.24,Completed,System B,True
+CASE_00399,Activity_3,2023-02-10 09:00:26.381929,2023-02-10 09:54:26.381929,CUST_4101,High,Phone,Customer Service,Type B,7494.37,Customer_Agent_2,54,172.67,Completed,System B,False
+CASE_00400,Activity_3,2023-11-01 09:00:03.444513,2023-11-01 11:53:03.444513,CUST_4445,Medium,Web,Customer Service,Type B,8904.59,Customer_Agent_3,173,156.65,Expedited,System B,False
+CASE_00401,Activity_1,2023-05-11 15:28:20.197641,2023-05-12 09:00:20.197641,CUST_3736,High,In-Person,Customer Service,Type C,3377.5,Customer_Agent_3,234,154.93,Expedited,System B,False
+CASE_00401,Activity_2,2023-05-12 09:00:20.197641,2023-05-12 12:57:20.197641,CUST_3736,High,In-Person,Customer Service,Type C,3377.5,Customer_Agent_1,237,134.95,Expedited,System C,False
+CASE_00401,Activity_3,2023-05-12 12:57:20.197641,2023-05-16 09:00:20.197641,CUST_3736,High,In-Person,Customer Service,Type C,3377.5,Customer_Agent_3,353,121.95,Completed,System A,False
+CASE_00402,Activity_1,2023-08-22 15:18:14.152827,2023-08-23 09:00:14.152827,CUST_6679,Medium,Web,Legal,Type A,728.72,Legal_Agent_3,371,191.37,Expedited,System B,True
+CASE_00402,Activity_2,2023-08-23 09:00:14.152827,2023-08-23 09:50:14.152827,CUST_6679,Medium,Web,Legal,Type A,728.72,Legal_Agent_1,50,148.9,Completed,System C,True
+CASE_00402,Activity_3,2023-08-23 09:50:14.152827,2023-08-23 14:27:14.152827,CUST_6679,Medium,Web,Legal,Type A,728.72,Legal_Agent_3,277,188.26,Completed,System A,False
+CASE_00403,Activity_3,2023-06-07 09:00:12.448134,2023-06-07 13:02:12.448134,CUST_5950,Medium,Phone,Customer Service,Type A,9096.16,Customer_Agent_1,242,142.81,Expedited,System B,False
+CASE_00404,Activity_3,2023-03-20 12:24:40.451939,2023-03-20 14:08:40.451939,CUST_2500,Low,Web,Sales,Type A,7963.5,Sales_Agent_2,104,131.62,Completed,System B,True
+CASE_00405,Activity_1,2023-10-03 09:00:29.255319,2023-10-03 13:11:29.255319,CUST_3925,High,Web,Customer Service,Type C,1641.52,Customer_Agent_1,251,94.6,Delayed,System A,True
+CASE_00405,Activity_2,2023-10-03 13:11:29.255319,2023-10-03 14:29:29.255319,CUST_3925,High,Web,Customer Service,Type C,1641.52,Customer_Agent_2,78,116.69,Completed,System A,True
+CASE_00405,Activity_3,2023-10-03 14:29:29.255319,2023-10-04 09:00:29.255319,CUST_3925,High,Web,Customer Service,Type C,1641.52,Customer_Agent_1,384,140.18,Expedited,System A,True
+CASE_00406,Activity_3,2023-08-07 09:00:47.505421,2023-08-07 10:23:47.505421,CUST_7390,Low,In-Person,Legal,Type A,2960.25,Legal_Agent_2,83,154.88,Delayed,System A,False
+CASE_00407,Activity_1,2023-01-20 10:51:29.991721,2023-01-20 12:36:29.991721,CUST_9274,Medium,Email,Customer Service,Type C,4812.15,Customer_Agent_1,105,169.76,Delayed,System A,True
+CASE_00407,Activity_2,2023-01-20 12:36:29.991721,2023-01-20 15:24:29.991721,CUST_9274,Medium,Email,Customer Service,Type C,4812.15,Customer_Agent_3,168,160.97,Delayed,System B,True
+CASE_00407,Activity_3,2023-01-20 15:24:29.991721,2023-01-24 09:00:29.991721,CUST_9274,Medium,Email,Customer Service,Type C,4812.15,Customer_Agent_1,156,106.02,Completed,System A,False
+CASE_00408,Activity_3,2023-02-28 11:33:13.305538,2023-02-28 12:30:13.305538,CUST_4040,Low,Web,Operations,Type B,5275.61,Operations_Agent_3,57,91.6,Completed,System A,False
+CASE_00409,Activity_3,2023-10-10 09:00:20.241278,2023-10-10 13:33:20.241278,CUST_1049,Low,Email,Operations,Type B,4008.74,Operations_Agent_3,273,149.42,Delayed,System C,False
+CASE_00410,Activity_1,2023-06-20 09:00:07.175793,2023-06-20 14:47:07.175793,CUST_6519,Medium,In-Person,Finance,Type C,6431.89,Finance_Agent_1,347,139.66,Delayed,System B,False
+CASE_00410,Activity_2,2023-06-20 14:47:07.175793,2023-06-20 17:34:07.175793,CUST_6519,Medium,In-Person,Finance,Type C,6431.89,Finance_Agent_1,167,176.2,Completed,System A,False
+CASE_00410,Activity_3,2023-06-20 17:34:07.175793,2023-06-21 09:00:07.175793,CUST_6519,Medium,In-Person,Finance,Type C,6431.89,Finance_Agent_1,100,208.13,Delayed,System C,True
+CASE_00411,Activity_1,2023-01-18 14:16:49.534335,2023-01-19 09:00:49.534335,CUST_6281,Low,Web,Operations,Type C,1733.35,Operations_Agent_3,355,165.5,Expedited,System A,True
+CASE_00411,Activity_2,2023-01-19 09:00:49.534335,2023-01-19 16:39:49.534335,CUST_6281,Low,Web,Operations,Type C,1733.35,Operations_Agent_3,459,147.58,Completed,System C,False
+CASE_00411,Activity_3,2023-01-19 16:39:49.534335,2023-01-20 09:00:49.534335,CUST_6281,Low,Web,Operations,Type C,1733.35,Operations_Agent_2,264,147.18,Completed,System C,True
+CASE_00412,Activity_3,2023-11-20 14:36:13.392713,2023-11-20 16:43:13.392713,CUST_8491,High,Email,Operations,Type B,7161.68,Operations_Agent_2,127,164.22,Completed,System C,False
+CASE_00413,Activity_3,2023-07-11 15:30:25.666673,2023-07-12 09:00:25.666673,CUST_3697,Low,Phone,Sales,Type B,4357.82,Sales_Agent_3,283,99.34,Completed,System A,False
+CASE_00414,Activity_1,2023-12-19 09:00:23.643819,2023-12-19 12:14:23.643819,CUST_4218,High,Web,Legal,Type B,6686.15,Legal_Agent_2,194,223.64,Delayed,System B,False
+CASE_00414,Activity_2,2023-12-19 12:14:23.643819,2023-12-19 17:20:23.643819,CUST_4218,High,Web,Legal,Type B,6686.15,Legal_Agent_1,306,210.43,Expedited,System B,False
+CASE_00414,Activity_3,2023-12-19 17:20:23.643819,2023-12-20 09:00:23.643819,CUST_4218,High,Web,Legal,Type B,6686.15,Legal_Agent_2,190,192.08,Delayed,System C,True
+CASE_00415,Activity_1,2023-01-27 09:00:58.343928,2023-01-27 10:15:58.343928,CUST_1423,High,Phone,Sales,Type A,7376.95,Sales_Agent_1,75,144.22,Delayed,System A,True
+CASE_00415,Activity_2,2023-01-27 10:15:58.343928,2023-01-27 12:39:58.343928,CUST_1423,High,Phone,Sales,Type A,7376.95,Sales_Agent_3,144,57.22,Completed,System A,True
+CASE_00415,Activity_3,2023-01-27 12:39:58.343928,2023-01-27 13:21:58.343928,CUST_1423,High,Phone,Sales,Type A,7376.95,Sales_Agent_1,42,115.93,Delayed,System B,True
+CASE_00416,Activity_3,2023-10-16 17:54:30.453929,2023-10-17 09:00:30.453929,CUST_6795,Low,Phone,Customer Service,Type A,2508.43,Customer_Agent_3,218,122.9,Delayed,System C,False
+CASE_00417,Activity_1,2023-01-13 09:00:41.552407,2023-01-13 17:00:41.552407,CUST_5791,Low,Phone,Sales,Type C,3025.34,Sales_Agent_2,480,112.5,Delayed,System A,True
+CASE_00417,Activity_2,2023-01-13 17:00:41.552407,2023-01-17 09:00:41.552407,CUST_5791,Low,Phone,Sales,Type C,3025.34,Sales_Agent_1,375,125.62,Delayed,System A,False
+CASE_00417,Activity_3,2023-01-17 09:00:41.552407,2023-01-17 12:20:41.552407,CUST_5791,Low,Phone,Sales,Type C,3025.34,Sales_Agent_2,200,102.67,Expedited,System A,False
+CASE_00418,Activity_1,2023-03-22 09:00:18.928482,2023-03-22 11:27:18.928482,CUST_3499,High,Phone,Legal,Type A,3320.68,Legal_Agent_3,147,136.72,Expedited,System B,True
+CASE_00418,Activity_2,2023-03-22 11:27:18.928482,2023-03-22 17:08:18.928482,CUST_3499,High,Phone,Legal,Type A,3320.68,Legal_Agent_3,341,153.27,Completed,System A,False
+CASE_00418,Activity_3,2023-03-22 17:08:18.928482,2023-03-23 09:00:18.928482,CUST_3499,High,Phone,Legal,Type A,3320.68,Legal_Agent_2,232,175.87,Delayed,System A,True
+CASE_00419,Activity_3,2023-03-20 09:00:45.315133,2023-03-20 16:19:45.315133,CUST_9248,Low,Phone,Sales,Type A,9125.06,Sales_Agent_3,439,104.84,Completed,System A,False
+CASE_00420,Activity_1,2023-03-14 09:00:13.822732,2023-03-14 10:15:13.822732,CUST_9760,Medium,In-Person,Customer Service,Type B,6779.85,Customer_Agent_2,75,111.16,Delayed,System B,False
+CASE_00420,Activity_2,2023-03-14 10:15:13.822732,2023-03-14 15:58:13.822732,CUST_9760,Medium,In-Person,Customer Service,Type B,6779.85,Customer_Agent_2,343,127.38,Completed,System B,True
+CASE_00420,Activity_3,2023-03-14 15:58:13.822732,2023-03-15 09:00:13.822732,CUST_9760,Medium,In-Person,Customer Service,Type B,6779.85,Customer_Agent_2,267,112.65,Delayed,System A,True
+CASE_00421,Activity_3,2023-11-06 09:00:56.571166,2023-11-06 13:40:56.571166,CUST_1007,High,Email,Finance,Type C,4157.93,Finance_Agent_2,280,167.02,Completed,System C,True
+CASE_00422,Activity_3,2023-05-29 09:00:19.387540,2023-05-29 10:46:19.387540,CUST_9042,Low,Email,Operations,Type C,1105.31,Operations_Agent_2,106,135.76,Completed,System C,False
+CASE_00423,Activity_1,2023-08-22 09:00:28.472132,2023-08-22 12:39:28.472132,CUST_5126,Medium,Phone,Customer Service,Type A,2531.93,Customer_Agent_2,219,146.83,Delayed,System A,True
+CASE_00423,Activity_2,2023-08-22 12:39:28.472132,2023-08-22 17:33:28.472132,CUST_5126,Medium,Phone,Customer Service,Type A,2531.93,Customer_Agent_1,294,97.87,Expedited,System B,True
+CASE_00423,Activity_3,2023-08-22 17:33:28.472132,2023-08-23 09:00:28.472132,CUST_5126,Medium,Phone,Customer Service,Type A,2531.93,Customer_Agent_2,102,131.7,Completed,System B,True
+CASE_00424,Activity_1,2023-05-25 12:47:42.837667,2023-05-25 17:12:42.837667,CUST_6393,Low,Phone,Finance,Type A,2578.95,Finance_Agent_1,265,186.07,Delayed,System A,True
+CASE_00424,Activity_2,2023-05-25 17:12:42.837667,2023-05-26 09:00:42.837667,CUST_6393,Low,Phone,Finance,Type A,2578.95,Finance_Agent_2,108,206.98,Delayed,System B,True
+CASE_00424,Activity_3,2023-05-26 09:00:42.837667,2023-05-26 12:53:42.837667,CUST_6393,Low,Phone,Finance,Type A,2578.95,Finance_Agent_2,233,141.9,Expedited,System B,True
+CASE_00425,Activity_1,2023-08-29 16:58:54.239388,2023-08-30 09:00:54.239388,CUST_6198,Low,In-Person,Sales,Type A,8667.38,Sales_Agent_1,354,85.47,Completed,System A,True
+CASE_00425,Activity_2,2023-08-30 09:00:54.239388,2023-08-30 14:31:54.239388,CUST_6198,Low,In-Person,Sales,Type A,8667.38,Sales_Agent_3,331,63.69,Expedited,System A,True
+CASE_00425,Activity_3,2023-08-30 14:31:54.239388,2023-08-30 17:59:54.239388,CUST_6198,Low,In-Person,Sales,Type A,8667.38,Sales_Agent_3,208,53.02,Completed,System A,True
+CASE_00426,Activity_3,2023-04-14 09:00:06.713677,2023-04-14 14:02:06.713677,CUST_3114,Low,In-Person,Customer Service,Type A,5782.9,Customer_Agent_1,302,91.9,Expedited,System B,True
+CASE_00427,Activity_3,2023-02-13 09:00:56.486360,2023-02-13 15:22:56.486360,CUST_3723,High,Web,Operations,Type A,4190.8,Operations_Agent_2,382,89.74,Delayed,System B,False
+CASE_00428,Activity_3,2023-02-17 09:00:14.172688,2023-02-17 10:19:14.172688,CUST_2280,Low,Phone,Operations,Type A,363.6,Operations_Agent_2,79,100.31,Delayed,System B,True
+CASE_00429,Activity_3,2023-09-28 09:00:34.939207,2023-09-28 12:53:34.939207,CUST_1484,Medium,In-Person,Customer Service,Type B,6260.84,Customer_Agent_2,233,126.19,Delayed,System A,True
+CASE_00430,Activity_1,2023-06-09 09:00:42.640664,2023-06-09 10:52:42.640664,CUST_2974,Medium,Web,Customer Service,Type B,8340.02,Customer_Agent_1,112,154.45,Completed,System A,False
+CASE_00430,Activity_2,2023-06-09 10:52:42.640664,2023-06-09 13:16:42.640664,CUST_2974,Medium,Web,Customer Service,Type B,8340.02,Customer_Agent_3,144,111.22,Delayed,System A,True
+CASE_00430,Activity_3,2023-06-09 13:16:42.640664,2023-06-09 15:24:42.640664,CUST_2974,Medium,Web,Customer Service,Type B,8340.02,Customer_Agent_3,128,110.57,Delayed,System C,False
+CASE_00431,Activity_3,2023-06-13 09:00:07.678874,2023-06-13 14:50:07.678874,CUST_3402,Medium,Phone,Sales,Type C,6241.4,Sales_Agent_2,350,80.85,Expedited,System A,True
+CASE_00432,Activity_3,2023-07-13 09:00:59.972399,2023-07-13 16:44:59.972399,CUST_8143,Low,Email,Customer Service,Type B,6442.94,Customer_Agent_3,464,119.07,Expedited,System B,False
+CASE_00433,Activity_3,2023-02-21 09:00:44.157615,2023-02-21 15:22:44.157615,CUST_2295,Medium,Phone,Operations,Type B,822.86,Operations_Agent_3,382,150.28,Expedited,System B,True
+CASE_00434,Activity_3,2023-06-28 09:00:36.645776,2023-06-28 13:28:36.645776,CUST_6443,Low,Web,Legal,Type B,3627.19,Legal_Agent_1,268,221.58,Completed,System B,True
+CASE_00435,Activity_3,2023-08-16 09:00:24.195364,2023-08-16 14:02:24.195364,CUST_8679,Medium,Web,Customer Service,Type C,5616.9,Customer_Agent_3,302,166.13,Delayed,System B,True
+CASE_00436,Activity_1,2023-06-19 09:00:41.850795,2023-06-19 11:27:41.850795,CUST_1079,Low,Email,Customer Service,Type C,6133.46,Customer_Agent_3,147,125.16,Expedited,System C,False
+CASE_00436,Activity_2,2023-06-19 11:27:41.850795,2023-06-19 16:00:41.850795,CUST_1079,Low,Email,Customer Service,Type C,6133.46,Customer_Agent_1,273,139.18,Expedited,System A,True
+CASE_00436,Activity_3,2023-06-19 16:00:41.850795,2023-06-20 09:00:41.850795,CUST_1079,Low,Email,Customer Service,Type C,6133.46,Customer_Agent_1,166,146.8,Expedited,System A,False
+CASE_00437,Activity_1,2023-06-14 15:28:43.850106,2023-06-15 09:00:43.850106,CUST_1434,Low,Web,Operations,Type B,7341.99,Operations_Agent_2,329,87.99,Delayed,System A,False
+CASE_00437,Activity_2,2023-06-15 09:00:43.850106,2023-06-15 10:53:43.850106,CUST_1434,Low,Web,Operations,Type B,7341.99,Operations_Agent_3,113,111.07,Expedited,System A,True
+CASE_00437,Activity_3,2023-06-15 10:53:43.850106,2023-06-15 13:16:43.850106,CUST_1434,Low,Web,Operations,Type B,7341.99,Operations_Agent_1,143,130.7,Completed,System A,True
+CASE_00438,Activity_3,2023-08-02 09:00:53.257554,2023-08-02 13:13:53.257554,CUST_9302,Low,Phone,Finance,Type C,6882.84,Finance_Agent_2,253,112.46,Expedited,System C,True
+CASE_00439,Activity_1,2023-03-21 14:22:56.721042,2023-03-21 15:29:56.721042,CUST_9319,Medium,Phone,Legal,Type A,1678.76,Legal_Agent_3,67,179.72,Completed,System C,False
+CASE_00439,Activity_2,2023-03-21 15:29:56.721042,2023-03-22 09:00:56.721042,CUST_9319,Medium,Phone,Legal,Type A,1678.76,Legal_Agent_3,223,182.57,Completed,System B,True
+CASE_00439,Activity_3,2023-03-22 09:00:56.721042,2023-03-22 12:24:56.721042,CUST_9319,Medium,Phone,Legal,Type A,1678.76,Legal_Agent_1,204,157.29,Expedited,System B,True
+CASE_00440,Activity_1,2023-10-17 09:00:56.914775,2023-10-17 13:19:56.914775,CUST_4085,Low,In-Person,Finance,Type C,8585.77,Finance_Agent_1,259,152.43,Completed,System A,False
+CASE_00440,Activity_2,2023-10-17 13:19:56.914775,2023-10-18 09:00:56.914775,CUST_4085,Low,In-Person,Finance,Type C,8585.77,Finance_Agent_2,343,127.98,Completed,System B,False
+CASE_00440,Activity_3,2023-10-18 09:00:56.914775,2023-10-18 10:49:56.914775,CUST_4085,Low,In-Person,Finance,Type C,8585.77,Finance_Agent_1,109,145.82,Expedited,System C,False
+CASE_00441,Activity_3,2023-05-08 09:00:07.200812,2023-05-08 11:56:07.200812,CUST_3321,High,Email,Operations,Type B,7726.76,Operations_Agent_3,176,121.24,Delayed,System B,True
+CASE_00442,Activity_3,2023-06-06 09:00:20.733446,2023-06-06 11:17:20.733446,CUST_7227,Low,Email,Customer Service,Type A,6302.94,Customer_Agent_1,137,188.83,Expedited,System B,False
+CASE_00443,Activity_3,2023-03-14 09:00:23.114093,2023-03-14 11:02:23.114093,CUST_1399,Low,In-Person,Operations,Type A,8916.17,Operations_Agent_3,122,141.16,Expedited,System B,False
+CASE_00444,Activity_3,2023-10-23 10:12:42.533623,2023-10-23 17:12:42.533623,CUST_5988,High,Phone,Sales,Type A,8680.33,Sales_Agent_3,420,83.63,Expedited,System A,True
+CASE_00445,Activity_1,2023-03-03 09:00:29.639790,2023-03-03 10:05:29.639790,CUST_2991,High,In-Person,Operations,Type C,8350.53,Operations_Agent_2,65,83.51,Expedited,System B,False
+CASE_00445,Activity_2,2023-03-03 10:05:29.639790,2023-03-03 13:56:29.639790,CUST_2991,High,In-Person,Operations,Type C,8350.53,Operations_Agent_2,231,83.95,Completed,System A,False
+CASE_00445,Activity_3,2023-03-03 13:56:29.639790,2023-03-03 17:27:29.639790,CUST_2991,High,In-Person,Operations,Type C,8350.53,Operations_Agent_1,211,137.04,Completed,System B,False
+CASE_00446,Activity_1,2023-09-19 09:00:21.025792,2023-09-19 11:58:21.025792,CUST_9818,High,Web,Customer Service,Type B,8803.74,Customer_Agent_1,178,137.64,Completed,System B,True
+CASE_00446,Activity_2,2023-09-19 11:58:21.025792,2023-09-19 14:21:21.025792,CUST_9818,High,Web,Customer Service,Type B,8803.74,Customer_Agent_3,143,130.43,Expedited,System C,True
+CASE_00446,Activity_3,2023-09-19 14:21:21.025792,2023-09-20 09:00:21.025792,CUST_9818,High,Web,Customer Service,Type B,8803.74,Customer_Agent_2,246,125.16,Delayed,System C,False
+CASE_00447,Activity_1,2023-10-17 09:00:03.676913,2023-10-17 14:45:03.676913,CUST_8383,High,Email,Operations,Type B,225.63,Operations_Agent_2,345,99.01,Expedited,System B,True
+CASE_00447,Activity_2,2023-10-17 14:45:03.676913,2023-10-18 09:00:03.676913,CUST_8383,High,Email,Operations,Type B,225.63,Operations_Agent_2,442,106.89,Expedited,System B,True
+CASE_00447,Activity_3,2023-10-18 09:00:03.676913,2023-10-18 10:02:03.676913,CUST_8383,High,Email,Operations,Type B,225.63,Operations_Agent_2,62,93.87,Expedited,System B,True
+CASE_00448,Activity_3,2023-03-28 09:00:47.390488,2023-03-28 12:21:47.390488,CUST_9094,High,Phone,Legal,Type A,4990.52,Legal_Agent_1,201,151.64,Completed,System C,False
+CASE_00449,Activity_1,2023-06-29 11:21:33.503444,2023-06-29 14:08:33.503444,CUST_8538,High,Phone,Finance,Type C,3053.2,Finance_Agent_1,167,208.53,Delayed,System A,True
+CASE_00449,Activity_2,2023-06-29 14:08:33.503444,2023-06-29 17:31:33.503444,CUST_8538,High,Phone,Finance,Type C,3053.2,Finance_Agent_2,203,112.12,Delayed,System A,True
+CASE_00449,Activity_3,2023-06-29 17:31:33.503444,2023-06-30 09:00:33.503444,CUST_8538,High,Phone,Finance,Type C,3053.2,Finance_Agent_2,394,156.08,Completed,System C,True
+CASE_00450,Activity_1,2023-10-06 09:00:45.437376,2023-10-06 09:40:45.437376,CUST_1021,Medium,Email,Sales,Type B,3236.56,Sales_Agent_1,40,88.52,Completed,System C,False
+CASE_00450,Activity_2,2023-10-06 09:40:45.437376,2023-10-06 16:04:45.437376,CUST_1021,Medium,Email,Sales,Type B,3236.56,Sales_Agent_3,384,80.4,Expedited,System C,False
+CASE_00450,Activity_3,2023-10-06 16:04:45.437376,2023-10-06 17:01:45.437376,CUST_1021,Medium,Email,Sales,Type B,3236.56,Sales_Agent_1,57,101.32,Expedited,System A,True
+CASE_00451,Activity_3,2023-05-23 09:00:04.821587,2023-05-23 13:17:04.821587,CUST_4888,High,Phone,Finance,Type C,456.43,Finance_Agent_2,257,125.6,Delayed,System B,True
+CASE_00452,Activity_1,2023-01-03 15:30:22.434202,2023-01-04 09:00:22.434202,CUST_9649,Medium,Phone,Finance,Type B,6873.46,Finance_Agent_2,427,168.69,Delayed,System C,True
+CASE_00452,Activity_2,2023-01-04 09:00:22.434202,2023-01-04 13:48:22.434202,CUST_9649,Medium,Phone,Finance,Type B,6873.46,Finance_Agent_1,288,163.56,Expedited,System B,False
+CASE_00452,Activity_3,2023-01-04 13:48:22.434202,2023-01-05 09:00:22.434202,CUST_9649,Medium,Phone,Finance,Type B,6873.46,Finance_Agent_2,440,131.03,Expedited,System B,False
+CASE_00453,Activity_1,2023-05-26 15:19:04.831934,2023-05-30 09:00:04.831934,CUST_1151,Low,Phone,Legal,Type A,529.23,Legal_Agent_3,212,161.02,Completed,System C,False
+CASE_00453,Activity_2,2023-05-30 09:00:04.831934,2023-05-30 13:03:04.831934,CUST_1151,Low,Phone,Legal,Type A,529.23,Legal_Agent_3,243,228.27,Delayed,System A,False
+CASE_00453,Activity_3,2023-05-30 13:03:04.831934,2023-05-30 14:37:04.831934,CUST_1151,Low,Phone,Legal,Type A,529.23,Legal_Agent_1,94,162.35,Delayed,System B,True
+CASE_00454,Activity_1,2023-02-03 09:00:39.300603,2023-02-03 14:57:39.300603,CUST_7701,High,In-Person,Finance,Type B,1729.88,Finance_Agent_1,357,173.27,Expedited,System C,True
+CASE_00454,Activity_2,2023-02-03 14:57:39.300603,2023-02-03 16:25:39.300603,CUST_7701,High,In-Person,Finance,Type B,1729.88,Finance_Agent_2,88,113.08,Completed,System B,False
+CASE_00454,Activity_3,2023-02-03 16:25:39.300603,2023-02-07 09:00:39.300603,CUST_7701,High,In-Person,Finance,Type B,1729.88,Finance_Agent_1,398,185.81,Completed,System A,True
+CASE_00455,Activity_3,2023-06-02 09:00:25.058321,2023-06-02 11:10:25.058321,CUST_4201,Medium,Web,Operations,Type C,5479.75,Operations_Agent_2,130,132.25,Delayed,System A,True
+CASE_00456,Activity_1,2023-12-12 09:00:30.411406,2023-12-12 13:13:30.411406,CUST_2340,Low,Web,Customer Service,Type A,2598.51,Customer_Agent_1,253,173.61,Delayed,System A,False
+CASE_00456,Activity_2,2023-12-12 13:13:30.411406,2023-12-12 15:56:30.411406,CUST_2340,Low,Web,Customer Service,Type A,2598.51,Customer_Agent_1,163,172.16,Delayed,System A,True
+CASE_00456,Activity_3,2023-12-12 15:56:30.411406,2023-12-12 17:43:30.411406,CUST_2340,Low,Web,Customer Service,Type A,2598.51,Customer_Agent_3,107,106.61,Delayed,System A,False
+CASE_00457,Activity_1,2023-02-14 09:00:11.010204,2023-02-14 10:23:11.010204,CUST_3064,High,Phone,Finance,Type B,8828.03,Finance_Agent_2,83,172.33,Expedited,System B,False
+CASE_00457,Activity_2,2023-02-14 10:23:11.010204,2023-02-14 14:01:11.010204,CUST_3064,High,Phone,Finance,Type B,8828.03,Finance_Agent_2,218,186.42,Expedited,System A,False
+CASE_00457,Activity_3,2023-02-14 14:01:11.010204,2023-02-14 17:54:11.010204,CUST_3064,High,Phone,Finance,Type B,8828.03,Finance_Agent_1,233,130.11,Delayed,System C,True
+CASE_00458,Activity_3,2023-12-08 09:00:18.683522,2023-12-08 15:09:18.683522,CUST_1868,Medium,Email,Sales,Type C,4130.69,Sales_Agent_2,369,110.73,Delayed,System A,False
+CASE_00459,Activity_3,2023-08-07 13:20:37.771919,2023-08-08 09:00:37.771919,CUST_3140,High,Phone,Legal,Type A,9710.6,Legal_Agent_1,395,211.17,Expedited,System A,True
+CASE_00460,Activity_1,2023-10-20 09:14:30.645180,2023-10-20 14:01:30.645180,CUST_4257,Medium,In-Person,Legal,Type C,1107.41,Legal_Agent_2,287,182.04,Completed,System B,True
+CASE_00460,Activity_2,2023-10-20 14:01:30.645180,2023-10-20 17:05:30.645180,CUST_4257,Medium,In-Person,Legal,Type C,1107.41,Legal_Agent_1,184,217.34,Completed,System C,False
+CASE_00460,Activity_3,2023-10-20 17:05:30.645180,2023-10-24 09:00:30.645180,CUST_4257,Medium,In-Person,Legal,Type C,1107.41,Legal_Agent_3,240,166.39,Delayed,System B,False
+CASE_00461,Activity_3,2023-09-05 09:00:11.858646,2023-09-05 10:23:11.858646,CUST_3525,Low,Web,Finance,Type A,7549.52,Finance_Agent_2,83,111.85,Completed,System A,True
+CASE_00462,Activity_1,2023-04-25 09:00:02.802891,2023-04-25 10:51:02.802891,CUST_2043,Medium,Phone,Finance,Type A,3824.88,Finance_Agent_2,111,110.7,Completed,System A,False
+CASE_00462,Activity_2,2023-04-25 10:51:02.802891,2023-04-25 15:57:02.802891,CUST_2043,Medium,Phone,Finance,Type A,3824.88,Finance_Agent_2,306,147.01,Delayed,System A,False
+CASE_00462,Activity_3,2023-04-25 15:57:02.802891,2023-04-25 16:35:02.802891,CUST_2043,Medium,Phone,Finance,Type A,3824.88,Finance_Agent_1,38,138.79,Delayed,System C,True
+CASE_00463,Activity_1,2023-09-26 09:00:21.153146,2023-09-26 14:09:21.153146,CUST_9150,High,Email,Finance,Type B,7352.36,Finance_Agent_2,309,138.78,Delayed,System A,False
+CASE_00463,Activity_2,2023-09-26 14:09:21.153146,2023-09-27 09:00:21.153146,CUST_9150,High,Email,Finance,Type B,7352.36,Finance_Agent_1,475,193.79,Completed,System B,True
+CASE_00463,Activity_3,2023-09-27 09:00:21.153146,2023-09-27 12:43:21.153146,CUST_9150,High,Email,Finance,Type B,7352.36,Finance_Agent_2,223,188.73,Completed,System A,False
+CASE_00464,Activity_3,2023-12-13 14:53:14.394433,2023-12-14 09:00:14.394433,CUST_7378,Low,In-Person,Sales,Type C,5554.15,Sales_Agent_3,364,102.48,Completed,System A,True
+CASE_00465,Activity_1,2023-04-04 17:10:36.787253,2023-04-05 09:00:36.787253,CUST_9601,Low,Email,Finance,Type A,4915.07,Finance_Agent_2,389,141.35,Completed,System C,False
+CASE_00465,Activity_2,2023-04-05 09:00:36.787253,2023-04-05 14:24:36.787253,CUST_9601,Low,Email,Finance,Type A,4915.07,Finance_Agent_1,324,141.34,Expedited,System C,False
+CASE_00465,Activity_3,2023-04-05 14:24:36.787253,2023-04-05 16:23:36.787253,CUST_9601,Low,Email,Finance,Type A,4915.07,Finance_Agent_2,119,115.7,Delayed,System C,True
+CASE_00466,Activity_1,2023-06-29 09:12:13.196831,2023-06-29 10:26:13.196831,CUST_1565,Low,Phone,Customer Service,Type A,2394.44,Customer_Agent_3,74,125.13,Delayed,System C,True
+CASE_00466,Activity_2,2023-06-29 10:26:13.196831,2023-06-29 14:08:13.196831,CUST_1565,Low,Phone,Customer Service,Type A,2394.44,Customer_Agent_1,222,93.75,Expedited,System B,False
+CASE_00466,Activity_3,2023-06-29 14:08:13.196831,2023-06-30 09:00:13.196831,CUST_1565,Low,Phone,Customer Service,Type A,2394.44,Customer_Agent_2,308,116.48,Delayed,System A,True
+CASE_00467,Activity_1,2023-12-05 13:25:42.828450,2023-12-06 09:00:42.828450,CUST_5144,High,Email,Operations,Type C,6541.34,Operations_Agent_3,441,109.0,Expedited,System A,True
+CASE_00467,Activity_2,2023-12-06 09:00:42.828450,2023-12-06 15:42:42.828450,CUST_5144,High,Email,Operations,Type C,6541.34,Operations_Agent_1,402,84.4,Expedited,System A,False
+CASE_00467,Activity_3,2023-12-06 15:42:42.828450,2023-12-06 16:23:42.828450,CUST_5144,High,Email,Operations,Type C,6541.34,Operations_Agent_2,41,161.46,Expedited,System B,False
+CASE_00468,Activity_3,2023-03-23 09:00:10.938401,2023-03-23 11:05:10.938401,CUST_2604,High,In-Person,Customer Service,Type B,4769.04,Customer_Agent_1,125,163.73,Completed,System C,False
+CASE_00469,Activity_1,2023-06-30 09:00:54.148092,2023-06-30 14:20:54.148092,CUST_7376,Medium,Web,Legal,Type B,2170.63,Legal_Agent_3,320,215.79,Delayed,System A,True
+CASE_00469,Activity_2,2023-06-30 14:20:54.148092,2023-07-04 09:00:54.148092,CUST_7376,Medium,Web,Legal,Type B,2170.63,Legal_Agent_3,409,193.13,Completed,System C,True
+CASE_00469,Activity_3,2023-07-04 09:00:54.148092,2023-07-04 13:53:54.148092,CUST_7376,Medium,Web,Legal,Type B,2170.63,Legal_Agent_3,293,185.89,Expedited,System A,True
+CASE_00470,Activity_3,2023-06-06 16:47:24.464821,2023-06-07 09:00:24.464821,CUST_9306,Low,Phone,Sales,Type A,2931.77,Sales_Agent_2,101,65.11,Delayed,System B,True
+CASE_00471,Activity_3,2023-12-12 14:09:03.743623,2023-12-12 15:08:03.743623,CUST_1970,High,In-Person,Finance,Type A,4510.21,Finance_Agent_1,59,113.66,Completed,System C,True
+CASE_00472,Activity_1,2023-09-07 12:43:12.550122,2023-09-07 17:23:12.550122,CUST_8404,Medium,Phone,Customer Service,Type B,6917.7,Customer_Agent_3,280,120.27,Completed,System B,True
+CASE_00472,Activity_2,2023-09-07 17:23:12.550122,2023-09-08 09:00:12.550122,CUST_8404,Medium,Phone,Customer Service,Type B,6917.7,Customer_Agent_3,220,152.91,Expedited,System C,True
+CASE_00472,Activity_3,2023-09-08 09:00:12.550122,2023-09-08 15:20:12.550122,CUST_8404,Medium,Phone,Customer Service,Type B,6917.7,Customer_Agent_3,380,90.2,Completed,System C,True
+CASE_00473,Activity_3,2023-05-09 09:00:24.175089,2023-05-09 15:16:24.175089,CUST_9850,Low,Phone,Legal,Type B,1366.3,Legal_Agent_3,376,163.24,Delayed,System C,False
+CASE_00474,Activity_3,2023-11-21 09:00:50.093769,2023-11-21 12:25:50.093769,CUST_4128,Low,Web,Finance,Type C,2929.76,Finance_Agent_2,205,159.21,Expedited,System B,False
+CASE_00475,Activity_1,2023-06-01 09:00:53.979312,2023-06-01 12:33:53.979312,CUST_9792,Medium,Email,Customer Service,Type B,413.79,Customer_Agent_2,213,174.03,Completed,System A,True
+CASE_00475,Activity_2,2023-06-01 12:33:53.979312,2023-06-01 15:41:53.979312,CUST_9792,Medium,Email,Customer Service,Type B,413.79,Customer_Agent_3,188,184.38,Delayed,System C,False
+CASE_00475,Activity_3,2023-06-01 15:41:53.979312,2023-06-02 09:00:53.979312,CUST_9792,Medium,Email,Customer Service,Type B,413.79,Customer_Agent_3,217,170.58,Expedited,System C,True
+CASE_00476,Activity_1,2023-10-09 09:00:47.044358,2023-10-09 12:05:47.044358,CUST_2295,High,Email,Operations,Type A,4688.39,Operations_Agent_1,185,87.27,Delayed,System B,True
+CASE_00476,Activity_2,2023-10-09 12:05:47.044358,2023-10-10 09:00:47.044358,CUST_2295,High,Email,Operations,Type A,4688.39,Operations_Agent_1,364,158.34,Expedited,System C,True
+CASE_00476,Activity_3,2023-10-10 09:00:47.044358,2023-10-10 12:39:47.044358,CUST_2295,High,Email,Operations,Type A,4688.39,Operations_Agent_1,219,85.96,Expedited,System C,True
+CASE_00477,Activity_3,2023-07-25 09:00:58.994146,2023-07-25 09:39:58.994146,CUST_9565,High,In-Person,Operations,Type C,835.99,Operations_Agent_3,39,153.3,Completed,System B,False
+CASE_00478,Activity_1,2023-02-07 14:15:15.622654,2023-02-08 09:00:15.622654,CUST_2822,Medium,In-Person,Customer Service,Type B,4480.21,Customer_Agent_3,390,118.71,Expedited,System B,True
+CASE_00478,Activity_2,2023-02-08 09:00:15.622654,2023-02-08 10:44:15.622654,CUST_2822,Medium,In-Person,Customer Service,Type B,4480.21,Customer_Agent_1,104,117.3,Completed,System C,False
+CASE_00478,Activity_3,2023-02-08 10:44:15.622654,2023-02-08 16:57:15.622654,CUST_2822,Medium,In-Person,Customer Service,Type B,4480.21,Customer_Agent_2,373,127.25,Expedited,System B,False
+CASE_00479,Activity_1,2023-02-14 09:00:37.283428,2023-02-14 09:41:37.283428,CUST_8593,High,Email,Finance,Type A,5224.96,Finance_Agent_2,41,112.85,Expedited,System A,True
+CASE_00479,Activity_2,2023-02-14 09:41:37.283428,2023-02-14 13:08:37.283428,CUST_8593,High,Email,Finance,Type A,5224.96,Finance_Agent_2,207,150.96,Expedited,System C,True
+CASE_00479,Activity_3,2023-02-14 13:08:37.283428,2023-02-15 09:00:37.283428,CUST_8593,High,Email,Finance,Type A,5224.96,Finance_Agent_2,404,159.02,Delayed,System C,False
+CASE_00480,Activity_3,2023-07-12 09:00:39.233988,2023-07-12 12:56:39.233988,CUST_5464,High,Phone,Finance,Type A,2450.14,Finance_Agent_2,236,170.61,Expedited,System C,False
+CASE_00481,Activity_1,2023-01-04 15:26:34.195245,2023-01-05 09:00:34.195245,CUST_6243,Medium,Email,Sales,Type C,4619.77,Sales_Agent_2,423,57.73,Completed,System B,False
+CASE_00481,Activity_2,2023-01-05 09:00:34.195245,2023-01-05 12:31:34.195245,CUST_6243,Medium,Email,Sales,Type C,4619.77,Sales_Agent_1,211,139.47,Completed,System B,True
+CASE_00481,Activity_3,2023-01-05 12:31:34.195245,2023-01-05 17:47:34.195245,CUST_6243,Medium,Email,Sales,Type C,4619.77,Sales_Agent_3,316,122.22,Delayed,System B,False
+CASE_00482,Activity_1,2023-06-14 09:00:06.587076,2023-06-14 15:22:06.587076,CUST_6787,Low,Web,Customer Service,Type C,8151.58,Customer_Agent_1,382,153.92,Delayed,System C,False
+CASE_00482,Activity_2,2023-06-14 15:22:06.587076,2023-06-14 16:22:06.587076,CUST_6787,Low,Web,Customer Service,Type C,8151.58,Customer_Agent_3,60,178.18,Delayed,System A,True
+CASE_00482,Activity_3,2023-06-14 16:22:06.587076,2023-06-15 09:00:06.587076,CUST_6787,Low,Web,Customer Service,Type C,8151.58,Customer_Agent_1,479,145.2,Expedited,System A,True
+CASE_00483,Activity_1,2023-01-31 17:59:52.026661,2023-02-01 09:00:52.026661,CUST_4610,Medium,Web,Finance,Type B,7765.22,Finance_Agent_2,48,128.03,Expedited,System C,True
+CASE_00483,Activity_2,2023-02-01 09:00:52.026661,2023-02-01 14:21:52.026661,CUST_4610,Medium,Web,Finance,Type B,7765.22,Finance_Agent_1,321,127.12,Delayed,System B,False
+CASE_00483,Activity_3,2023-02-01 14:21:52.026661,2023-02-01 16:57:52.026661,CUST_4610,Medium,Web,Finance,Type B,7765.22,Finance_Agent_2,156,189.83,Expedited,System C,False
+CASE_00484,Activity_1,2023-10-17 09:00:29.788473,2023-10-17 16:30:29.788473,CUST_4298,High,Phone,Legal,Type A,4631.88,Legal_Agent_2,450,184.65,Delayed,System A,False
+CASE_00484,Activity_2,2023-10-17 16:30:29.788473,2023-10-18 09:00:29.788473,CUST_4298,High,Phone,Legal,Type A,4631.88,Legal_Agent_1,275,227.98,Expedited,System C,True
+CASE_00484,Activity_3,2023-10-18 09:00:29.788473,2023-10-18 13:46:29.788473,CUST_4298,High,Phone,Legal,Type A,4631.88,Legal_Agent_1,286,204.65,Completed,System B,False
+CASE_00485,Activity_3,2023-06-09 09:00:36.469064,2023-06-09 09:46:36.469064,CUST_8275,Medium,Phone,Customer Service,Type C,8322.54,Customer_Agent_2,46,130.64,Delayed,System C,True
+CASE_00486,Activity_1,2023-01-25 09:48:21.177956,2023-01-25 17:29:21.177956,CUST_2314,Low,In-Person,Operations,Type A,6243.71,Operations_Agent_2,461,139.43,Completed,System B,False
+CASE_00486,Activity_2,2023-01-25 17:29:21.177956,2023-01-26 09:00:21.177956,CUST_2314,Low,In-Person,Operations,Type A,6243.71,Operations_Agent_2,125,153.3,Completed,System A,False
+CASE_00486,Activity_3,2023-01-26 09:00:21.177956,2023-01-26 14:45:21.177956,CUST_2314,Low,In-Person,Operations,Type A,6243.71,Operations_Agent_2,345,104.39,Expedited,System A,True
+CASE_00487,Activity_3,2023-10-05 15:55:37.286551,2023-10-06 09:00:37.286551,CUST_2603,Low,Phone,Operations,Type B,1233.16,Operations_Agent_3,392,169.25,Delayed,System A,False
+CASE_00488,Activity_1,2023-12-11 09:18:02.396511,2023-12-11 12:10:02.396511,CUST_6386,Low,In-Person,Legal,Type C,2674.45,Legal_Agent_1,172,143.61,Delayed,System C,True
+CASE_00488,Activity_2,2023-12-11 12:10:02.396511,2023-12-11 17:44:02.396511,CUST_6386,Low,In-Person,Legal,Type C,2674.45,Legal_Agent_3,334,133.97,Completed,System C,False
+CASE_00488,Activity_3,2023-12-11 17:44:02.396511,2023-12-12 09:00:02.396511,CUST_6386,Low,In-Person,Legal,Type C,2674.45,Legal_Agent_2,264,132.12,Completed,System B,False
+CASE_00489,Activity_1,2023-09-27 09:00:36.863527,2023-09-27 10:38:36.863527,CUST_7432,Low,Web,Finance,Type B,5096.74,Finance_Agent_2,98,204.64,Delayed,System B,True
+CASE_00489,Activity_2,2023-09-27 10:38:36.863527,2023-09-27 13:04:36.863527,CUST_7432,Low,Web,Finance,Type B,5096.74,Finance_Agent_1,146,153.71,Delayed,System A,True
+CASE_00489,Activity_3,2023-09-27 13:04:36.863527,2023-09-27 17:03:36.863527,CUST_7432,Low,Web,Finance,Type B,5096.74,Finance_Agent_2,239,208.99,Completed,System B,True
+CASE_00490,Activity_3,2023-06-22 10:10:48.955829,2023-06-22 12:52:48.955829,CUST_9904,Low,In-Person,Operations,Type C,6079.97,Operations_Agent_2,162,74.83,Expedited,System A,False
+CASE_00491,Activity_3,2023-07-27 09:00:17.051030,2023-07-27 11:42:17.051030,CUST_7916,High,Web,Customer Service,Type A,6645.43,Customer_Agent_2,162,189.66,Expedited,System C,False
+CASE_00492,Activity_1,2023-08-15 09:00:22.999144,2023-08-15 12:20:22.999144,CUST_6295,Medium,Web,Legal,Type C,3111.89,Legal_Agent_1,200,197.5,Delayed,System A,True
+CASE_00492,Activity_2,2023-08-15 12:20:22.999144,2023-08-15 17:20:22.999144,CUST_6295,Medium,Web,Legal,Type C,3111.89,Legal_Agent_1,300,209.97,Expedited,System B,True
+CASE_00492,Activity_3,2023-08-15 17:20:22.999144,2023-08-16 09:00:22.999144,CUST_6295,Medium,Web,Legal,Type C,3111.89,Legal_Agent_2,188,195.18,Delayed,System B,False
+CASE_00493,Activity_3,2023-04-11 09:00:11.169276,2023-04-11 11:02:11.169276,CUST_2263,High,Phone,Legal,Type C,3653.9,Legal_Agent_3,122,203.05,Delayed,System B,True
+CASE_00494,Activity_1,2023-07-11 09:00:33.793949,2023-07-11 09:50:33.793949,CUST_2268,High,Email,Legal,Type B,9694.03,Legal_Agent_2,50,219.32,Expedited,System B,True
+CASE_00494,Activity_2,2023-07-11 09:50:33.793949,2023-07-11 12:06:33.793949,CUST_2268,High,Email,Legal,Type B,9694.03,Legal_Agent_2,136,213.05,Delayed,System B,False
+CASE_00494,Activity_3,2023-07-11 12:06:33.793949,2023-07-11 17:55:33.793949,CUST_2268,High,Email,Legal,Type B,9694.03,Legal_Agent_2,349,132.61,Expedited,System B,True
+CASE_00495,Activity_3,2023-02-22 09:00:49.143737,2023-02-22 13:04:49.143737,CUST_5345,Medium,Web,Customer Service,Type A,1289.79,Customer_Agent_1,244,116.11,Delayed,System A,True
+CASE_00496,Activity_1,2023-06-30 09:00:39.559238,2023-06-30 16:37:39.559238,CUST_9682,High,Web,Operations,Type B,5144.37,Operations_Agent_1,457,108.0,Completed,System A,True
+CASE_00496,Activity_2,2023-06-30 16:37:39.559238,2023-07-04 09:00:39.559238,CUST_9682,High,Web,Operations,Type B,5144.37,Operations_Agent_3,181,70.18,Expedited,System C,False
+CASE_00496,Activity_3,2023-07-04 09:00:39.559238,2023-07-04 15:39:39.559238,CUST_9682,High,Web,Operations,Type B,5144.37,Operations_Agent_2,399,148.38,Delayed,System C,True
+CASE_00497,Activity_1,2023-02-02 09:00:38.886386,2023-02-02 14:40:38.886386,CUST_4382,High,Email,Finance,Type A,193.08,Finance_Agent_2,340,135.3,Expedited,System C,True
+CASE_00497,Activity_2,2023-02-02 14:40:38.886386,2023-02-02 15:13:38.886386,CUST_4382,High,Email,Finance,Type A,193.08,Finance_Agent_2,33,138.96,Completed,System B,True
+CASE_00497,Activity_3,2023-02-02 15:13:38.886386,2023-02-02 15:47:38.886386,CUST_4382,High,Email,Finance,Type A,193.08,Finance_Agent_2,34,179.35,Completed,System A,False
+CASE_00498,Activity_3,2023-01-16 09:00:03.334411,2023-01-16 10:22:03.334411,CUST_1551,Medium,Phone,Customer Service,Type B,8124.58,Customer_Agent_3,82,152.83,Delayed,System C,True
+CASE_00499,Activity_1,2023-12-01 09:00:58.565947,2023-12-01 09:47:58.565947,CUST_3086,Low,Web,Legal,Type B,7384.58,Legal_Agent_2,47,191.33,Completed,System A,True
+CASE_00499,Activity_2,2023-12-01 09:47:58.565947,2023-12-01 10:32:58.565947,CUST_3086,Low,Web,Legal,Type B,7384.58,Legal_Agent_3,45,131.91,Completed,System A,True
+CASE_00499,Activity_3,2023-12-01 10:32:58.565947,2023-12-01 15:26:58.565947,CUST_3086,Low,Web,Legal,Type B,7384.58,Legal_Agent_3,294,162.4,Completed,System C,True
+CASE_00500,Activity_3,2023-12-04 16:44:20.544060,2023-12-05 09:00:20.544060,CUST_7083,High,Email,Sales,Type A,1429.71,Sales_Agent_3,122,106.29,Completed,System B,False

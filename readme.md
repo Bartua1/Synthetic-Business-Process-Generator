@@ -1,11 +1,11 @@
 # Generador de Procesos Sintéticos
 
-Módulo de Python que genera procesos de negocio sintéticos y sus correspondientes registros de eventos. El generador crea hasta 2.500 procesos únicos con nombres de actividades realistas, asignación de recursos y datos de ejecución.
+Módulo de Python que genera procesos de negocio sintéticos y sus correspondientes registros de eventos. El generador crea hasta 2.500 procesos con nombres de actividades realistas, asignación de recursos y datos de ejecución.
 
 ## Características
 
 - Genera modelos de proceso con complejidad configurable
-- Crea nombres de actividades realistas mediante integración con LLM
+- Crea nombres de actividades realistas mediante integración con LLM (Probado con Llama 3.1 8B)
 - Produce registros de eventos con atributos detallados de casos y actividades
 - Soporta generación de procesos en múltiples hilos
 - Visualiza flujos de proceso utilizando GraphViz
@@ -52,7 +52,7 @@ brew install graphviz
 
 ## Uso
 
-1. Iniciar el servidor LMStudio (necesario para el nombrado inteligente de actividades)
+1. Iniciar el servidor LMStudio (necesario para el nombrado de actividades inteligente)
 
 2. Ejecutar el generador:
 ```bash
